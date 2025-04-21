@@ -1,0 +1,940 @@
+[
+    {
+      "question": "¿Cuál fue el principal objetivo inicial que impulsó la creación del Esquema Nacional de Seguridad?",
+      "options": [
+        "Regular el comercio electrónico",
+        "Garantizar el acceso electrónico seguro a servicios públicos",
+        "Establecer estándares para redes sociales"
+      ],
+      "answer": "Garantizar el acceso electrónico seguro a servicios públicos"
+    },
+    {
+      "question": "¿Qué aspecto fundamental garantiza el ENS en el tratamiento de información?",
+      "options": [
+        "La velocidad de procesamiento",
+        "La seguridad adecuada de los datos",
+        "La reducción de costes operativos"
+      ],
+      "answer": "La seguridad adecuada de los datos"
+    },
+    {
+      "question": "¿Qué característica NO es un objetivo directo del ENS según el RD 311/2022?",
+      "options": [
+        "Garantizar la confidencialidad de la información",
+        "Asegurar la disponibilidad de los servicios",
+        "Minimizar el uso de medios electrónicos"
+      ],
+      "answer": "Minimizar el uso de medios electrónicos"
+    },
+    {
+      "question": "El ENS se aplica principalmente en el ámbito de:",
+      "options": [
+        "Empresas privadas exclusivamente",
+        "Administración electrónica y servicios públicos",
+        "Redes sociales y plataformas digitales"
+      ],
+      "answer": "Administración electrónica y servicios públicos"
+    },
+    {
+      "question": "¿Qué principio fundamental del ENS asegura que las acciones sobre datos puedan ser rastreadas?",
+      "options": [
+        "Trazabilidad",
+        "Confidencialidad",
+        "Accesibilidad"
+      ],
+      "answer": "Trazabilidad"
+    },
+    {
+      "question": "¿Qué aspecto protege el ENS respecto a la información?",
+      "options": [
+        "Solo su formato digital",
+        "Su integridad, confidencialidad y disponibilidad",
+        "Exclusivamente su almacenamiento físico"
+      ],
+      "answer": "Su integridad, confidencialidad y disponibilidad"
+    },
+    {
+      "question": "La evolución del ENS mantuvo principalmente:",
+      "options": [
+        "Un cambio radical en sus fundamentos",
+        "Un espíritu continuista con mejoras",
+        "La eliminación de todos los principios anteriores"
+      ],
+      "answer": "Un espíritu continuista con mejoras"
+    },
+    {
+      "question": "¿Qué garantiza el ENS sobre los servicios electrónicos públicos?",
+      "options": [
+        "Que sean gratuitos para los usuarios",
+        "Que sean accesibles y seguros",
+        "Que utilicen las últimas tecnologías disponibles"
+      ],
+      "answer": "Que sean accesibles y seguros"
+    },
+    {
+      "question": "¿Qué aspecto NO forma parte de los objetivos del ENS?",
+      "options": [
+        "Protección contra accesos no autorizados",
+        "Garantizar la autenticidad de la información",
+        "Reducir el personal administrativo"
+      ],
+      "answer": "Reducir el personal administrativo"
+    },
+    {
+      "question": "El ENS establece requisitos mínimos para:",
+      "options": [
+        "La contratación de servicios cloud",
+        "La protección adecuada de información y servicios",
+        "La compra de equipos informáticos"
+      ],
+      "answer": "La protección adecuada de información y servicios"
+    },
+
+    {
+        "question": "¿Cuál de estos NO es uno de los principios básicos del ENS?",
+        "options": [
+          "Seguridad como proceso integral",
+          "Gestión de la seguridad basada en costes",
+          "Diferenciación de responsabilidades"
+        ],
+        "answer": "Gestión de la seguridad basada en costes"
+      },
+      {
+        "question": "El principio de 'seguridad como proceso integral' incluye:",
+        "options": [
+          "Solo elementos tecnológicos",
+          "Elementos humanos, materiales, técnicos y organizativos",
+          "Exclusivamente aspectos jurídicos"
+        ],
+        "answer": "Elementos humanos, materiales, técnicos y organizativos"
+      },
+      {
+        "question": "La gestión de riesgos en el ENS debe ser:",
+        "options": [
+          "Una actividad puntual al implementar sistemas",
+          "Una actividad continua y permanentemente actualizada",
+          "Solo necesaria para sistemas críticos"
+        ],
+        "answer": "Una actividad continua y permanentemente actualizada"
+      },
+      {
+        "question": "¿Qué aspecto NO forma parte del principio 'Prevención, detección, respuesta y conservación'?",
+        "options": [
+          "Restauración de servicios afectados",
+          "Reducción de superficie de exposición",
+          "Automatización completa de todos los procesos"
+        ],
+        "answer": "Automatización completa de todos los procesos"
+      },
+      {
+        "question": "Las 'líneas de defensa' en el ENS se refieren a:",
+        "options": [
+          "Capas de seguridad múltiples y complementarias",
+          "Un único sistema de protección robusto",
+          "Protección física exclusivamente"
+        ],
+        "answer": "Capas de seguridad múltiples y complementarias"
+      },
+      {
+        "question": "La vigilancia continua en el ENS permite:",
+        "options": [
+          "Detectar solo ataques externos",
+          "Identificar comportamientos anómalos y vulnerabilidades",
+          "Reducir costes operativos"
+        ],
+        "answer": "Identificar comportamientos anómalos y vulnerabilidades"
+      },
+      {
+        "question": "La diferenciación de responsabilidades separa claramente:",
+        "options": [
+          "El responsable de seguridad del responsable del sistema",
+          "Las tareas técnicas de las administrativas",
+          "Los proveedores de los usuarios"
+        ],
+        "answer": "El responsable de seguridad del responsable del sistema"
+      },
+      {
+        "question": "El principio de reevaluación periódica exige:",
+        "options": [
+          "Mantener siempre las mismas medidas de seguridad",
+          "Actualizar medidas según evolucionen los riesgos",
+          "Cambiar todas las medidas anualmente"
+        ],
+        "answer": "Actualizar medidas según evolucionen los riesgos"
+      },
+      {
+        "question": "Las medidas de prevención pueden incluir:",
+        "options": [
+          "Solo protección contra virus",
+          "Componentes de disuasión y reducción de exposición",
+          "Exclusivamente firewalls"
+        ],
+        "answer": "Componentes de disuasión y reducción de exposición"
+      },
+      {
+        "question": "¿Qué garantiza el principio de conservación?",
+        "options": [
+          "La disponibilidad de servicios durante el ciclo vital de la información",
+          "El almacenamiento físico de documentos",
+          "La eliminación periódica de datos antiguos"
+        ],
+        "answer": "La disponibilidad de servicios durante el ciclo vital de la información"
+      },
+      {
+        "question": "Las líneas de defensa incluyen medidas:",
+        "options": [
+          "Solo de tipo tecnológico",
+          "Organizativas, físicas y lógicas",
+          "Exclusivamente de control de acceso"
+        ],
+        "answer": "Organizativas, físicas y lógicas"
+      },
+      {
+        "question": "La gestión de riesgos busca:",
+        "options": [
+          "Eliminar completamente todos los riesgos",
+          "Mantener riesgos en niveles aceptables",
+          "Externalizar todos los riesgos"
+        ],
+        "answer": "Mantener riesgos en niveles aceptables"
+      },
+      {
+        "question": "El principio de respuesta ante incidentes está orientado a:",
+        "options": [
+          "Ocultar los incidentes ocurridos",
+          "Restaurar información y servicios afectados",
+          "Castigar a los responsables"
+        ],
+        "answer": "Restaurar información y servicios afectados"
+      },
+      {
+        "question": "La concienciación en seguridad es importante para:",
+        "options": [
+          "Solo el personal técnico",
+          "Evitar que la falta de conocimiento sea fuente de riesgo",
+          "Cumplir requisitos burocráticos"
+        ],
+        "answer": "Evitar que la falta de conocimiento sea fuente de riesgo"
+      },
+      {
+        "question": "La política de seguridad debe detallar:",
+        "options": [
+          "Solo las medidas técnicas",
+          "Atribuciones de cada responsable y mecanismos de coordinación",
+          "Exclusivamente los presupuestos asignados"
+        ],
+        "answer": "Atribuciones de cada responsable y mecanismos de coordinación"
+      },
+
+      {
+        "question": "¿A qué tipo de entidades se aplica principalmente el ENS?",
+        "options": [
+          "Exclusivamente a la Administración General del Estado",
+          "Al sector público en su conjunto",
+          "Solo a empresas privadas tecnológicas"
+        ],
+        "answer": "Al sector público en su conjunto"
+      },
+      {
+        "question": "¿Qué entidades forman parte del sector público institucional según el ENS?",
+        "options": [
+          "Solo ministerios y consejerías",
+          "Organismos públicos y entidades de derecho público vinculadas a las administraciones",
+          "Exclusivamente ayuntamientos"
+        ],
+        "answer": "Organismos públicos y entidades de derecho público vinculadas a las administraciones"
+      },
+      {
+        "question": "¿En qué caso el ENS se aplica a empresas privadas?",
+        "options": [
+          "Cuando tengan más de 50 empleados",
+          "Cuando presten servicios a entidades públicas para el ejercicio de sus competencias",
+          "Cuando desarrollen software de seguridad"
+        ],
+        "answer": "Cuando presten servicios a entidades públicas para el ejercicio de sus competencias"
+      },
+      {
+        "question": "¿Qué deben incluir los contratos públicos respecto al ENS?",
+        "options": [
+          "Requisitos para asegurar la conformidad con el ENS",
+          "El coste detallado de cada medida de seguridad",
+          "Nombres de los responsables técnicos"
+        ],
+        "answer": "Requisitos para asegurar la conformidad con el ENS"
+      },
+      {
+        "question": "¿Qué aspecto NO forma parte del ámbito subjetivo del ENS?",
+        "options": [
+          "Universidades públicas",
+          "Administraciones locales",
+          "Empresas privadas sin relación con lo público"
+        ],
+        "answer": "Empresas privadas sin relación con lo público"
+      },
+      {
+        "question": "¿Qué deben aprobar las empresas privadas cuando están sujetas al ENS?",
+        "options": [
+          "Una política de seguridad aprobada por su máximo órgano ejecutivo",
+          "Un presupuesto extraordinario para ciberseguridad",
+          "Un manual técnico detallado"
+        ],
+        "answer": "Una política de seguridad aprobada por su máximo órgano ejecutivo"
+      },
+      {
+        "question": "¿Qué se extiende también a la cadena de suministro de los contratistas?",
+        "options": [
+          "La obligación de conformidad con el ENS cuando sea necesario",
+          "La supervisión directa por parte del CCN",
+          "La auditoría diaria de sistemas"
+        ],
+        "answer": "La obligación de conformidad con el ENS cuando sea necesario"
+      },
+      {
+        "question": "¿Qué tipo de información está especialmente contemplada en el ENS?",
+        "options": [
+          "Información clasificada y secretos oficiales",
+          "Datos de redes sociales",
+          "Información comercial privada"
+        ],
+        "answer": "Información clasificada y secretos oficiales"
+      },
+      {
+        "question": "¿Qué se considera 'sistema de información' según el ENS?",
+        "options": [
+          "Solo los equipos informáticos físicos",
+          "Conjunto de aplicaciones, servicios y componentes para manejar información",
+          "Exclusivamente bases de datos"
+        ],
+        "answer": "Conjunto de aplicaciones, servicios y componentes para manejar información"
+      },
+      {
+        "question": "¿Qué elementos pueden ser considerados 'activos' según el ENS?",
+        "options": [
+          "Solo hardware y software",
+          "Información, datos, servicios, aplicaciones, equipos, comunicaciones y recursos humanos",
+          "Exclusivamente servidores y centros de datos"
+        ],
+        "answer": "Información, datos, servicios, aplicaciones, equipos, comunicaciones y recursos humanos"
+      },
+      {
+        "question": "¿A qué tipo de sistemas se aplica el ENS en entidades públicas?",
+        "options": [
+          "Solo a sistemas críticos",
+          "A los que gestionen competencias de la entidad",
+          "Exclusivamente a sistemas con información confidencial"
+        ],
+        "answer": "A los que gestionen competencias de la entidad"
+      },
+      {
+        "question": "¿Qué característica NO es requisito para aplicar el ENS a un sistema?",
+        "options": [
+          "Que esté sustentado en medios electrónicos",
+          "Que gestione competencias de una entidad pública",
+          "Que utilice tecnología de última generación"
+        ],
+        "answer": "Que utilice tecnología de última generación"
+      },
+      {
+        "question": "¿Por qué es conveniente aplicar el ENS incluso a información pública?",
+        "options": [
+          "Para preservar garantías como disponibilidad e integridad",
+          "Porque lo exige la normativa europea",
+          "Para reducir costes de mantenimiento"
+        ],
+        "answer": "Para preservar garantías como disponibilidad e integridad"
+      },
+      {
+        "question": "¿Qué organismos están incluidos en el ámbito subjetivo del ENS?",
+        "options": [
+          "Solo ministerios y organismos estatales",
+          "Administración General del Estado, CCAA y entidades locales",
+          "Exclusivamente organismos con información clasificada"
+        ],
+        "answer": "Administración General del Estado, CCAA y entidades locales"
+      },
+      {
+        "question": "¿Qué deben garantizar los contratos públicos respecto al ENS?",
+        "options": [
+          "Que los sistemas de los contratistas cumplan con el ENS",
+          "Que el personal tenga titulación superior",
+          "Que se use software propietario"
+        ],
+        "answer": "Que los sistemas de los contratistas cumplan con el ENS"
+      },
+      {
+        "question": "¿Cuál de estas NO es una dimensión de seguridad del ENS?",
+        "options": [
+          "Confidencialidad",
+          "Trazabilidad", 
+          "Rentabilidad"
+        ],
+        "answer": "Rentabilidad"
+      },
+      {
+        "question": "La propiedad que garantiza que los usuarios autorizados puedan acceder a los sistemas cuando lo necesitan se llama:",
+        "options": [
+          "Integridad",
+          "Disponibilidad",
+          "Autenticidad"
+        ],
+        "answer": "Disponibilidad"
+      },
+      {
+        "question": "Cuando hablamos de que la información no ha sido alterada sin autorización, nos referimos a:",
+        "options": [
+          "Confidencialidad",
+          "Integridad",
+          "Trazabilidad"
+        ],
+        "answer": "Integridad"
+      },
+      {
+        "question": "¿Qué dimensión garantiza que las acciones sobre datos puedan atribuirse a un responsable?",
+        "options": [
+          "Autenticidad",
+          "Trazabilidad",
+          "Disponibilidad"
+        ],
+        "answer": "Trazabilidad"
+      },
+      {
+        "question": "La protección contra accesos no autorizados a información se refiere a:",
+        "options": [
+          "Confidencialidad",
+          "Autenticidad",
+          "Disponibilidad"
+        ],
+        "answer": "Confidencialidad"
+      },
+      {
+        "question": "Verificar que un usuario es quien dice ser corresponde a:",
+        "options": [
+          "Autenticidad",
+          "Integridad",
+          "Trazabilidad"
+        ],
+        "answer": "Autenticidad"
+      },
+      {
+        "question": "¿Qué dimensión es más crítica para los servicios electrónicos?",
+        "options": [
+          "Disponibilidad",
+          "Confidencialidad",
+          "Trazabilidad"
+        ],
+        "answer": "Disponibilidad"
+      },
+      {
+        "question": "La dimensión que menos afecta directamente a la información pública es:",
+        "options": [
+          "Confidencialidad",
+          "Integridad",
+          "Disponibilidad"
+        ],
+        "answer": "Confidencialidad"
+      },
+      {
+        "question": "¿Qué dos dimensiones son clave para documentos oficiales?",
+        "options": [
+          "Integridad y Autenticidad",
+          "Disponibilidad y Trazabilidad",
+          "Confidencialidad y Rentabilidad"
+        ],
+        "answer": "Integridad y Autenticidad"
+      },
+      {
+        "question": "Los registros de quién accedió a un sistema son importantes para:",
+        "options": [
+          "Trazabilidad",
+          "Disponibilidad",
+          "Autenticidad"
+        ],
+        "answer": "Trazabilidad"
+      },
+      {
+        "question": "¿Qué dimensión previene que información sea visible por personas no autorizadas?",
+        "options": [
+          "Integridad",
+          "Confidencialidad",
+          "Autenticidad"
+        ],
+        "answer": "Confidencialidad"
+      },
+      {
+        "question": "La protección contra ataques de denegación de servicio afecta principalmente a:",
+        "options": [
+          "Disponibilidad",
+          "Integridad",
+          "Confidencialidad"
+        ],
+        "answer": "Disponibilidad"
+      },
+      {
+        "question": "¿Qué dimensión verifica el origen de los datos?",
+        "options": [
+          "Autenticidad",
+          "Trazabilidad",
+          "Integridad"
+        ],
+        "answer": "Autenticidad"
+      },
+      {
+        "question": "Un hash criptográfico protege principalmente la:",
+        "options": [
+          "Integridad",
+          "Confidencialidad",
+          "Disponibilidad"
+        ],
+        "answer": "Integridad"
+      },
+      {
+        "question": "¿Qué tres dimensiones se aplican principalmente a la información?",
+        "options": [
+          "Confidencialidad, Integridad y Trazabilidad",
+          "Disponibilidad, Autenticidad y Rentabilidad",
+          "Trazabilidad, Disponibilidad y Confidencialidad"
+        ],
+        "answer": "Confidencialidad, Integridad y Trazabilidad"
+      },
+      {
+        "question": "¿Qué debe contener obligatoriamente la Política de Seguridad según el ENS?",
+        "options": [
+          "Detalles técnicos exhaustivos de todas las medidas",
+          "Objetivos de la organización y marco legal aplicable",
+          "Listado completo de todo el personal"
+        ],
+        "answer": "Objetivos de la organización y marco legal aplicable"
+      },
+      {
+        "question": "¿Quién debe aprobar la Política de Seguridad en una organización pública?",
+        "options": [
+          "El departamento de TI",
+          "El responsable de seguridad",
+          "La dirección general de la organización"
+        ],
+        "answer": "La dirección general de la organización"
+      },
+      {
+        "question": "¿Qué característica debe tener la Política de Seguridad idealmente?",
+        "options": [
+          "Extensa y altamente técnica",
+          "Breve y comprensible",
+          "Confidencial y restringida"
+        ],
+        "answer": "Breve y comprensible"
+      },
+      {
+        "question": "¿Qué documento formaliza las medidas de seguridad seleccionadas?",
+        "options": [
+          "Declaración de Aplicabilidad",
+          "Manual Técnico de Seguridad",
+          "Reglamento Interno"
+        ],
+        "answer": "Declaración de Aplicabilidad"
+      },
+      {
+        "question": "¿Qué principio establece que los usuarios deben tener solo los permisos necesarios?",
+        "options": [
+          "Mínimo privilegio",
+          "Máxima restricción",
+          "Acceso universal"
+        ],
+        "answer": "Mínimo privilegio"
+      },
+      {
+        "question": "¿Qué aspecto NO es un requisito mínimo de seguridad del ENS?",
+        "options": [
+          "Gestión de personal",
+          "Continuidad de la actividad",
+          "Uso exclusivo de software nacional"
+        ],
+        "answer": "Uso exclusivo de software nacional"
+      },
+      {
+        "question": "¿Qué factor determina las medidas específicas a aplicar?",
+        "options": [
+          "Solo el tamaño de la organización",
+          "La categoría del sistema y análisis de riesgos",
+          "Exclusivamente el presupuesto disponible"
+        ],
+        "answer": "La categoría del sistema y análisis de riesgos"
+      },
+      {
+        "question": "¿Qué debe hacerse con los registros de actividad según el ENS?",
+        "options": [
+          "Eliminarlos periódicamente por privacidad",
+          "Mantenerlos para detectar actividades anómalas",
+          "Almacenarlos fuera del sistema"
+        ],
+        "answer": "Mantenerlos para detectar actividades anómalas"
+      },
+      {
+        "question": "¿Qué aspecto cubre el requisito de 'Protección de las instalaciones'?",
+        "options": [
+          "Solo seguridad física de edificios",
+          "Seguridad física y ambiental de sistemas",
+          "Protección contra incendios exclusivamente"
+        ],
+        "answer": "Seguridad física y ambiental de sistemas"
+      },
+      {
+        "question": "¿Qué permite el ENS respecto a las medidas del anexo II?",
+        "options": [
+          "Sustituirlas por medidas compensatorias justificadas",
+          "Ignorarlas si son complejas de implementar",
+          "Modificarlas libremente sin documentación"
+        ],
+        "answer": "Sustituirlas por medidas compensatorias justificadas"
+      },
+      {
+        "question": "¿Qué debe establecer la política sobre roles de seguridad?",
+        "options": [
+          "Solo los nombres de los responsables",
+          "Deberes, responsabilidades y procedimiento de designación",
+          "Exclusivamente los requisitos técnicos"
+        ],
+        "answer": "Deberes, responsabilidades y procedimiento de designación"
+      },
+      {
+        "question": "¿Qué requisito garantiza que los sistemas se mantengan actualizados?",
+        "options": [
+          "Integridad y actualización del sistema",
+          "Gestión de personal",
+          "Prevención ante sistemas interconectados"
+        ],
+        "answer": "Integridad y actualización del sistema"
+      },
+      {
+        "question": "¿Qué aspecto incluye el requisito de 'Profesionalidad'?",
+        "options": [
+          "Contratación de personal con cualificación adecuada",
+          "Uso exclusivo de profesionales externos",
+          "Exigir titulaciones superiores a todo el personal"
+        ],
+        "answer": "Contratación de personal con cualificación adecuada"
+      },
+      {
+        "question": "¿Qué debe considerar la política sobre riesgos de datos personales?",
+        "options": [
+          "Solo los requerimientos del ENS",
+          "Los riesgos derivados de su tratamiento",
+          "Exclusivamente los datos no personales"
+        ],
+        "answer": "Los riesgos derivados de su tratamiento"
+      },
+      {
+        "question": "¿Qué establece el requisito de 'Mejora continua'?",
+        "options": [
+          "Que las medidas deben revisarse y mejorarse periódicamente",
+          "Que los sistemas deben cambiarse cada 3 años",
+          "Que debe aumentarse el presupuesto anualmente"
+        ],
+        "answer": "Que las medidas deben revisarse y mejorarse periódicamente"
+      },
+      {
+        "question": "¿En cuántos grupos se dividen las medidas de seguridad del ENS?",
+        "options": [
+          "2 grupos: técnicas y organizativas",
+          "3 grupos: organizativo, operacional y protección",
+          "5 grupos según dimensiones de seguridad"
+        ],
+        "answer": "3 grupos: organizativo, operacional y protección"
+      },
+      {
+        "question": "¿Qué novedad introduce el RD 311/2022 para adaptar el ENS a sectores específicos?",
+        "options": [
+          "Las Guías STIC obligatorias",
+          "Los Perfiles de Cumplimiento Específico (PCE)",
+          "Las Auditorías Bianuales"
+        ],
+        "answer": "Los Perfiles de Cumplimiento Específico (PCE)"
+      },
+      {
+        "question": "¿Qué organismo valida los Perfiles de Cumplimiento Específico?",
+        "options": [
+          "El Ministerio de Hacienda",
+          "El Centro Criptológico Nacional (CCN)",
+          "La Agencia Española de Protección de Datos"
+        ],
+        "answer": "El Centro Criptológico Nacional (CCN)"
+      },
+      {
+        "question": "¿Qué caracteriza a las medidas del marco organizativo del ENS?",
+        "options": [
+          "Se centran en hardware específico",
+          "Gestionan la organización global de la seguridad",
+          "Son exclusivamente para protección de datos"
+        ],
+        "answer": "Gestionan la organización global de la seguridad"
+      },
+      {
+        "question": "Las medidas de protección (mp) se enfocan principalmente en:",
+        "options": [
+          "Proteger activos concretos según su naturaleza",
+          "Establecer políticas generales",
+          "Gestionar personal externo"
+        ],
+        "answer": "Proteger activos concretos según su naturaleza"
+      },
+      {
+        "question": "¿Cómo se estructuran los refuerzos de seguridad en el RD 311/2022?",
+        "options": [
+          "Como requisitos base + refuerzos opcionales",
+          "Como medidas únicas e inflexibles",
+          "Como recomendaciones no vinculantes"
+        ],
+        "answer": "Como requisitos base + refuerzos opcionales"
+      },
+      {
+        "question": "¿Qué serie de guías CCN-STIC es clave para implementar el ENS?",
+        "options": [
+          "Serie 500 sobre criptografía",
+          "Serie 800 sobre ENS",
+          "Serie 600 sobre redes"
+        ],
+        "answer": "Serie 800 sobre ENS"
+      },
+      {
+        "question": "Las medidas operacionales del ENS se centran en:",
+        "options": [
+          "Proteger la operación del sistema como conjunto integral",
+          "Contratación de servicios externos",
+          "Formación básica de usuarios"
+        ],
+        "answer": "Proteger la operación del sistema como conjunto integral"
+      },
+      {
+        "question": "¿Qué permite la notación [R1 o R2] en las medidas del ENS?",
+        "options": [
+          "Que se deben aplicar ambos refuerzos",
+          "Que se puede elegir entre un refuerzo u otro",
+          "Que son medidas excluyentes"
+        ],
+        "answer": "Que se puede elegir entre un refuerzo u otro"
+      },
+      {
+        "question": "¿Qué documento detalla las acciones para implementar medidas del ENS?",
+        "options": [
+          "Guía CCN-STIC-804",
+          "ISO 27001",
+          "Reglamento GDPR"
+        ],
+        "answer": "Guía CCN-STIC-804"
+      },
+      {
+        "question": "La proporcionalidad de las medidas del ENS depende principalmente de:",
+        "options": [
+          "El presupuesto anual disponible",
+          "La categoría de seguridad y dimensiones afectadas",
+          "El número de empleados de la organización"
+        ],
+        "answer": "La categoría de seguridad y dimensiones afectadas"
+      },
+      {
+        "question": "¿Qué guía se utiliza para verificar el cumplimiento de medidas del ENS?",
+        "options": [
+          "CCN-STIC-808",
+          "CCN-STIC-810",
+          "CCN-STIC-802"
+        ],
+        "answer": "CCN-STIC-808"
+      },
+      {
+        "question": "Los Perfiles de Cumplimiento Específico buscan:",
+        "options": [
+          "Aumentar la burocracia en seguridad",
+          "Adaptar el ENS de forma eficiente a sectores concretos",
+          "Eliminar medidas para sistemas básicos"
+        ],
+        "answer": "Adaptar el ENS de forma eficiente a sectores concretos"
+      },
+      {
+        "question": "¿Qué aspecto NO corresponde a medidas de protección (mp)?",
+        "options": [
+          "Protección de servidores específicos",
+          "Seguridad de aplicaciones concretas",
+          "Definición de políticas organizativas"
+        ],
+        "answer": "Definición de políticas organizativas"
+      },
+      {
+        "question": "Las guías CCN-STIC de la serie 800 son:",
+        "options": [
+          "Recomendaciones generales sin validez oficial",
+          "Documentos de referencia para auditorías ENS",
+          "Exclusivas para sistemas de categoría alta"
+        ],
+        "answer": "Documentos de referencia para auditorías ENS"
+      },
+      {
+        "question": "¿Qué principio del ENS exige que los usuarios tengan solo los permisos estrictamente necesarios?",
+        "options": [
+          "Máxima disponibilidad",
+          "Mínimo privilegio",
+          "Acceso universal controlado"
+        ],
+        "answer": "Mínimo privilegio"
+      },
+      {
+        "question": "Cuando el ENS habla de 'trazabilidad', se refiere a:",
+        "options": [
+          "Capacidad de rastrear operaciones hasta su responsable",
+          "Control de tiempos de respuesta",
+          "Registro de ubicaciones físicas"
+        ],
+        "answer": "Capacidad de rastrear operaciones hasta su responsable"
+      },
+      {
+        "question": "¿Qué documento contiene las medidas de seguridad seleccionadas para un sistema?",
+        "options": [
+          "Declaración de Aplicabilidad",
+          "Manual de Usuario",
+          "Registro de Auditoría"
+        ],
+        "answer": "Declaración de Aplicabilidad"
+      },
+      {
+        "question": "En el ENS, las medidas de tipo 'mp' se enfocan en:",
+        "options": [
+          "Protección de activos específicos",
+          "Políticas organizativas generales",
+          "Formación de personal"
+        ],
+        "answer": "Protección de activos específicos"
+      },
+      {
+        "question": "¿Qué dimensión de seguridad protege contra accesos no autorizados?",
+        "options": [
+          "Integridad",
+          "Confidencialidad",
+          "Trazabilidad"
+        ],
+        "answer": "Confidencialidad"
+      },
+      {
+        "question": "Los Perfiles de Cumplimiento Específico (PCE) deben ser validados por:",
+        "options": [
+          "Cada entidad individualmente",
+          "El Centro Criptológico Nacional",
+          "El Ministerio de Hacienda"
+        ],
+        "answer": "El Centro Criptológico Nacional"
+      },
+      {
+        "question": "¿Qué requisito del ENS garantiza que los sistemas se mantengan actualizados?",
+        "options": [
+          "Integridad y actualización del sistema",
+          "Gestión de contraseñas",
+          "Control de acceso físico"
+        ],
+        "answer": "Integridad y actualización del sistema"
+      },
+      {
+        "question": "La política de seguridad del ENS debe ser aprobada por:",
+        "options": [
+          "El departamento de TI",
+          "El responsable de seguridad",
+          "La máxima dirección de la organización"
+        ],
+        "answer": "La máxima dirección de la organización"
+      },
+      {
+        "question": "¿Qué guía del CCN se utiliza para verificar el cumplimiento de medidas?",
+        "options": [
+          "CCN-STIC-808",
+          "CCN-STIC-500",
+          "CCN-STIC-700"
+        ],
+        "answer": "CCN-STIC-808"
+      },
+      {
+        "question": "El principio de 'seguridad como proceso integral' incluye:",
+        "options": [
+          "Solo componentes tecnológicos",
+          "Elementos humanos, técnicos y organizativos",
+          "Exclusivamente medidas físicas"
+        ],
+        "answer": "Elementos humanos, técnicos y organizativos"
+      },
+      {
+        "question": "¿Qué permite la notación [R1 o R2] en las medidas del ENS?",
+        "options": [
+          "Obliga a aplicar ambos refuerzos",
+          "Permite elegir entre refuerzos alternativos",
+          "Indica medidas incompatibles"
+        ],
+        "answer": "Permite elegir entre refuerzos alternativos"
+      },
+      {
+        "question": "¿Qué tipo de entidades privadas deben cumplir con el ENS?",
+        "options": [
+          "Todas las empresas con más de 50 empleados",
+          "Las que presten servicios a entidades públicas para sus competencias",
+          "Solo empresas tecnológicas"
+        ],
+        "answer": "Las que presten servicios a entidades públicas para sus competencias"
+      },
+      {
+        "question": "La categorización de sistemas (básico, medio, alto) depende de:",
+        "options": [
+          "El impacto potencial en las dimensiones de seguridad",
+          "El presupuesto disponible",
+          "El número de usuarios"
+        ],
+        "answer": "El impacto potencial en las dimensiones de seguridad"
+      },
+      {
+        "question": "¿Qué principio del ENS exige múltiples capas de protección?",
+        "options": [
+          "Existencia de líneas de defensa",
+          "Mínimo privilegio",
+          "Gestión centralizada"
+        ],
+        "answer": "Existencia de líneas de defensa"
+      },
+      {
+        "question": "Las medidas operacionales ('op') del ENS se centran en:",
+        "options": [
+          "Proteger la operación global del sistema",
+          "Contratación de personal",
+          "Redacción de políticas"
+        ],
+        "answer": "Proteger la operación global del sistema"
+      },
+      {
+        "question": "¿Qué debe establecer la política de seguridad sobre roles?",
+        "options": [
+          "Solo los nombres de los responsables",
+          "Deberes, responsabilidades y procedimiento de designación",
+          "Exclusivamente requisitos técnicos"
+        ],
+        "answer": "Deberes, responsabilidades y procedimiento de designación"
+      },
+      {
+        "question": "La 'disponibilidad' como dimensión de seguridad garantiza:",
+        "options": [
+          "Que los datos no sean alterados",
+          "El acceso autorizado cuando se necesita",
+          "La confidencialidad estricta"
+        ],
+        "answer": "El acceso autorizado cuando se necesita"
+      },
+      {
+        "question": "¿Qué novedad introdujo el RD 311/2022 en la estructura de medidas?",
+        "options": [
+          "Requisitos base + refuerzos opcionales",
+          "Eliminación de todas las medidas anteriores",
+          "Obligatoriedad de certificaciones internacionales"
+        ],
+        "answer": "Requisitos base + refuerzos opcionales"
+      },
+      {
+        "question": "El análisis de riesgos en el ENS debe ser:",
+        "options": [
+          "Una actividad puntual inicial",
+          "Continuo y permanentemente actualizado",
+          "Opcional para sistemas básicos"
+        ],
+        "answer": "Continuo y permanentemente actualizado"
+      }
+  ]

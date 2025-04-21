@@ -1,0 +1,1170 @@
+[
+    {
+    "question": "¿Qué principio exige que los datos se traten de forma clara para el interesado?",
+    "options": [
+      "Minimización de datos",
+      "Limitación de la finalidad",
+      "Lícitud, lealtad y transparencia"
+    ],
+    "answer": "Lícitud, lealtad y transparencia"
+  }, {
+    "question": "¿Qué hace que un tratamiento de datos sea lícito?",
+    "options": [
+      "Tener una base jurídica válida",
+      "Realizarlo por una empresa registrada",
+      "Que los datos se almacenen en Europa"
+    ],
+    "answer": "Tener una base jurídica válida"
+  },
+  {
+    "question": "¿Cuál de las siguientes opciones constituye una base legítima para tratar datos?",
+    "options": [
+      "La curiosidad del responsable del tratamiento",
+      "El consentimiento del interesado",
+      "El uso de datos no personales"
+    ],
+    "answer": "El consentimiento del interesado"
+  },
+  {
+    "question": "Cuando el tratamiento es necesario para cumplir un contrato, ¿es lícito?",
+    "options": [
+      "Sí, siempre",
+      "No, salvo que haya consentimiento",
+      "Sí, es una base de legitimación"
+    ],
+    "answer": "Sí, es una base de legitimación"
+  },
+  {
+    "question": "¿Puede tratarse un dato sin consentimiento si existe una obligación legal?",
+    "options": [
+      "Sí, porque la ley lo permite",
+      "No, siempre se necesita consentimiento",
+      "Solo si los datos son públicos"
+    ],
+    "answer": "Sí, porque la ley lo permite"
+  },
+  {
+    "question": "¿En qué caso puede tratarse un dato para proteger a una persona sin su consentimiento?",
+    "options": [
+      "Para intereses comerciales",
+      "Por interés vital del afectado",
+      "Si el dato es antiguo"
+    ],
+    "answer": "Por interés vital del afectado"
+  },
+  {
+    "question": "¿Qué base permite tratar datos cuando se realiza una función en interés público?",
+    "options": [
+      "Consentimiento del interesado",
+      "Ejecución de contrato",
+      "Misión realizada en interés público"
+    ],
+    "answer": "Misión realizada en interés público"
+  },
+  {
+    "question": "¿Puede una empresa tratar datos personales por su propio interés legítimo?",
+    "options": [
+      "Sí, si no prevalecen los derechos del interesado",
+      "No, salvo que el dato sea irrelevante",
+      "Solo si el interesado es mayor de edad"
+    ],
+    "answer": "Sí, si no prevalecen los derechos del interesado"
+  },
+  {
+    "question": "¿Qué base jurídica no pueden invocar las autoridades públicas?",
+    "options": [
+      "Consentimiento",
+      "Interés público",
+      "Interés legítimo"
+    ],
+    "answer": "Interés legítimo"
+  },
+  {
+    "question": "¿Qué principio debe acompañar siempre al tratamiento de datos personales?",
+    "options": [
+      "Publicidad",
+      "Minimización de datos",
+      "Automatización"
+    ],
+    "answer": "Minimización de datos"
+  },
+  {
+    "question": "¿Qué debe hacer una organización antes de tratar datos personales?",
+    "options": [
+      "Publicar una nota en su página web",
+      "Verificar que dispone de una base legal válida",
+      "Solicitar el DNI del interesado"
+    ],
+    "answer": "Verificar que dispone de una base legal válida"
+  }
+  ,
+  {
+    "question": "¿Cuál es el principio que impide recoger más datos de los necesarios?",
+    "options": [
+      "Exactitud",
+      "Minimización de datos",
+      "Limitación del plazo de conservación"
+    ],
+    "answer": "Minimización de datos"
+  },{
+    "question": "¿Qué es el registro de actividades del tratamiento de datos?",
+    "options": [
+      "Una lista de correos electrónicos de los usuarios",
+      "Un documento que recoge todas las actividades de tratamiento de datos personales",
+      "Un informe financiero de la empresa"
+    ],
+    "answer": "Un documento que recoge todas las actividades de tratamiento de datos personales"
+  },
+  {
+    "question": "¿Quién está obligado a tener un registro de actividades de tratamiento?",
+    "options": [
+      "El responsable del tratamiento",
+      "Solo los empleados de recursos humanos",
+      "Solo las pequeñas empresas"
+    ],
+    "answer": "El responsable del tratamiento"
+  },
+  {
+    "question": "¿Qué objetivo tiene el registro de actividades de tratamiento?",
+    "options": [
+      "Aumentar las ventas",
+      "Documentar la responsabilidad y transparencia",
+      "Evaluar el rendimiento del personal"
+    ],
+    "answer": "Documentar la responsabilidad y transparencia"
+  },
+  {
+    "question": "¿Qué dato NO es obligatorio incluir en el registro del responsable del tratamiento?",
+    "options": [
+      "Nombre y contacto del responsable",
+      "Categorías de datos tratados",
+      "Salario de los empleados"
+    ],
+    "answer": "Salario de los empleados"
+  },
+  {
+    "question": "¿Qué información sobre los fines del tratamiento debe incluir el registro?",
+    "options": [
+      "Fines del tratamiento de los datos personales",
+      "Fines comerciales del responsable",
+      "Fines contables de la empresa"
+    ],
+    "answer": "Fines del tratamiento de los datos personales"
+  },
+  {
+    "question": "¿Qué categoría debe reflejarse en el registro sobre los interesados?",
+    "options": [
+      "Su orientación política",
+      "Las categorías de interesados",
+      "Sus redes sociales"
+    ],
+    "answer": "Las categorías de interesados"
+  },
+  {
+    "question": "¿Qué se debe indicar si hay transferencias a terceros países?",
+    "options": [
+      "Solo si el país lo exige",
+      "El país o la organización internacional receptora y las garantías adecuadas",
+      "No es necesario indicar nada"
+    ],
+    "answer": "El país o la organización internacional receptora y las garantías adecuadas"
+  },
+  {
+    "question": "¿Qué debe hacerse con el registro si lo solicita la autoridad de control?",
+    "options": [
+      "Modificarse para ocultar datos",
+      "Ponerlo a su disposición",
+      "Destruirlo por seguridad"
+    ],
+    "answer": "Ponerlo a su disposición"
+  },
+  {
+    "question": "¿Qué se debe incluir en el registro en relación con la seguridad?",
+    "options": [
+      "Medidas técnicas y organizativas de seguridad",
+      "El nombre del técnico informático",
+      "La contraseña del sistema"
+    ],
+    "answer": "Medidas técnicas y organizativas de seguridad"
+  },
+  {
+    "question": "¿Quién debe llevar un registro cuando actúa por cuenta de otro?",
+    "options": [
+      "El responsable únicamente",
+      "El delegado de protección de datos",
+      "El encargado del tratamiento"
+    ],
+    "answer": "El encargado del tratamiento"
+  },
+  {
+    "question": "¿Qué contiene el registro del encargado del tratamiento?",
+    "options": [
+      "Categorías de tratamientos realizados por cuenta del responsable",
+      "Datos médicos de los usuarios",
+      "Los contratos laborales de los empleados"
+    ],
+    "answer": "Categorías de tratamientos realizados por cuenta del responsable"
+  },
+  {
+    "question": "¿Cuál de los siguientes elementos NO se exige en el registro del encargado?",
+    "options": [
+      "Nombre del encargado",
+      "Categorías de datos personales",
+      "Medidas de seguridad si es posible"
+    ],
+    "answer": "Categorías de datos personales"
+  },{
+    "question": "¿Cuál es el objetivo principal del deber de información?",
+    "options": [
+      "Promocionar la empresa responsable del tratamiento",
+      "Permitir al interesado tomar decisiones informadas sobre sus datos",
+      "Evitar que el interesado ejerza sus derechos"
+    ],
+    "answer": "Permitir al interesado tomar decisiones informadas sobre sus datos"
+  },
+  {
+    "question": "¿Cuándo debe facilitarse la información al interesado si los datos se recogen directamente de él?",
+    "options": [
+      "Antes de la recolección de los datos",
+      "En cualquier momento del tratamiento",
+      "En el momento en que se obtienen los datos"
+    ],
+    "answer": "En el momento en que se obtienen los datos"
+  },
+  {
+    "question": "¿Qué información debe incluirse según el RGPD cuando se recogen datos directamente del interesado?",
+    "options": [
+      "Solo el nombre de la empresa",
+      "Los fines del tratamiento, base jurídica y datos del responsable",
+      "La dirección IP del usuario"
+    ],
+    "answer": "Los fines del tratamiento, base jurídica y datos del responsable"
+  },
+  {
+    "question": "¿Qué derecho se informa cuando el tratamiento se basa en el consentimiento?",
+    "options": [
+      "Derecho a indemnización automática",
+      "Derecho a retirar el consentimiento en cualquier momento",
+      "Derecho a la nacionalidad digital"
+    ],
+    "answer": "Derecho a retirar el consentimiento en cualquier momento"
+  },
+  {
+    "question": "¿Qué plazo tiene el responsable para informar si los datos no se obtienen del interesado?",
+    "options": [
+      "Una semana",
+      "Un mes como máximo",
+      "No hay plazo establecido"
+    ],
+    "answer": "Un mes como máximo"
+  },
+  {
+    "question": "¿Qué debe incluirse cuando se usan decisiones automatizadas con elaboración de perfiles?",
+    "options": [
+      "La fecha de nacimiento del programador",
+      "El importe de la inversión en tecnología",
+      "Información sobre la lógica aplicada y consecuencias previstas"
+    ],
+    "answer": "Información sobre la lógica aplicada y consecuencias previstas"
+  },
+  {
+    "question": "¿Qué modalidad de información permite la LOPDGDD para facilitar el cumplimiento del deber?",
+    "options": [
+      "Sistema por capas",
+      "Resumen en redes sociales",
+      "Testimonios de clientes"
+    ],
+    "answer": "Sistema por capas"
+  },{
+    "question": "¿Qué establece el RGPD sobre el ejercicio de los derechos de los interesados?",
+    "options": [
+      "Debe ser siempre gratuito",
+      "Debe ser gratuito salvo cuando el responsable considere lo contrario",
+      "Puede cobrarse una tarifa fija por cada solicitud"
+    ],
+    "answer": "Debe ser siempre gratuito"
+  },
+  {
+    "question": "¿En qué plazo debe responder el responsable a una solicitud para ejercer los derechos?",
+    "options": [
+      "En 48 horas",
+      "En un mes, prorrogable hasta dos",
+      "En tres meses"
+    ],
+    "answer": "En un mes, prorrogable hasta dos"
+  },
+  {
+    "question": "¿Qué información debe facilitarse al interesado si los datos personales no se han obtenido directamente de él?",
+    "options": [
+      "Solo la categoría de los datos",
+      "La fuente de los datos y las categorías de los mismos",
+      "El teléfono del responsable"
+    ],
+    "answer": "La fuente de los datos y las categorías de los mismos"
+  },
+  {
+    "question": "¿Qué derecho permite al interesado acceder a la información sobre sus datos personales?",
+    "options": [
+      "Derecho de acceso",
+      "Derecho de rectificación",
+      "Derecho de portabilidad"
+    ],
+    "answer": "Derecho de acceso"
+  },
+  {
+    "question": "¿Qué debe incluir la solicitud de rectificación según el RGPD?",
+    "options": [
+      "Solo la solicitud escrita",
+      "La corrección solicitada y, en su caso, la documentación justificativa",
+      "La cantidad de datos a rectificar"
+    ],
+    "answer": "La corrección solicitada y, en su caso, la documentación justificativa"
+  },
+  {
+    "question": "¿En qué caso el derecho de supresión no será aplicable según el RGPD?",
+    "options": [
+      "Para fines de archivo público o investigación científica",
+      "Cuando el interesado lo solicite de inmediato",
+      "Cuando se trate de datos sensibles"
+    ],
+    "answer": "Para fines de archivo público o investigación científica"
+  },
+  {
+    "question": "¿Qué implica el derecho de oposición del interesado?",
+    "options": [
+      "Que el responsable debe eliminar todos los datos",
+      "Que el responsable debe dejar de tratar los datos si no existe otro motivo legítimo",
+      "Que el interesado tiene derecho a modificar los datos"
+    ],
+    "answer": "Que el responsable debe dejar de tratar los datos si no existe otro motivo legítimo"
+  },
+  {
+    "question": "¿Qué puede hacer el responsable si la solicitud es manifiestamente infundada o excesiva?",
+    "options": [
+      "Negarse a actuar o cobrar un canon",
+      "Destruir los datos inmediatamente",
+      "Exigir documentación adicional sin necesidad"
+    ],
+    "answer": "Negarse a actuar o cobrar un canon"
+  },
+  {
+    "question": "¿Qué derecho permite al interesado trasladar sus datos personales entre responsables?",
+    "options": [
+      "Derecho de portabilidad",
+      "Derecho de rectificación",
+      "Derecho de supresión"
+    ],
+    "answer": "Derecho de portabilidad"
+  },
+  {
+    "question": "¿En qué casos se puede ejercer el derecho de limitación del tratamiento?",
+    "options": [
+      "Cuando los datos no sean suficientes",
+      "Cuando el interesado impugne la exactitud de los datos o los necesite para un procedimiento judicial",
+      "Cuando el responsable lo decida"
+    ],
+    "answer": "Cuando el interesado impugne la exactitud de los datos o los necesite para un procedimiento judicial"
+  },
+  {
+    "question": "¿Qué información debe proporcionar el responsable en relación con las decisiones automatizadas?",
+    "options": [
+      "La fecha exacta de la decisión automatizada",
+      "Información significativa sobre la lógica aplicada y consecuencias previstas",
+      "El número de perfiles afectados"
+    ],
+    "answer": "Información significativa sobre la lógica aplicada y consecuencias previstas"
+  },
+  {
+    "question": "¿Cuál es la condición para el ejercicio del derecho de portabilidad según el RGPD?",
+    "options": [
+      "El tratamiento se debe basar en el consentimiento o en un contrato",
+      "El interesado debe ser extranjero",
+      "Solo puede aplicarse a datos no sensibles"
+    ],
+    "answer": "El tratamiento se debe basar en el consentimiento o en un contrato"
+  },{
+    "question": "¿Qué define el RGPD como violación de la seguridad de los datos personales?",
+    "options": [
+      "Una alteración de la privacidad sin acceso no autorizado",
+      "Toda violación de la seguridad que ocasione destrucción, pérdida o alteración de los datos personales",
+      "Un incidente de acceso a datos no relacionados con la protección de datos"
+    ],
+    "answer": "Toda violación de la seguridad que ocasione destrucción, pérdida o alteración de los datos personales"
+  },
+  {
+    "question": "¿Qué es un ejemplo común de brecha de seguridad?",
+    "options": [
+      "La pérdida o divulgación de datos confidenciales",
+      "El cifrado de datos en tránsito",
+      "La correcta protección de contraseñas"
+    ],
+    "answer": "La pérdida o divulgación de datos confidenciales"
+  },
+  {
+    "question": "¿En qué plazo debe notificarse una violación de seguridad a la autoridad de control según el RGPD?",
+    "options": [
+      "En 48 horas",
+      "En 72 horas",
+      "En un mes"
+    ],
+    "answer": "En 72 horas"
+  },
+  {
+    "question": "¿Qué se debe incluir en la notificación a la autoridad de control en caso de brecha de seguridad?",
+    "options": [
+      "El número de afectados y los registros de datos comprometidos",
+      "Una lista detallada de todos los usuarios involucrados",
+      "El nombre del responsable del tratamiento solamente"
+    ],
+    "answer": "El número de afectados y los registros de datos comprometidos"
+  },
+  {
+    "question": "¿Cuándo es necesario comunicar la violación de seguridad al interesado?",
+    "options": [
+      "Cuando haya un alto riesgo para los derechos y libertades de los interesados",
+      "Cuando el responsable lo decida",
+      "Solo si la violación afecta a datos sensibles"
+    ],
+    "answer": "Cuando haya un alto riesgo para los derechos y libertades de los interesados"
+  },
+  {
+    "question": "¿Qué debe incluir la comunicación al interesado en caso de violación de seguridad?",
+    "options": [
+      "Una descripción clara de la naturaleza de la violación y las medidas adoptadas",
+      "Solo la descripción de los datos afectados",
+      "El nombre del delegado de protección de datos"
+    ],
+    "answer": "Una descripción clara de la naturaleza de la violación y las medidas adoptadas"
+  },
+  {
+    "question": "¿Qué sucede si el responsable del tratamiento no notifica la brecha en 72 horas?",
+    "options": [
+      "Puede ser multado sin necesidad de justificar el retraso",
+      "Debe incluir en la notificación los motivos de la dilación",
+      "La notificación es innecesaria si el riesgo es bajo"
+    ],
+    "answer": "Debe incluir en la notificación los motivos de la dilación"
+  },
+  {
+    "question": "¿Qué medidas podrían eximir a la organización de la obligación de informar al interesado sobre la brecha?",
+    "options": [
+      "El responsable adopta medidas técnicas como el cifrado de los datos",
+      "El responsable no puede localizar a los interesados",
+      "El responsable toma medidas de seguridad, pero no tiene tiempo para notificarlos"
+    ],
+    "answer": "El responsable adopta medidas técnicas como el cifrado de los datos"
+  },{
+    "question": "¿Qué función tiene el DPD respecto al cumplimiento normativo?",
+    "options": [
+      "Controlar el cumplimiento del código ético de la organización",
+      "Garantizar que la organización cumpla con las leyes de protección de datos",
+      "Auditar todos los contratos de la organización"
+    ],
+    "answer": "Garantizar que la organización cumpla con las leyes de protección de datos"
+  },
+  {
+    "question": "¿A quién debe informar y asesorar el DPD?",
+    "options": [
+      "Solo al encargado de la protección de datos",
+      "Al responsable, al encargado y a los empleados",
+      "Solo a los empleados sobre la privacidad de los datos"
+    ],
+    "answer": "Al responsable, al encargado y a los empleados"
+  },
+  {
+    "question": "¿Qué debe hacer el DPD respecto a la evaluación de impacto de protección de datos (EIPD)?",
+    "options": [
+      "Supervisar su aplicación y asesorar sobre su realización",
+      "Rechazar cualquier EIPD que no cumpla con la normativa",
+      "Realizar todas las evaluaciones de impacto directamente"
+    ],
+    "answer": "Supervisar su aplicación y asesorar sobre su realización"
+  },
+  {
+    "question": "¿Con qué autoridades debe cooperar el DPD?",
+    "options": [
+      "Con las autoridades tributarias",
+      "Con las autoridades de protección de datos",
+      "Con todas las autoridades locales"
+    ],
+    "answer": "Con las autoridades de protección de datos"
+  },
+  {
+    "question": "¿Cuál es uno de los roles del DPD en relación con las autoridades de protección de datos?",
+    "options": [
+      "Actuar como representante legal de la organización",
+      "Ser el punto de contacto entre la organización y las autoridades de protección de datos",
+      "Gestionar la política de seguros de la organización"
+    ],
+    "answer": "Ser el punto de contacto entre la organización y las autoridades de protección de datos"
+  },
+  {
+    "question": "¿Qué debe hacer el DPD en cuanto a la cultura organizacional?",
+    "options": [
+      "Imponer sanciones en caso de incumplimiento",
+      "Fomentar una cultura de protección de datos",
+      "Eliminar todos los sistemas que no sean seguros"
+    ],
+    "answer": "Fomentar una cultura de protección de datos"
+  },
+  {
+    "question": "¿Qué cualidades debe tener un DPD según el RGPD?",
+    "options": [
+      "Ser experto en marketing y ventas",
+      "Tener conocimientos especializados en derecho y protección de datos",
+      "Ser un ingeniero en sistemas informáticos"
+    ],
+    "answer": "Tener conocimientos especializados en derecho y protección de datos"
+  },
+  {
+    "question": "¿En qué situaciones es obligatorio nombrar a un DPD?",
+    "options": [
+      "Cuando una empresa tiene más de 100 empleados",
+      "Cuando el tratamiento involucra categorías especiales de datos o un seguimiento a gran escala",
+      "Solo en empresas que operan fuera de la UE"
+    ],
+    "answer": "Cuando el tratamiento involucra categorías especiales de datos o un seguimiento a gran escala"
+  },
+  {
+    "question": "¿Qué tipo de conocimiento se requiere para ser DPD?",
+    "options": [
+      "Conocimientos en tecnología pero no en legislación",
+      "Conocimiento especializado del derecho y la práctica en protección de datos",
+      "Ningún conocimiento específico es necesario"
+    ],
+    "answer": "Conocimiento especializado del derecho y la práctica en protección de datos"
+  },
+  {
+    "question": "¿Qué ocurre si la organización no tiene un DPD cuando es obligatorio?",
+    "options": [
+      "La organización es multada automáticamente",
+      "No hay sanciones, pero se corre el riesgo de no cumplir con el RGPD",
+      "La autoridad de protección de datos asumirá el rol del DPD"
+    ],
+    "answer": "No hay sanciones, pero se corre el riesgo de no cumplir con el RGPD"
+  },
+  {
+    "question": "¿Qué es necesario para que una violación de seguridad se considere una brecha de datos personales?",
+    "options": [
+      "Que se haya producido un incidente técnico con la infraestructura",
+      "Que se haya ocurrido una alteración o acceso no autorizado a los datos personales",
+      "Que los datos no hayan sido cifrados previamente"
+    ],
+    "answer": "Que se haya ocurrido una alteración o acceso no autorizado a los datos personales"
+  },
+  {
+    "question": "¿Qué se debe documentar en relación con una violación de seguridad de datos personales?",
+    "options": [
+      "Solo la acción correctiva tomada",
+      "Los hechos, los efectos y las medidas correctivas adoptadas",
+      "El número total de incidentes de seguridad"
+    ],
+    "answer": "Los hechos, los efectos y las medidas correctivas adoptadas"
+  },
+  {
+    "question": "¿Qué debe hacer el responsable si se niega a actuar sobre la solicitud de ejercicio de derechos?",
+    "options": [
+      "Informar al interesado de las razones y derecho a presentar una reclamación ante una autoridad de control",
+      "Realizar una nueva solicitud al interesado",
+      "Ofrecer un reembolso de la solicitud"
+    ],
+    "answer": "Informar al interesado de las razones y derecho a presentar una reclamación ante una autoridad de control"
+  },
+  {
+    "question": "¿Qué implica el derecho de supresión en relación con los datos personales?",
+    "options": [
+      "El derecho a que los datos sean eliminados cuando ya no sean necesarios para los fines para los que fueron recogidos",
+      "El derecho a modificar los datos personales",
+      "El derecho a recibir una compensación económica"
+    ],
+    "answer": "El derecho a que los datos sean eliminados cuando ya no sean necesarios para los fines para los que fueron recogidos"
+  },
+  {
+    "question": "¿El derecho a la rectificación es aplicable a qué tipo de datos?",
+    "options": [
+      "Solo a datos sensibles",
+      "Solo a datos incorrectos o incompletos",
+      "A todos los datos almacenados por el responsable"
+    ],
+    "answer": "Solo a datos incorrectos o incompletos"
+  },
+  {
+    "question": "¿Qué debe incluir como mínimo la capa básica de información?",
+    "options": [
+      "El salario del responsable",
+      "La finalidad del tratamiento y la identidad del responsable",
+      "La fecha de nacimiento del interesado"
+    ],
+    "answer": "La finalidad del tratamiento y la identidad del responsable"
+  },
+  {
+    "question": "Si los datos no se obtienen del interesado, ¿qué información adicional debe proporcionarse?",
+    "options": [
+      "Número de empleados del responsable",
+      "Categorías de datos tratados y fuente de procedencia",
+      "Idioma preferido del usuario"
+    ],
+    "answer": "Categorías de datos tratados y fuente de procedencia"
+  },
+  {
+    "question": "¿Qué derecho tiene el interesado relacionado con decisiones automatizadas según el artículo 22 del RGPD?",
+    "options": [
+      "El derecho a que sus datos sean públicos",
+      "El derecho a recibir publicidad segmentada",
+      "El derecho a oponerse a decisiones individuales automatizadas"
+    ],
+    "answer": "El derecho a oponerse a decisiones individuales automatizadas"
+  },
+  {
+    "question": "¿Qué se busca facilitar mediante el registro de actividades?",
+    "options": [
+      "La publicidad de la empresa",
+      "El cumplimiento de las normas de protección de datos",
+      "La contratación de personal"
+    ],
+    "answer": "El cumplimiento de las normas de protección de datos"
+  },
+  {
+    "question": "¿En qué casos se puede omitir el registro de actividades?",
+    "options": [
+      "Nunca debe omitirse",
+      "Solo si el tratamiento es ocasional y no implica riesgos",
+      "Si se trata de datos personales sensibles"
+    ],
+    "answer": "Solo si el tratamiento es ocasional y no implica riesgos"
+  },
+  {
+    "question": "¿Qué beneficio aporta el registro además de cumplir con la ley?",
+    "options": [
+      "Incrementar las ventas",
+      "Identificar riesgos y mejorar la seguridad",
+      "Eliminar la necesidad de informar al interesado"
+    ],
+    "answer": "Identificar riesgos y mejorar la seguridad"
+  },
+  {
+    "question": "¿Qué principio obliga a mantener los datos personales actualizados?",
+    "options": [
+      "Limitación de la finalidad",
+      "Exactitud",
+      "Integridad y confidencialidad"
+    ],
+    "answer": "Exactitud"
+  },
+  {
+    "question": "¿Qué principio establece que los datos solo deben usarse para los fines indicados al recogerlos?",
+    "options": [
+      "Limitación de la finalidad",
+      "Responsabilidad proactiva",
+      "Integridad"
+    ],
+    "answer": "Limitación de la finalidad"
+  },
+  {
+    "question": "El principio de integridad y confidencialidad exige que:",
+    "options": [
+      "Los datos se traten con fines científicos",
+      "Los datos estén protegidos frente a accesos no autorizados",
+      "Solo se recojan datos anónimos"
+    ],
+    "answer": "Los datos estén protegidos frente a accesos no autorizados"
+  },
+  {
+    "question": "¿Qué principio establece que los datos no deben guardarse más tiempo del necesario?",
+    "options": [
+      "Limitación del plazo de conservación",
+      "Limitación de la finalidad",
+      "Minimización de datos"
+    ],
+    "answer": "Limitación del plazo de conservación"
+  },
+  {
+    "question": "¿Qué significa el principio de responsabilidad proactiva?",
+    "options": [
+      "Que los datos deben ser fácilmente accesibles",
+      "Que el responsable debe demostrar el cumplimiento de los principios",
+      "Que el encargado puede decidir cómo se tratan los datos"
+    ],
+    "answer": "Que el responsable debe demostrar el cumplimiento de los principios"
+  },
+  {
+    "question": "Recoger datos sin informar al interesado vulnera el principio de:",
+    "options": [
+      "Minimización",
+      "Exactitud",
+      "Transparencia"
+    ],
+    "answer": "Transparencia"
+  },
+  {
+    "question": "El tratamiento de datos debe ser legítimo. ¿Qué principio refleja esto?",
+    "options": [
+      "Exactitud",
+      "Lícitud",
+      "Integridad"
+    ],
+    "answer": "Lícitud"
+  },
+  {
+    "question": "¿Qué principio obliga a adoptar medidas para evitar pérdidas o daños de datos?",
+    "options": [
+      "Confidencialidad",
+      "Integridad y confidencialidad",
+      "Minimización"
+    ],
+    "answer": "Integridad y confidencialidad"
+  },
+  {
+    "question": "¿Cuál de los siguientes principios está relacionado con el uso posterior de los datos?",
+    "options": [
+      "Limitación de la finalidad",
+      "Lícitud",
+      "Exactitud"
+    ],
+    "answer": "Limitación de la finalidad"
+  },
+  {
+    "question": "¿Qué debe poder demostrar el responsable del tratamiento?",
+    "options": [
+      "Que el interesado está de acuerdo con el uso comercial de los datos",
+      "Que cumple todos los principios del tratamiento",
+      "Que los datos han sido recogidos manualmente"
+    ],
+    "answer": "Que cumple todos los principios del tratamiento"
+  },
+  {
+    "question": "¿Qué principio protege al interesado contra tratamientos arbitrarios?",
+    "options": [
+      "Transparencia",
+      "Responsabilidad proactiva",
+      "Lícitud, lealtad y transparencia"
+    ],
+    "answer": "Lícitud, lealtad y transparencia"
+  },
+  {
+    "question": "Conservar datos personales durante años sin necesidad vulnera el principio de:",
+    "options": [
+      "Minimización",
+      "Limitación del plazo de conservación",
+      "Exactitud"
+    ],
+    "answer": "Limitación del plazo de conservación"
+  },
+  {
+    "question": "Tratar datos erróneos o desactualizados vulnera el principio de:",
+    "options": [
+      "Exactitud",
+      "Confidencialidad",
+      "Minimización"
+    ],
+    "answer": "Exactitud"
+  },
+  {
+    "question": "¿Qué principio garantiza que el tratamiento sea coherente con el fin legítimo declarado?",
+    "options": [
+      "Limitación de la finalidad",
+      "Responsabilidad proactiva",
+      "Minimización de datos"
+    ],
+    "answer": "Limitación de la finalidad"
+  },
+  {
+    "question": "¿Cuál es el objetivo de la minimización de datos?",
+    "options": [
+      "Recoger el máximo de datos posibles",
+      "Utilizar solo los datos imprescindibles",
+      "Analizar datos en masa"
+    ],
+    "answer": "Utilizar solo los datos imprescindibles"
+  },
+  {
+    "question": "¿Qué principio obliga a garantizar medidas de protección física y técnica sobre los datos?",
+    "options": [
+      "Transparencia",
+      "Limitación de la finalidad",
+      "Integridad y confidencialidad"
+    ],
+    "answer": "Integridad y confidencialidad"
+  },
+  {
+    "question": "Cuando se pide el consentimiento para tratar datos, ¿qué principio se está aplicando?",
+    "options": [
+      "Minimización",
+      "Transparencia",
+      "Responsabilidad"
+    ],
+    "answer": "Transparencia"
+  },
+  {
+    "question": "¿Qué principio implica que el responsable debe actuar antes de que haya una infracción?",
+    "options": [
+      "Responsabilidad proactiva",
+      "Limitación de la finalidad",
+      "Exactitud"
+    ],
+    "answer": "Responsabilidad proactiva"
+  },
+    {
+        "question": "¿Qué se considera un dato personal?",
+        "options": [
+          "La marca de un coche",
+          "Cualquier información sobre una persona física identificada o identificable",
+          "Un documento sobre una empresa"
+        ],
+        "answer": "Cualquier información sobre una persona física identificada o identificable"
+      },
+      {
+        "question": "¿Cuál de los siguientes ejemplos es un dato personal?",
+        "options": [
+          "El número de matrícula de un coche asignado a una persona",
+          "El nombre de una empresa",
+          "La dirección de un local comercial vacío"
+        ],
+        "answer": "El número de matrícula de un coche asignado a una persona"
+      },
+      {
+        "question": "¿Qué personas están protegidas por la normativa de protección de datos?",
+        "options": [
+          "Solo las personas jurídicas",
+          "Solo los menores de edad",
+          "Las personas físicas"
+        ],
+        "answer": "Las personas físicas"
+      },
+      {
+        "question": "¿Qué NO se considera un tratamiento de datos?",
+        "options": [
+          "Compartir datos con otra empresa",
+          "Leer datos personales sin hacer nada con ellos",
+          "Destruir los datos personales"
+        ],
+        "answer": "Leer datos personales sin hacer nada con ellos"
+      },
+      {
+        "question": "¿Quién es el interesado en el tratamiento de datos personales?",
+        "options": [
+          "La empresa que trata los datos",
+          "El organismo público que los recopila",
+          "La persona física cuyos datos son tratados"
+        ],
+        "answer": "La persona física cuyos datos son tratados"
+      },
+      {
+        "question": "¿Cuál de los siguientes roles toma decisiones sobre los fines del tratamiento?",
+        "options": [
+          "El encargado del tratamiento",
+          "El interesado",
+          "El responsable del tratamiento"
+        ],
+        "answer": "El responsable del tratamiento"
+      },
+      {
+        "question": "¿Qué función tiene el encargado del tratamiento?",
+        "options": [
+          "Determinar para qué se usan los datos",
+          "Tratar los datos por cuenta del responsable",
+          "Proteger los datos de su empresa"
+        ],
+        "answer": "Tratar los datos por cuenta del responsable"
+      },
+      {
+        "question": "¿Cuál es un ejemplo de tratamiento de datos?",
+        "options": [
+          "Registrar los datos de un cliente en un formulario",
+          "Mirar una pantalla en blanco",
+          "Contar el número de sillas en una sala"
+        ],
+        "answer": "Registrar los datos de un cliente en un formulario"
+      },
+      {
+        "question": "¿Qué entidad decide si los datos se ceden o no a terceros?",
+        "options": [
+          "El encargado del tratamiento",
+          "El interesado",
+          "El responsable del tratamiento"
+        ],
+        "answer": "El responsable del tratamiento"
+      },
+      {
+        "question": "¿Qué característica define a un dato como personal?",
+        "options": [
+          "Tiene valor económico",
+          "Puede identificar a una persona física",
+          "Está almacenado en papel"
+        ],
+        "answer": "Puede identificar a una persona física"
+      },
+      {
+        "question": "¿Cuál de las siguientes opciones describe mejor al encargado del tratamiento?",
+        "options": [
+          "Decide cómo se tratan los datos",
+          "Es un tercero que actúa por cuenta del responsable",
+          "Tiene derechos sobre los datos tratados"
+        ],
+        "answer": "Es un tercero que actúa por cuenta del responsable"
+      },
+      {
+        "question": "¿Qué tipo de personas pueden ser consideradas como 'interesadas'?",
+        "options": [
+          "Clientes, empleados, pacientes, etc.",
+          "Solo los menores de edad",
+          "Solo los representantes legales"
+        ],
+        "answer": "Clientes, empleados, pacientes, etc."
+      },
+      {
+        "question": "¿Qué tipo de información NO se considera dato personal?",
+        "options": [
+          "El correo electrónico de un empleado",
+          "El nombre de una persona",
+          "El número de identificación fiscal de una empresa"
+        ],
+        "answer": "El número de identificación fiscal de una empresa"
+      },
+      {
+        "question": "¿Qué operaciones se incluyen en el tratamiento de datos?",
+        "options": [
+          "Sólo recopilación y conservación",
+          "Cualquier operación como recogida, organización o eliminación",
+          "Sólo el almacenamiento"
+        ],
+        "answer": "Cualquier operación como recogida, organización o eliminación"
+      },
+      {
+        "question": "¿Qué hace el responsable del tratamiento con respecto a los datos?",
+        "options": [
+          "Decide qué se hace con ellos y con qué finalidad",
+          "Solo almacena los datos sin analizarlos",
+          "Es quien recibe los datos para consultarlos"
+        ],
+        "answer": "Decide qué se hace con ellos y con qué finalidad"
+      },
+      {
+        "question": "¿Cuál de estas figuras tiene un rol pasivo en la toma de decisiones sobre el tratamiento?",
+        "options": [
+          "El responsable del tratamiento",
+          "El interesado",
+          "El encargado del tratamiento"
+        ],
+        "answer": "El encargado del tratamiento"
+      },
+      {
+        "question": "¿Qué identifica a una persona como identificable?",
+        "options": [
+          "Puede ser localizada mediante algún dato o combinación de datos",
+          "Tiene un contrato con una empresa",
+          "Trabaja con datos personales"
+        ],
+        "answer": "Puede ser localizada mediante algún dato o combinación de datos"
+      },
+      {
+        "question": "¿Qué dato personal puede ser considerado sensible?",
+        "options": [
+          "Color favorito",
+          "Opiniones políticas",
+          "Tipo de comida preferida"
+        ],
+        "answer": "Opiniones políticas"
+      },
+      {
+        "question": "¿Quién actúa generalmente como encargado del tratamiento?",
+        "options": [
+          "Un cliente de la empresa",
+          "Una empresa externa que presta servicios",
+          "Un funcionario público"
+        ],
+        "answer": "Una empresa externa que presta servicios"
+      },
+      {
+        "question": "¿Qué es imprescindible para considerar que existe tratamiento de datos?",
+        "options": [
+          "Que los datos se digitalicen",
+          "Que exista alguna operación sobre los datos personales",
+          "Que los datos estén en poder de una empresa pública"
+        ],
+        "answer": "Que exista alguna operación sobre los datos personales"
+      },
+    {
+      "question": "¿Cuál es el objetivo principal del derecho a la protección de datos personales?",
+      "options": [
+        "Garantizar el libre acceso a la información",
+        "Permitir el uso público de los datos personales",
+        "Garantizar el control de la persona sobre sus datos"
+      ],
+      "answer": "Garantizar el control de la persona sobre sus datos"
+    },
+    {
+      "question": "¿Qué diferencia al derecho a la protección de datos del derecho a la intimidad?",
+      "options": [
+        "Ambos derechos son idénticos en función y finalidad",
+        "El de protección de datos se centra en el control de la información personal",
+        "El derecho a la intimidad permite la cesión masiva de datos"
+      ],
+      "answer": "El de protección de datos se centra en el control de la información personal"
+    },
+    {
+      "question": "¿Qué se entiende por autodeterminación informativa?",
+      "options": [
+        "La posibilidad de inventar datos",
+        "El control que una persona tiene sobre sus propios datos",
+        "La obligación de compartir datos con el Estado"
+      ],
+      "answer": "El control que una persona tiene sobre sus propios datos"
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones es correcta sobre el tratamiento de datos personales?",
+      "options": [
+        "Puede hacerse sin consentimiento si es más rápido",
+        "Debe ser justo, legítimo y transparente",
+        "Siempre debe hacerse de forma anónima"
+      ],
+      "answer": "Debe ser justo, legítimo y transparente"
+    },
+    {
+      "question": "¿Qué derecho permite a una persona pedir que se borren sus datos?",
+      "options": [
+        "Derecho de acceso",
+        "Derecho de supresión",
+        "Derecho de rectificación"
+      ],
+      "answer": "Derecho de supresión"
+    },
+    {
+      "question": "¿Cuál es el fin principal de la protección de datos personales?",
+      "options": [
+        "Evitar la duplicación de datos",
+        "Proteger la dignidad y derechos de las personas",
+        "Facilitar el comercio electrónico"
+      ],
+      "answer": "Proteger la dignidad y derechos de las personas"
+    },
+    {
+      "question": "¿Qué derecho te permite cambiar información incorrecta sobre ti?",
+      "options": [
+        "Derecho de rectificación",
+        "Derecho de oposición",
+        "Derecho de portabilidad"
+      ],
+      "answer": "Derecho de rectificación"
+    },
+    {
+      "question": "¿Qué tipo de datos protege el derecho a la protección de datos?",
+      "options": [
+        "Solo los datos íntimos o sensibles",
+        "Todos los datos personales, íntimos o no",
+        "Únicamente los datos financieros"
+      ],
+      "answer": "Todos los datos personales, íntimos o no"
+    },
+    {
+      "question": "¿Qué puedes hacer si no estás de acuerdo con que una empresa trate tus datos?",
+      "options": [
+        "Nada, es obligatorio",
+        "Ejercer tu derecho de oposición",
+        "Solicitar una sanción económica"
+      ],
+      "answer": "Ejercer tu derecho de oposición"
+    },
+    {
+      "question": "¿Qué derecho permite llevar tus datos de una empresa a otra?",
+      "options": [
+        "Derecho de oposición",
+        "Derecho de portabilidad",
+        "Derecho de supresión"
+      ],
+      "answer": "Derecho de portabilidad"
+    },
+    {
+      "question": "¿Qué finalidad tiene el derecho de acceso a los datos personales?",
+      "options": [
+        "Eliminar tus datos",
+        "Consultar qué datos tienen sobre ti",
+        "Transferir datos a otro país"
+      ],
+      "answer": "Consultar qué datos tienen sobre ti"
+    },
+    {
+      "question": "¿Cuál es la obligación de las empresas respecto al tratamiento de datos personales?",
+      "options": [
+        "Hacerlo con transparencia y seguridad",
+        "Guardar los datos para siempre",
+        "Transferirlos a cualquier interesado"
+      ],
+      "answer": "Hacerlo con transparencia y seguridad"
+    },
+    {
+      "question": "¿Qué derecho protege a las personas frente al uso no autorizado de sus datos?",
+      "options": [
+        "El derecho a la propiedad",
+        "El derecho a la protección de datos",
+        "El derecho a la libertad de expresión"
+      ],
+      "answer": "El derecho a la protección de datos"
+    },
+    {
+      "question": "¿Por qué es importante garantizar la seguridad de los datos personales?",
+      "options": [
+        "Para que no se pierdan las copias",
+        "Para prevenir usos indebidos o accesos no autorizados",
+        "Para venderlos más rápidamente"
+      ],
+      "answer": "Para prevenir usos indebidos o accesos no autorizados"
+    },
+    {
+      "question": "¿Qué puede hacer una persona si detecta un tratamiento indebido de sus datos?",
+      "options": [
+        "Ejercer sus derechos y reclamar ante la autoridad competente",
+        "Esperar una auditoría externa",
+        "Pedir una compensación inmediata"
+      ],
+      "answer": "Ejercer sus derechos y reclamar ante la autoridad competente"
+    },
+    {
+      "question": "¿Qué debe existir para que el tratamiento de datos personales sea legítimo?",
+      "options": [
+        "Una base legal válida",
+        "El interés de la empresa",
+        "El uso comercial de los datos"
+      ],
+      "answer": "Una base legal válida"
+    },
+    {
+      "question": "¿Cuál es uno de los principios del tratamiento de datos personales?",
+      "options": [
+        "Opacidad",
+        "Proporcionalidad",
+        "Acumulación ilimitada"
+      ],
+      "answer": "Proporcionalidad"
+    },
+    {
+      "question": "¿Qué significa que el tratamiento de datos debe ser limitado?",
+      "options": [
+        "Solo puede hacerse por empresas pequeñas",
+        "Deben tratarse los datos estrictamente necesarios",
+        "Los datos deben eliminarse automáticamente al día siguiente"
+      ],
+      "answer": "Deben tratarse los datos estrictamente necesarios"
+    },
+    {
+      "question": "¿Qué ocurre si una empresa incumple las normas de protección de datos?",
+      "options": [
+        "Puede ser sancionada",
+        "Se le otorga una advertencia sin consecuencias",
+        "Obtiene mayor acceso a los datos"
+      ],
+      "answer": "Puede ser sancionada"
+    },
+    {
+      "question": "¿Cuál de los siguientes es un derecho digital relacionado con la protección de datos?",
+      "options": [
+        "Derecho a recibir correos masivos",
+        "Derecho al olvido",
+        "Derecho a publicar sin límites"
+      ],
+      "answer": "Derecho al olvido"
+    } 
+
+
+  ]
+  
