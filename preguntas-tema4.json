@@ -1,0 +1,136 @@
+[{
+    "question": "¿Qué tipo de servicios regula principalmente la LSSI?",
+    "options": [
+      "Servicios prestados a distancia por vía electrónica",
+      "Servicios presenciales tradicionales",
+      "Servicios financieros exclusivamente"
+    ],
+    "answer": "Servicios prestados a distancia por vía electrónica"
+  },
+  {
+    "question": "¿Qué principio establece que no se necesita autorización previa para prestar servicios digitales?",
+    "options": [
+      "Principio de libre prestación",
+      "Principio de autorización administrativa",
+      "Principio de intervención estatal"
+    ],
+    "answer": "Principio de libre prestación"
+  },
+  {
+    "question": "¿Qué información debe facilitar obligatoriamente un PSSI en su web según el art. 10 LSSI?",
+    "options": [
+      "Solo el nombre comercial",
+      "Datos identificativos, fiscales y precios",
+      "Únicamente el correo electrónico de contacto"
+    ],
+    "answer": "Datos identificativos, fiscales y precios"
+  },
+  {
+    "question": "¿Qué plazo general establecía la LSSI para conservación de datos de tráfico?",
+    "options": [
+      "6 meses",
+      "12 meses",
+      "3 años"
+    ],
+    "answer": "12 meses"
+  },
+  {
+    "question": "¿Qué tipo de responsabilidad NO menciona el art. 13 LSSI?",
+    "options": [
+      "Civil",
+      "Penal",
+      "Deportiva"
+    ],
+    "answer": "Deportiva"
+  },
+  {
+    "question": "¿Qué novedad introdujo el Reglamento de Servicios Digitales sobre responsabilidad?",
+    "options": [
+      "Obligación general de monitorización",
+      "Inexistencia de obligación general de monitorización",
+      "Responsabilidad objetiva automática"
+    ],
+    "answer": "Inexistencia de obligación general de monitorización"
+  },
+  {
+    "question": "¿Qué organismo puede ordenar el cierre de una página web según la LSSI?",
+    "options": [
+      "Cualquier usuario",
+      "Órganos competentes administrativos",
+      "Empresas competidoras"
+    ],
+    "answer": "Órganos competentes administrativos"
+  },
+  {
+    "question": "¿Qué caracteriza a los códigos de conducta según la LSSI?",
+    "options": [
+      "Son de adhesión obligatoria",
+      "Son instrumentos de autorregulación voluntaria",
+      "Solo aplican a entidades públicas"
+    ],
+    "answer": "Son instrumentos de autorregulación voluntaria"
+  },
+  {
+    "question": "¿En qué caso SÍ aplica la LSSI a las Administraciones Públicas?",
+    "options": [
+      "Cuando realizan actividad económica",
+      "Nunca aplica",
+      "Solo en webs institucionales"
+    ],
+    "answer": "Cuando realizan actividad económica"
+  },
+  {
+    "question": "¿Qué debe hacer un proveedor de alojamiento al conocer contenido ilícito?",
+    "options": [
+      "Mantenerlo indefinidamente",
+      "Retirarlo con prontitud",
+      "Solo notificar al autor"
+    ],
+    "answer": "Retirarlo con prontitud"
+  },
+  {
+    "question": "¿Qué información debe darse en servicios de tarificación adicional?",
+    "options": [
+      "Solo el precio final",
+      "Características del servicio y cómo cancelar",
+      "Ninguna información adicional"
+    ],
+    "answer": "Características del servicio y cómo cancelar"
+  },
+  {
+    "question": "¿Qué normativa modificó el régimen de responsabilidad de la LSSI?",
+    "options": [
+      "Reglamento de Servicios Digitales (DSA)",
+      "Ley de Protección de Datos",
+      "Directiva de Copyright"
+    ],
+    "answer": "Reglamento de Servicios Digitales (DSA)"
+  },
+  {
+    "question": "¿Qué NO es un beneficio de adherirse a códigos de conducta LSSI?",
+    "options": [
+      "Generar confianza en usuarios",
+      "Obtener exención total de impuestos",
+      "Sistemas de resolución de conflictos"
+    ],
+    "answer": "Obtener exención total de impuestos"
+  },
+  {
+    "question": "¿Qué artículo LSSI regula las comunicaciones comerciales electrónicas?",
+    "options": [
+      "Artículo 20",
+      "Artículo 10",
+      "Artículo 5"
+    ],
+    "answer": "Artículo 20"
+  },
+  {
+    "question": "¿Qué tipo de servicio NO está exento de responsabilidad según LSSI?",
+    "options": [
+      "Mera transmisión",
+      "Memoria caché",
+      "Alojamiento con conocimiento de ilicitud"
+    ],
+    "answer": "Alojamiento con conocimiento de ilicitud"
+  }
+]

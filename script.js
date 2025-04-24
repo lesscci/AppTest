@@ -3,12 +3,13 @@ document.addEventListener("DOMContentLoaded", function() {
     
     // Cargar preguntas desde ambos archivos JSON
     Promise.all([
-        fetch('preguntas-tema1.json').then(res => res.json()),
-        fetch('preguntas-tema2.json').then(res => res.json())
+        fetch('preguntas-tema2.json').then(res => res.json()),
+     //   fetch('preguntas-tema2.json').then(res => res.json()),
+       // fetch('preguntas-tema3.json').then(res => res.json()),
     ])
-    .then(([data1, data2]) => {
-        console.log("Preguntas cargadas:", data1, data2);
-        allQuestions = [...data1, ...data2]; // Combina ambos arrays
+    .then(([data1, data2, data3]) => {
+        console.log("Preguntas cargadas:", data1, data2, data3);
+        allQuestions = [...data1]; // Combina ambos arrays
         generateRandomTest();
     })
     .catch(error => {

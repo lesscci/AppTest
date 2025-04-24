@@ -1,0 +1,775 @@
+[{
+    "question": "¿Qué norma española transpone la Directiva NIS al ordenamiento jurídico?",
+    "options": [
+      "Ley Orgánica de Protección de Datos",
+      "Real Decreto-ley 12/2018",
+      "Ley de Servicios de la Sociedad de la Información"
+    ],
+    "answer": "Real Decreto-ley 12/2018"
+  },
+  {
+    "question": "¿Qué tipo de servicios regula principalmente el RD-L 12/2018?",
+    "options": [
+      "Servicios esenciales y servicios digitales",
+      "Redes sociales y plataformas de streaming",
+      "Comercio electrónico minorista"
+    ],
+    "answer": "Servicios esenciales y servicios digitales"
+  },
+  {
+    "question": "Una de las obligaciones clave del RD-L 12/2018 es:",
+    "options": [
+      "Notificar incidentes de seguridad al CSIRT de referencia",
+      "Contratar únicamente software desarrollado en España",
+      "Eliminar todos los datos después de 6 meses"
+    ],
+    "answer": "Notificar incidentes de seguridad al CSIRT de referencia"
+  },
+  {
+    "question": "¿Qué aspecto NO estaba incluido en las obligaciones del RD-L 12/2018?",
+    "options": [
+      "Adopción de medidas de seguridad adecuadas",
+      "Realización de auditorías de seguridad",
+      "Implantación obligatoria de inteligencia artificial"
+    ],
+    "answer": "Implantación obligatoria de inteligencia artificial"
+  },
+  {
+    "question": "El RD-L 12/2018 establece la necesidad de:",
+    "options": [
+      "Designar responsables de seguridad en las organizaciones afectadas",
+      "Contratar servicios de ciberseguridad exclusivamente con empresas españolas",
+      "Publicar todos los incidentes en redes sociales"
+    ],
+    "answer": "Designar responsables de seguridad en las organizaciones afectadas"
+  },
+  {
+    "question": "¿Qué organismo se menciona como receptor de las notificaciones de incidentes?",
+    "options": [
+      "El CSIRT de referencia",
+      "La Agencia Tributaria",
+      "El Banco de España"
+    ],
+    "answer": "El CSIRT de referencia"
+  },
+  {
+    "question": "El RD-L 12/2018 fue aprobado en:",
+    "options": [
+      "2016, coincidiendo con la Directiva NIS",
+      "2018, para transponer la Directiva NIS",
+      "2020, como respuesta al aumento de ciberataques"
+    ],
+    "answer": "2018, para transponer la Directiva NIS"
+  },
+  {
+    "question": "¿Qué norma desarrolla el RD 43/2021?",
+    "options": [
+      "La Ley Orgánica de Protección de Datos",
+      "El Real Decreto-ley 12/2018 de transposición de la Directiva NIS",
+      "El Reglamento eIDAS"
+    ],
+    "answer": "El Real Decreto-ley 12/2018 de transposición de la Directiva NIS"
+  },
+  {
+    "question": "¿Qué novedad introduce el RD 43/2021 respecto a figuras organizativas?",
+    "options": [
+      "La obligación de crear un departamento de ciberseguridad con mínimo 5 personas",
+      "La formalización del responsable de seguridad como punto de contacto",
+      "La exigencia de certificaciones internacionales a todo el personal"
+    ],
+    "answer": "La formalización del responsable de seguridad como punto de contacto"
+  },
+  {
+    "question": "Los operadores de servicios esenciales deben notificar incidentes a:",
+    "options": [
+      "Exclusivamente a la AEPD",
+      "Al CSIRT de referencia y autoridad competente",
+      "Solo a sus clientes afectados"
+    ],
+    "answer": "Al CSIRT de referencia y autoridad competente"
+  },
+  {
+    "question": "¿Qué documento debe elaborar el responsable de seguridad según el RD 43/2021?",
+    "options": [
+      "Declaración de aplicabilidad de medidas de seguridad",
+      "Informe financiero anual",
+      "Manual de uso de redes sociales"
+    ],
+    "answer": "Declaración de aplicabilidad de medidas de seguridad"
+  },
+  {
+    "question": "El plazo para designar al responsable de seguridad es:",
+    "options": [
+      "3 meses desde la designación como operador esencial",
+      "6 meses desde la publicación del RD",
+      "1 año desde el primer incidente de seguridad"
+    ],
+    "answer": "3 meses desde la designación como operador esencial"
+  },
+  {
+    "question": "Una función clave del responsable de seguridad es:",
+    "options": [
+      "Gestionar las redes sociales corporativas",
+      "Supervisar la aplicación de políticas de seguridad",
+      "Desarrollar software de ciberseguridad propio"
+    ],
+    "answer": "Supervisar la aplicación de políticas de seguridad"
+  },
+  {
+    "question": "¿Qué establece el RD 43/2021 sobre la gestión de incidentes?",
+    "options": [
+      "Deben resolverse aunque sean detectados por terceros",
+      "Solo se actúa si lo ordena un juzgado",
+      "Se delega siempre en proveedores externos"
+    ],
+    "answer": "Deben resolverse aunque sean detectados por terceros"
+  },
+  {
+    "question": "La valoración de impactos de incidentes clasifica como nivel máximo:",
+    "options": [
+      "Crítico",
+      "Extremo",
+      "Nivel 10"
+    ],
+    "answer": "Crítico"
+  },
+  {
+    "question": "¿Qué aspecto NO es función del responsable de seguridad según el RD 43/2021?",
+    "options": [
+      "Actuar como capacitador en buenas prácticas",
+      "Elaborar políticas de seguridad",
+      "Gestionar directamente el presupuesto de marketing"
+    ],
+    "answer": "Gestionar directamente el presupuesto de marketing"
+  },
+  {
+    "question": "Las notificaciones a la AEPD por violaciones de seguridad:",
+    "options": [
+      "Son independientes de las del CSIRT",
+      "Sustituyen a las notificaciones al CSIRT",
+      "Solo son obligatorias para empresas pequeñas"
+    ],
+    "answer": "Son independientes de las del CSIRT"
+  },
+  {
+    "question": "¿Qué documento constituye el elemento principal del paquete de ciberseguridad de la UE presentado en diciembre de 2020?",
+    "options": [
+      "El Reglamento General de Protección de Datos (RGPD)",
+      "La Estrategia de Ciberseguridad de la UE para la Década Digital",
+      "La Directiva de Servicios de Medios Audiovisuales"
+    ],
+    "answer": "La Estrategia de Ciberseguridad de la UE para la Década Digital"
+  },
+  {
+    "question": "¿Cuál de estos NO era uno de los tres ámbitos de actuación de la estrategia de ciberseguridad de la UE?",
+    "options": [
+      "Resiliencia y soberanía tecnológica",
+      "Capacidad operativa para prevenir ciberamenazas",
+      "Armonización fiscal digital en la UE"
+    ],
+    "answer": "Armonización fiscal digital en la UE"
+  },
+  {
+    "question": "La propuesta de 'escudo cibernético europeo' incluía:",
+    "options": [
+      "Centros de Operaciones de Seguridad basados en IA",
+      "Prohibición total de tecnologías no europeas",
+      "Reducción de la inversión en ciberseguridad"
+    ],
+    "answer": "Centros de Operaciones de Seguridad basados en IA"
+  },
+  {
+    "question": "¿Qué institución debía liderar la creación de la Unidad Informática Conjunta?",
+    "options": [
+      "El Banco Central Europeo",
+      "ENISA (Agencia de la UE para Ciberseguridad)",
+      "La Dirección General de Competencia"
+    ],
+    "answer": "ENISA (Agencia de la UE para Ciberseguridad)"
+  },
+  {
+    "question": "La estrategia identificaba como problema clave:",
+    "options": [
+      "Falta de conciencia colectiva sobre amenazas cibernéticas",
+      "Exceso de regulación en Estados miembros",
+      "Sobrecapacidad en infraestructuras digitales"
+    ],
+    "answer": "Falta de conciencia colectiva sobre amenazas cibernéticas"
+  },
+  {
+    "question": "¿Qué sector NO estaba cubierto inicialmente por la Directiva NIS que se proponía revisar?",
+    "options": [
+      "Infraestructuras energéticas",
+      "Plataformas de redes sociales personales",
+      "Servicios sanitarios esenciales"
+    ],
+    "answer": "Plataformas de redes sociales personales"
+  },
+  {
+    "question": "El paquete vinculaba la ciberseguridad con:",
+    "options": [
+      "Exclusivamente con defensa militar",
+      "El Plan de Recuperación y transformación digital",
+      "Políticas agrícolas comunes"
+    ],
+    "answer": "El Plan de Recuperación y transformación digital"
+  },
+  {
+    "question": "¿Qué novedad introduce la NIS 2 respecto al ámbito de aplicación?",
+    "options": [
+      "Limita la aplicación solo a grandes empresas",
+      "Incluye un límite de tamaño (empresas medianas y grandes de sectores clave)",
+      "Excluye al sector público completamente"
+    ],
+    "answer": "Incluye un límite de tamaño (empresas medianas y grandes de sectores clave)"
+  },
+  {
+    "question": "¿En cuántas categorías clasifica la NIS 2 a las entidades obligadas?",
+    "options": [
+      "1 categoría única",
+      "2 categorías (esenciales e importantes)",
+      "3 niveles según facturación"
+    ],
+    "answer": "2 categorías (esenciales e importantes)"
+  },
+  {
+    "question": "¿Qué sector NO estaba cubierto por la NIS original pero SÍ incluye la NIS 2?",
+    "options": [
+      "Sector energético",
+      "Gestión de residuos y distribución de alimentos",
+      "Infraestructuras financieras"
+    ],
+    "answer": "Gestión de residuos y distribución de alimentos"
+  },
+  {
+    "question": "El plazo para notificar incidentes significativos en la NIS 2 es:",
+    "options": [
+      "24 horas para alerta temprana y 72 horas para notificación detallada",
+      "1 semana para ambos tipos de notificación",
+      "Solo al resolver el incidente"
+    ],
+    "answer": "24 horas para alerta temprana y 72 horas para notificación detallada"
+  },
+  {
+    "question": "¿Qué medida refuerza especialmente la NIS 2 sobre cadenas de suministro?",
+    "options": [
+      "Prohibición de proveedores extranjeros",
+      "Evaluaciones coordinadas de riesgos",
+      "Limitación a un solo proveedor por sector"
+    ],
+    "answer": "Evaluaciones coordinadas de riesgos"
+  },
+  {
+    "question": "La supervisión para entidades esenciales según NIS 2 debe ser:",
+    "options": [
+      "Solo a posteriori (tras incidentes)",
+      "Completa (a priori y a posteriori)",
+      "Delegada en auditores privados"
+    ],
+    "answer": "Completa (a priori y a posteriori)"
+  },
+  {
+    "question": "¿Qué sanción máxima prevé la NIS 2 para entidades esenciales?",
+    "options": [
+      "10M€ o 2% volumen negocio global",
+      "1M€ fijos",
+      "Solo amonestaciones públicas"
+    ],
+    "answer": "10M€ o 2% volumen negocio global"
+  },
+  {
+    "question": "¿Qué organismo coordina la divulgación de vulnerabilidades?",
+    "options": [
+      "El CSIRT designado por cada Estado",
+      "Exclusivamente la ENISA",
+      "La Interpol Cibernética"
+    ],
+    "answer": "El CSIRT designado por cada Estado"
+  },
+  {
+    "question": "La NIS 2 elimina la distinción entre:",
+    "options": [
+      "Sectores públicos y privados",
+      "Operadores esenciales y proveedores digitales",
+      "Empresas nacionales y multinacionales"
+    ],
+    "answer": "Operadores esenciales y proveedores digitales"
+  },
+  {
+    "question": "¿Qué novedad introduce la NIS 2 sobre formación?",
+    "options": [
+      "Obligatoriedad para órganos de dirección",
+      "Solo recomendaciones voluntarias",
+      "Exclusivamente para personal técnico"
+    ],
+    "answer": "Obligatoriedad para órganos de dirección"
+  },
+  {
+    "question": "El enfoque de gestión de riesgos en NIS 2 se basa en:",
+    "options": [
+      "Solo amenazas conocidas",
+      "Todos los peligros (all-hazards)",
+      "Exclusivamente ransomware"
+    ],
+    "answer": "Todos los peligros (all-hazards)"
+  },
+  {
+    "question": "¿Qué instancia refuerza la NIS 2 para cooperación entre Estados?",
+    "options": [
+      "El Grupo de Cooperación",
+      "El Parlamento Europeo",
+      "Los tribunales nacionales"
+    ],
+    "answer": "El Grupo de Cooperación"
+  },
+  {
+    "question": "La responsabilidad del cumplimiento recae especialmente en:",
+    "options": [
+      "Solo en los empleados técnicos",
+      "Los órganos de dirección de las entidades",
+      "Exclusivamente en consultores externos"
+    ],
+    "answer": "Los órganos de dirección de las entidades"
+  },
+  {
+    "question": "¿Qué debe desarrollar ENISA según la NIS 2?",
+    "options": [
+      "Una base de datos europea de vulnerabilidades",
+      "Software de seguridad obligatorio",
+      "Un ciberejército europeo"
+    ],
+    "answer": "Una base de datos europea de vulnerabilidades"
+  },
+  {
+    "question": "Para incidentes transfronterizos, la NIS 2 exige:",
+    "options": [
+      "Notificación solo al país de origen",
+      "Información a puntos de contacto únicos",
+      "Resolución autónoma sin comunicación"
+    ],
+    "answer": "Información a puntos de contacto únicos"
+  },
+  {
+    "question": "¿Qué directiva deroga la Directiva (UE) 2022/2557 sobre entidades críticas?",
+    "options": [
+      "Directiva 2008/114/CE sobre infraestructuras críticas europeas",
+      "Directiva NIS original (2016/1148)",
+      "Directiva de Servicios Digitales"
+    ],
+    "answer": "Directiva 2008/114/CE sobre infraestructuras críticas europeas"
+  },
+  {
+    "question": "¿Qué tipo de entidades cubre principalmente esta directiva?",
+    "options": [
+      "Exclusivamente empresas tecnológicas",
+      "Entidades públicas y privadas que prestan servicios esenciales",
+      "Solo administraciones públicas nacionales"
+    ],
+    "answer": "Entidades públicas y privadas que prestan servicios esenciales"
+  },
+  {
+    "question": "¿Qué plazo tienen los Estados miembros para identificar entidades críticas según el artículo 6?",
+    "options": [
+      "Hasta julio 2026",
+      "Dos años desde su publicación",
+      "No hay plazo definido"
+    ],
+    "answer": "Hasta julio 2026"
+  },
+  {
+    "question": "La evaluación de riesgos en entidades críticas debe realizarse:",
+    "options": [
+      "Cada 10 años",
+      "Cada 4 años como mínimo",
+      "Solo cuando ocurra un incidente"
+    ],
+    "answer": "Cada 4 años como mínimo"
+  },
+  {
+    "question": "¿Qué relación tiene esta directiva con la NIS 2?",
+    "options": [
+      "Excluye explícitamente materias ya reguladas por NIS 2",
+      "La sustituye completamente",
+      "No tiene ninguna relación"
+    ],
+    "answer": "Excluye explícitamente materias ya reguladas por NIS 2"
+  },
+  {
+    "question": "El plazo para notificar incidentes significativos es:",
+    "options": [
+      "24 horas para notificación inicial + informe detallado en 1 mes",
+      "1 semana para ambos tipos de notificación",
+      "Solo al finalizar la investigación"
+    ],
+    "answer": "24 horas para notificación inicial + informe detallado en 1 mes"
+  },
+  {
+    "question": "¿Qué criterio NO se considera para identificar entidades críticas?",
+    "options": [
+      "Prestar servicios esenciales",
+      "Tener sede social en un Estado miembro",
+      "Que un incidente tendría efectos perturbadores significativos"
+    ],
+    "answer": "Tener sede social en un Estado miembro"
+  },
+  {
+    "question": "¿Qué dos objetivos principales establece el Reglamento (UE) 2019/881?",
+    "options": [
+      "Crear un ejército cibernético europeo y prohibir tecnologías no europeas",
+      "Regular ENISA y establecer marco de certificación de ciberseguridad para TIC",
+      "Armonizar impuestos digitales y subsidiar empresas de ciberseguridad"
+    ],
+    "answer": "Regular ENISA y establecer marco de certificación de ciberseguridad para TIC"
+  },
+  {
+    "question": "¿Cuál es el papel principal de ENISA según este reglamento?",
+    "options": [
+      "Ser centro de conocimiento técnico independiente en ciberseguridad",
+      "Desarrollar software de seguridad para Estados miembros",
+      "Gestionar directamente respuestas a ciberataques en empresas privadas"
+    ],
+    "answer": "Ser centro de conocimiento técnico independiente en ciberseguridad"
+  },
+  {
+    "question": "¿Qué niveles de garantía establece el marco de certificación?",
+    "options": [
+      "Bajo, medio y alto riesgo",
+      "Básico, sustancial y elevado",
+      "Nivel 1, 2 y 3 según tamaño de empresa"
+    ],
+    "answer": "Básico, sustancial y elevado"
+  },
+  {
+    "question": "Para productos TIC de nivel básico, ¿qué permite el reglamento?",
+    "options": [
+      "Autoevaluación por el fabricante bajo su responsabilidad",
+      "Certificación obligatoria por organismo acreditado",
+      "Exención total de requisitos de seguridad"
+    ],
+    "answer": "Autoevaluación por el fabricante bajo su responsabilidad"
+  },
+  {
+    "question": "¿Qué instancia crea el reglamento para coordinar certificación?",
+    "options": [
+      "Grupo Europeo de Certificación de Ciberseguridad (GECC)",
+      "Comité Central de Ciberdefensa",
+      "Agencia Europea de Seguridad de Productos TIC"
+    ],
+    "answer": "Grupo Europeo de Certificación de Ciberseguridad (GECC)"
+  },
+  {
+    "question": "¿Qué nivel de certificación requeriría un producto frente a ciberataques sofisticados?",
+    "options": [
+      "Básico",
+      "Sustancial",
+      "Elevado"
+    ],
+    "answer": "Elevado"
+  },
+  {
+    "question": "La certificación de ciberseguridad en la UE es:",
+    "options": [
+      "Voluntaria salvo que otra normativa especifique lo contrario",
+      "Obligatoria para todos los productos TIC",
+      "Solo requerida para instituciones públicas"
+    ],
+    "answer": "Voluntaria salvo que otra normativa especifique lo contrario"
+  },
+  {
+    "question": "¿Qué debe mantener ENISA según el artículo 50?",
+    "options": [
+      "Un registro público de ciberdelincuentes",
+      "Sitio web con información sobre esquemas de certificación",
+      "Base de datos de vulnerabilidades accesible al público"
+    ],
+    "answer": "Sitio web con información sobre esquemas de certificación"
+  },
+  {
+    "question": "¿Qué aspecto NO es función de ENISA según este reglamento?",
+    "options": [
+      "Asistir en desarrollo de políticas de ciberseguridad",
+      "Promover ciberhigiene y alfabetización digital",
+      "Dirigir operaciones de ciberdefensa militar"
+    ],
+    "answer": "Dirigir operaciones de ciberdefensa militar"
+  },
+  {
+    "question": "Las autoridades nacionales de certificación son designadas por:",
+    "options": [
+      "La Comisión Europea directamente",
+      "Cada Estado miembro para su territorio",
+      "El sector privado de cada país"
+    ],
+    "answer": "Cada Estado miembro para su territorio"
+  },
+  {
+    "question": "¿Qué tipo de productos cubre principalmente el Reglamento de Ciberresiliencia (CRA)?",
+    "options": [
+      "Solo productos financieros digitales",
+      "Productos con elementos digitales que se conectan a redes/dispositivos",
+      "Exclusivamente software empresarial"
+    ],
+    "answer": "Productos con elementos digitales que se conectan a redes/dispositivos"
+  },
+  {
+    "question": "¿Qué obligación clave impone el CRA a los fabricantes antes de comercializar productos?",
+    "options": [
+      "Realizar una evaluación de riesgos de ciberseguridad",
+      "Obtener aprobación gubernamental caso por caso",
+      "Contratar seguros de responsabilidad ilimitada"
+    ],
+    "answer": "Realizar una evaluación de riesgos de ciberseguridad"
+  },
+  {
+    "question": "El Reglamento (UE) 2022/2554 sobre resiliencia digital del sector financiero establece:",
+    "options": [
+      "Un sistema de notificación de incidentes homogéneo",
+      "Prohibición de tecnologías cloud",
+      "Requisitos diferentes por cada Estado miembro"
+    ],
+    "answer": "Un sistema de notificación de incidentes homogéneo"
+  },
+  {
+    "question": "¿Qué caracteriza el enfoque de China en ciberseguridad según Orozco (2021)?",
+    "options": [
+      "Considera la información como sensible y restringe su acceso",
+      "Prioriza exclusivamente aspectos técnicos sin marco jurídico",
+      "Deja toda responsabilidad al sector privado"
+    ],
+    "answer": "Considera la información como sensible y restringe su acceso"
+  },
+  {
+    "question": "¿Qué institución europea promueve la cooperación en ciberseguridad entre Estados miembros?",
+    "options": [
+      "El Banco Central Europeo",
+      "ENISA (Agencia de la UE para Ciberseguridad)",
+      "La Europol Cybercrime Centre"
+    ],
+    "answer": "ENISA (Agencia de la UE para Ciberseguridad)"
+  },
+  {
+    "question": "¿Qué objetivo principal tiene el Reglamento (UE) 2022/2554 sobre resiliencia operativa digital?",
+    "options": [
+      "Lograr un elevado nivel común de resiliencia operativa digital",
+      "Unificar los sistemas bancarios europeos",
+      "Reducir los costes tecnológicos del sector financiero"
+    ],
+    "answer": "Lograr un elevado nivel común de resiliencia operativa digital"
+  },
+  {
+    "question": "¿Qué característica clave establece este reglamento para las entidades financieras?",
+    "options": [
+      "Sistema de notificación de incidentes homogéneo",
+      "Uso exclusivo de software europeo",
+      "Centralización de todos los datos en Bruselas"
+    ],
+    "answer": "Sistema de notificación de incidentes homogéneo"
+  },
+  {
+    "question": "La Guía Nacional de Notificación de Ciberincidentes de INCIBE está alineada con:",
+    "options": [
+      "Solo con normativa española",
+      "Normativa española y transposiciones europeas",
+      "Exclusivamente con estándares internacionales privados"
+    ],
+    "answer": "Normativa española y transposiciones europeas"
+  },
+  {
+    "question": "¿A quién está dirigida principalmente la guía de INCIBE sobre ciberincidentes?",
+    "options": [
+      "Solo a entidades públicas",
+      "Exclusivamente a bancos y aseguradoras",
+      "Toda entidad pública o privada y ciudadanos"
+    ],
+    "answer": "Toda entidad pública o privada y ciudadanos"
+  },
+  {
+    "question": "El Reglamento (UE) 2022/2554 modifica varios reglamentos anteriores para:",
+    "options": [
+      "Actualizar solo los aspectos fiscales",
+      "Armonizar los requisitos de seguridad digital",
+      "Eliminar regulaciones anteriores completamente"
+    ],
+    "answer": "Armonizar los requisitos de seguridad digital"
+  },
+  {
+    "question": "¿Qué caracteriza el enfoque de China en ciberseguridad según Orozco (2021)?",
+    "options": [
+      "Considera la información como sensible con acceso restringido",
+      "Prioriza exclusivamente aspectos técnicos sin regulación",
+      "Deja toda responsabilidad al sector privado"
+    ],
+    "answer": "Considera la información como sensible con acceso restringido"
+  },
+  {
+    "question": "¿Cómo aborda EE.UU. la ciberseguridad según el análisis comparativo?",
+    "options": [
+      "Enfoque técnico con participación de empresas tecnológicas",
+      "Regulación estatal centralizada estricta",
+      "Ausencia de marco regulatorio federal"
+    ],
+    "answer": "Enfoque técnico con participación de empresas tecnológicas"
+  },
+  {
+    "question": "¿Qué dos pilares destacan en el enfoque de la UE sobre ciberseguridad?",
+    "options": [
+      "Protección de datos personales y seguridad de redes",
+      "Control gubernamental absoluto y censura",
+      "Desregulación total del sector digital"
+    ],
+    "answer": "Protección de datos personales y seguridad de redes"
+  },
+  {
+    "question": "¿Qué organismo coordina la ciberseguridad en la UE?",
+    "options": [
+      "ENISA",
+      "FBI Cyber Division",
+      "APEC Cybersecurity Forum"
+    ],
+    "answer": "ENISA"
+  },
+  {
+    "question": "En América Latina, ¿qué país destaca por su Ley General de Protección de Datos?",
+    "options": [
+      "Brasil (LGPD)",
+      "Argentina",
+      "Colombia"
+    ],
+    "answer": "Brasil (LGPD)"
+  },
+  {
+    "question": "¿Qué caracteriza el marco regulatorio de ciberseguridad en Asia?",
+    "options": [
+      "Gran variabilidad entre países",
+      "Completa armonización regional",
+      "Ausencia total de regulaciones"
+    ],
+    "answer": "Gran variabilidad entre países"
+  },
+  {
+    "question": "Según Orozco, ¿cómo utiliza China la ciberseguridad geopolíticamente?",
+    "options": [
+      "Como pilar para su proyección internacional",
+      "Para eliminar toda infraestructura digital",
+      "Para aislarse tecnológicamente"
+    ],
+    "answer": "Como pilar para su proyección internacional"
+  },
+  {
+    "question": "¿Qué ley china otorga amplios controles gubernamentales en ciberseguridad?",
+    "options": [
+      "Ley de Ciberseguridad y Ley de Seguridad Nacional",
+      "Ley de Innovación Tecnológica",
+      "Ley de Comercio Digital"
+    ],
+    "answer": "Ley de Ciberseguridad y Ley de Seguridad Nacional"
+  },
+  {
+    "question": "En EE.UU., ¿cómo se estructura la regulación de ciberseguridad?",
+    "options": [
+      "Leyes federales y estatales con variaciones",
+      "Un único reglamento nacional uniforme",
+      "Solo regulación sectorial privada"
+    ],
+    "answer": "Leyes federales y estatales con variaciones"
+  },
+  {
+    "question": "¿Qué ventaja tiene el modelo de la UE según el análisis comparativo?",
+    "options": [
+      "Enfoque integral y armonizado",
+      "Regulación más permisiva que otras regiones",
+      "Focalización exclusiva en aspectos técnicos"
+    ],
+    "answer": "Enfoque integral y armonizado"
+  },
+  {
+    "question": "¿Cuál era el objetivo principal de la Directiva NIS (UE) 2016/1148?",
+    "options": [
+      "Armonizar los impuestos digitales en la UE",
+      "Establecer un elevado nivel común de seguridad de redes y sistemas de información",
+      "Regular exclusivamente el comercio electrónico"
+    ],
+    "answer": "Establecer un elevado nivel común de seguridad de redes y sistemas de información"
+  },
+  {
+    "question": "¿Qué tipo de entidades estaban obligadas a cumplir con la Directiva NIS?",
+    "options": [
+      "Solo bancos y entidades financieras",
+      "Operadores de servicios esenciales y proveedores de servicios digitales",
+      "Exclusivamente empresas tecnológicas con más de 250 empleados"
+    ],
+    "answer": "Operadores de servicios esenciales y proveedores de servicios digitales"
+  },
+  {
+    "question": "La Directiva NIS fue reemplazada por:",
+    "options": [
+      "El Reglamento GDPR",
+      "La Directiva NIS 2",
+      "La Ley de Servicios Digitales (DSA)"
+    ],
+    "answer": "La Directiva NIS 2"
+  },
+  {
+    "question": "¿Qué aspecto NO era cubierto por la Directiva NIS original?",
+    "options": [
+      "Requisitos comunes de seguridad",
+      "Cooperación entre Estados miembros",
+      "Regulación detallada de inteligencia artificial"
+    ],
+    "answer": "Regulación detallada de inteligencia artificial"
+  },
+  {
+    "question": "¿Qué debían hacer los Estados miembros respecto a los operadores de servicios esenciales?",
+    "options": [
+      "Identificarlos en su territorio según sectores clave",
+      "Eximirlos de cualquier regulación de ciberseguridad",
+      "Subvencionar sus medidas de seguridad"
+    ],
+    "answer": "Identificarlos en su territorio según sectores clave"
+  },
+  {
+    "question": "La Directiva NIS buscaba principalmente:",
+    "options": [
+      "Reducir los costes de las empresas tecnológicas",
+      "Fortalecer la resiliencia frente a amenazas cibernéticas",
+      "Crear un ejército cibernético europeo"
+    ],
+    "answer": "Fortalecer la resiliencia frente a amenazas cibernéticas"
+  },
+  {
+    "question": "¿Qué tipo de incidentes preocupaban especialmente según los considerandos de la Directiva NIS?",
+    "options": [
+      "Errores contables en empresas digitales",
+      "Aquellos que podían interrumpir actividades económicas y causar grandes daños",
+      "Problemas menores de conectividad"
+    ],
+    "answer": "Aquellos que podían interrumpir actividades económicas y causar grandes daños"
+  },
+  {
+    "question": "La Directiva NIS no se aplicaba a:",
+    "options": [
+      "Redes públicas de comunicaciones ya reguladas",
+      "Hospitales y servicios sanitarios",
+      "Plataformas de comercio electrónico"
+    ],
+    "answer": "Redes públicas de comunicaciones ya reguladas"
+  },
+  {
+    "question": "¿Qué aspecto fue clave en la implementación de la Directiva NIS?",
+    "options": [
+      "Creación de criptomonedas europeas",
+      "Designación de autoridades y centros de respuesta a incidentes",
+      "Prohibición de tecnologías no europeas"
+    ],
+    "answer": "Designación de autoridades y centros de respuesta a incidentes"
+  },
+  {
+    "question": "La Directiva NIS mantenía coherencia con:",
+    "options": [
+      "El Reglamento General de Protección de Datos (RGPD)",
+      "La normativa de transporte aéreo",
+      "Las directivas de agricultura ecológica"
+    ],
+    "answer": "El Reglamento General de Protección de Datos (RGPD)"
+  }
+]
