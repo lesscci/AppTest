@@ -7,8 +7,8 @@ document.addEventListener("DOMContentLoaded", function() {
      //   fetch('preguntas-tema2.json').then(res => res.json()),
        // fetch('preguntas-tema3.json').then(res => res.json()),
     ])
-    .then(([data1, data2, data3]) => {
-        console.log("Preguntas cargadas:", data1, data2, data3);
+    .then(([data1]) => {
+        console.log("Preguntas cargadas:", data1);
         allQuestions = [...data1]; // Combina ambos arrays
         generateRandomTest();
     })
