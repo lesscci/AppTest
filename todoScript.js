@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
         // Cargar todos los JSONs seleccionados en paralelo
         const promises = Array.from(checkboxes).map(checkbox => {
             const temaNumero = checkbox.value;
-            const jsonFile = `PREGUNTAS/preguntas-tema${temaNumero}.json`;
+            const jsonFile = `../PREGUNTAS/preguntas-tema${temaNumero}.json`;
             return fetch(jsonFile).then(res => res.json());
         });
         

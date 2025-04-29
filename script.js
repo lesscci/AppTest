@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
 const temaNumero = match ? match[1] : null;
 
 if (temaNumero) {
-    const jsonFile = `PREGUNTAS/preguntas-tema${temaNumero}.json`;
+    const jsonFile = `../PREGUNTAS/preguntas-tema${temaNumero}.json`;
 
     fetch(jsonFile)
         .then(res => res.json())
@@ -22,7 +22,7 @@ if (temaNumero) {
 
 //Modal
 
-const jsonPath = 'PREGUNTAS/preguntas-tema1.json'; 
+const jsonPath = '../PREGUNTAS/preguntas-tema1.json'; 
 
 // Función para mostrar el modal
 function showModal(resultsText) {
