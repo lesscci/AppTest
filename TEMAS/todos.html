@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Mixto - Todos los Temas</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🧠 Test Mixto - Todas las Preguntas</h1>
+        <div class="controls">
+            <label for="numQuestions">Número de preguntas:</label>
+            <select id="numQuestions">
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="15">15</option>
+                <option value="20">20</option>
+            </select>
+            
+            <label for="selectedThemes">Temas a incluir:</label>
+            <div id="themeCheckboxes" class="checkboxes-container">
+                <!-- Las casillas de verificación se generarán dinámicamente -->
+            </div>
+        </div>
+        
+        <button id="generateTest" class="comprobar">Generar Test</button>
+        <div id="questionsContainer"></div>
+        <button class="comprobar" id="checkAnswers" style="display:none;">Comprobar Respuestas</button>
+        <button class="comprobar" id="restartTest" style="display:none;">Hacer otro test</button>
+        <button class="inicio" onclick="window.location.href='/index.html'">Volver al inicio</button>
+        
+        <div id="resultModal" class="modal">
+            <div class="modal-content">
+                <span class="close" id="closeModal">&times;</span>
+                <div id="results"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/todoScript.js"></script>
+</body>
+</html>

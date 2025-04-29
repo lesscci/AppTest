@@ -1,0 +1,572 @@
+[{
+    "question": "¿En qué año se aprobó el Código Penal que regula los daños informáticos?",
+    "options": [
+      "1990",
+      "1995",
+      "2001"
+    ],
+    "answer": "1995"
+  },
+  {
+    "question": "¿Qué documento internacional dejó claro que la regulación de los daños informáticos era insuficiente?",
+    "options": [
+      "La Directiva 2013/40/UE",
+      "El Convenio de Budapest de 2001",
+      "El Código Penal de 1995"
+    ],
+    "answer": "El Convenio de Budapest de 2001"
+  },
+  {
+    "question": "¿Qué legislación introdujo modificaciones en el Código Penal español en 2015 respecto a los daños informáticos?",
+    "options": [
+      "La Ley 15/2015",
+      "La Directiva 2013/40/UE",
+      "La Ley Orgánica 10/1995"
+    ],
+    "answer": "La Ley Orgánica 10/1995"
+  },
+  {
+    "question": "¿Qué tipos de sistemas o elementos se protegen en el delito de daños informáticos?",
+    "options": [
+      "Sistemas informáticos y documentos electrónicos",
+      "Sistemas bancarios y redes sociales",
+      "Programas informáticos únicamente"
+    ],
+    "answer": "Sistemas informáticos y documentos electrónicos"
+  },
+  {
+    "question": "¿Qué pena puede imponerse a quien dañe gravemente datos informáticos ajenos sin autorización?",
+    "options": [
+      "Multa de hasta 10.000 euros",
+      "Pena de prisión de seis meses a tres años",
+      "Pena de prisión de tres a seis meses"
+    ],
+    "answer": "Pena de prisión de seis meses a tres años"
+  },
+  {
+    "question": "¿Qué circunstancias pueden agravar el delito de daños informáticos, según el Código Penal?",
+    "options": [
+      "Que se haya cometido en el marco de una organización criminal",
+      "Que el daño sea menor",
+      "Que no se haya afectado a datos personales"
+    ],
+    "answer": "Que se haya cometido en el marco de una organización criminal"
+  },
+  {
+    "question": "En los delitos de daños informáticos, ¿qué tipo de sistemas son considerados infraestructura crítica?",
+    "options": [
+      "Sistemas de redes sociales",
+      "Sistemas de gestión de empresas",
+      "Elementos esenciales para funciones vitales como la salud o la seguridad"
+    ],
+    "answer": "Elementos esenciales para funciones vitales como la salud o la seguridad"
+  },
+  {
+    "question": "¿Qué tipo de delito se comete si se obstaculiza o interrumpe gravemente un sistema informático ajeno?",
+    "options": [
+      "Acceso ilegal a sistemas informáticos",
+      "Denegación de servicio",
+      "Descubrimiento y revelación de secretos"
+    ],
+    "answer": "Denegación de servicio"
+  },
+  {
+    "question": "¿Qué es lo que tipifica el artículo 264 bis del Código Penal en relación con los daños informáticos?",
+    "options": [
+      "El delito de acceso no autorizado a sistemas informáticos",
+      "La obstaculización o interrupción grave del funcionamiento de un sistema informático",
+      "El robo de información personal"
+    ],
+    "answer": "La obstaculización o interrupción grave del funcionamiento de un sistema informático"
+  },
+  {
+    "question": "¿Qué pena se puede imponer cuando un delito de daños informáticos afecta a la actividad normal de una empresa o administración pública?",
+    "options": [
+      "Pena de prisión de tres a ocho años",
+      "Pena de prisión de seis meses a tres años",
+      "Pena de multa de hasta 5.000 euros"
+    ],
+    "answer": "Pena de prisión de tres a ocho años"
+  },
+  {
+    "question": "¿Qué tipo de programas informáticos pueden facilitar la comisión de delitos de daños informáticos?",
+    "options": [
+      "Programas de oficina",
+      "Software malicioso (malware)",
+      "Programas de antivirus"
+    ],
+    "answer": "Software malicioso (malware)"
+  },
+  {
+    "question": "¿Cuál fue el primer virus informático conocido y dónde surgió?",
+    "options": [
+      "Creeper, en Arpanet",
+      "Stuxnet, en Alemania",
+      "ILOVEYOU, en Estados Unidos"
+    ],
+    "answer": "Creeper, en Arpanet"
+  },
+  {
+    "question": "¿Qué tipo de software malicioso está diseñado para controlar o espiar a personas concretas a través de sus dispositivos?",
+    "options": [
+      "Virus",
+      "Troyanos",
+      "Ransomware"
+    ],
+    "answer": "Troyanos"
+  },
+  {
+    "question": "¿Qué vector de ataque ha aumentado debido a la generalización del uso de dispositivos móviles?",
+    "options": [
+      "Correo electrónico",
+      "Redes sociales",
+      "Teléfonos móviles y tabletas"
+    ],
+    "answer": "Teléfonos móviles y tabletas"
+  },
+  {
+    "question": "¿Qué puede causar el malware en los sistemas informáticos infectados?",
+    "options": [
+      "Daños físicos a los dispositivos",
+      "Acceso no autorizado para robar información",
+      "Incremento en la velocidad de procesamiento"
+    ],
+    "answer": "Acceso no autorizado para robar información"
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de los ciberdelincuentes al usar malware en dispositivos móviles?",
+    "options": [
+      "Control total del dispositivo y extorsión a la víctima",
+      "Sustitución de la batería",
+      "Mejorar el rendimiento del dispositivo"
+    ],
+    "answer": "Control total del dispositivo y extorsión a la víctima"
+  }, {
+    "question": "¿Qué fase no pertenece a un ataque de APT?",
+    "options": [
+      "Intrusión",
+      "Desplazamiento horizontal",
+      "Interrupción del servicio"
+    ],
+    "answer": "Interrupción del servicio"
+  },
+  {
+    "question": "¿Qué define a un ataque APT?",
+    "options": [
+      "Es un ataque breve y dirigido a obtener información rápidamente.",
+      "Es un ataque persistente y oculto que se adapta al sistema atacado.",
+      "Es un ataque diseñado para causar la caída inmediata de un sistema."
+    ],
+    "answer": "Es un ataque persistente y oculto que se adapta al sistema atacado."
+  },
+  {
+    "question": "¿Cuál es el propósito principal de un ataque APT?",
+    "options": [
+      "Realizar un daño inmediato en los sistemas afectados.",
+      "Vigilar, exfiltrar datos o modificar los recursos de una empresa durante un largo período.",
+      "Causar la caída completa de los sistemas y redes afectadas."
+    ],
+    "answer": "Vigilar, exfiltrar datos o modificar los recursos de una empresa durante un largo período."
+  },
+  {
+    "question": "¿Qué es una botnet?",
+    "options": [
+      "Una red de bots controlada por un ciberdelincuente para realizar actividades maliciosas.",
+      "Una red de computadoras que trabajan en conjunto para protegerse contra ciberataques.",
+      "Un sistema de protección contra malware en equipos infectados."
+    ],
+    "answer": "Una red de bots controlada por un ciberdelincuente para realizar actividades maliciosas."
+  },
+  {
+    "question": "¿Qué se utiliza para controlar una botnet?",
+    "options": [
+      "Un servidor central de mando y control (C&C).",
+      "Un software antivirus instalado en cada bot.",
+      "Una red privada de comunicaciones seguras entre los bots."
+    ],
+    "answer": "Un servidor central de mando y control (C&C)."
+  },
+  {
+    "question": "¿Qué técnica es utilizada en una botnet para infectar equipos?",
+    "options": [
+      "Sistemas de protección de antivirus.",
+      "Distribución de malware a través de técnicas como el phishing.",
+      "Técnicas de encriptación avanzada."
+    ],
+    "answer": "Distribución de malware a través de técnicas como el phishing."
+  },
+  {
+    "question": "¿Cuál es el propósito de un ataque de ransomware?",
+    "options": [
+      "Secuestrar los datos de un dispositivo o sistema y pedir un rescate a cambio de devolver el acceso.",
+      "Destruir permanentemente los datos y sistemas afectados.",
+      "Infectar a sistemas para convertirlos en bots dentro de una botnet."
+    ],
+    "answer": "Secuestrar los datos de un dispositivo o sistema y pedir un rescate a cambio de devolver el acceso."
+  },
+  {
+    "question": "¿Cuál es una técnica común de propagación de ransomware?",
+    "options": [
+      "Infección de equipos a través de vulnerabilidades en el software.",
+      "Utilización de servidores de mando y control (C&C).",
+      "Instalación de puertas traseras (backdoors) en sistemas infectados."
+    ],
+    "answer": "Infección de equipos a través de vulnerabilidades en el software."
+  },
+  {
+    "question": "¿Qué tipo de ransomware se utiliza para cifrar la información y pedir un rescate?",
+    "options": [
+      "Hoax ransomware.",
+      "Ransomware de cifrado.",
+      "Scareware."
+    ],
+    "answer": "Ransomware de cifrado."
+  },  {
+    "question": "¿Qué tipo de contenidos se tipifican en el artículo 189 del Código Penal en relación con abusos a menores?",
+    "options": [
+      "Contenidos relacionados con la pornografía infantil y personas con discapacidad necesitadas de especial protección.",
+      "Contenidos relacionados con el acoso laboral y el maltrato psicológico.",
+      "Contenidos sobre violencia política y terrorismo."
+    ],
+    "answer": "Contenidos relacionados con la pornografía infantil y personas con discapacidad necesitadas de especial protección."
+  },
+  {
+    "question": "¿Qué considera la Ley Orgánica 1/2015 sobre la pornografía infantil?",
+    "options": [
+      "Solo incluye imágenes de menores reales, sin considerar las representaciones virtuales o simuladas.",
+      "Incluye imágenes realistas de menores y personas que parezcan ser menores, independientemente de su edad real.",
+      "Solo incluye imágenes creadas por menores de 16 años."
+    ],
+    "answer": "Incluye imágenes realistas de menores y personas que parezcan ser menores, independientemente de su edad real."
+  },
+  {
+    "question": "¿Cuál es una de las agravantes para la posesión y distribución de pornografía infantil según el artículo 189?",
+    "options": [
+      "El culpable sea una persona que no haya sido reincidente en delitos similares.",
+      "Cuando el culpable sea un ascendiente, tutor o cualquier persona encargada de la persona menor de edad o con discapacidad.",
+      "Cuando el culpable haya mostrado arrepentimiento durante el juicio."
+    ],
+    "answer": "Cuando el culpable sea un ascendiente, tutor o cualquier persona encargada de la persona menor de edad o con discapacidad."
+  },
+  {
+    "question": "¿Qué es la pseudopornografía según la Circular 2/2015?",
+    "options": [
+      "Imágenes de pornografía infantil reales, pero en formato digital.",
+      "Imágenes creadas artificialmente, pero realistas, que representan a menores en conductas sexuales explícitas.",
+      "Imágenes de menores involucrados en actividades recreativas sin fines sexuales."
+    ],
+    "answer": "Imágenes creadas artificialmente, pero realistas, que representan a menores en conductas sexuales explícitas."
+  },
+  {
+    "question": "¿Qué se entiende por 'pornografía infantil' tras la reforma operada por la LO 1/2015?",
+    "options": [
+      "Solo imágenes de menores reales en conductas sexuales explícitas.",
+      "Imágenes que representen a personas que parecen ser menores, independientemente de su edad real.",
+      "Solamente material producido en el territorio nacional."
+    ],
+    "answer": "Imágenes que representen a personas que parecen ser menores, independientemente de su edad real."
+  },
+  {
+    "question": "¿Cuál es una de las vías más comunes para acceder a contenidos ilícitos relacionados con abusos a menores?",
+    "options": [
+      "Redes sociales con políticas estrictas de moderación.",
+      "Páginas web sin restricción alguna, páginas en la Deep web y mensajería instantánea.",
+      "Redes académicas y de investigación científica."
+    ],
+    "answer": "Páginas web sin restricción alguna, páginas en la Deep web y mensajería instantánea."
+  },
+  {
+    "question": "¿Qué pena se impone a quienes difunden material pornográfico infantil bajo circunstancias agravantes?",
+    "options": [
+      "Una pena de prisión de uno a cinco años.",
+      "Una pena de prisión de cinco a nueve años.",
+      "Una pena de prisión de diez a quince años."
+    ],
+    "answer": "Una pena de prisión de cinco a nueve años."
+  },
+  {
+    "question": "¿Qué tipo de pornografía infantil es considerada ilegal según la ley modificada por la LO 1/2015?",
+    "options": [
+      "Solo la pornografía real involucrando menores de edad.",
+      "Toda representación visual de menores o personas que parezcan ser menores en conducta sexualmente explícita.",
+      "Solo la pornografía generada por adultos que participen voluntariamente."
+    ],
+    "answer": "Toda representación visual de menores o personas que parezcan ser menores en conducta sexualmente explícita."
+  },
+  {
+    "question": "¿Qué se exige para la posesión de material pornográfico infantil según el Código Penal?",
+    "options": [
+      "La participación activa del menor en la creación del material.",
+      "Solo la compra de material proveniente del mercado negro.",
+      "La posesión para fines de distribución, sin necesidad de lucro."
+    ],
+    "answer": "La posesión para fines de distribución, sin necesidad de lucro."
+  },{
+    "question": "¿Qué delito se considera terrorismo según el artículo 573 del Código Penal?",
+    "options": [
+      "La comisión de delitos graves contra la vida, integridad física y libertad, con finalidades como desestabilizar el orden constitucional o provocar un estado de terror en la población.",
+      "La comisión de delitos relacionados con el narcotráfico.",
+      "La comisión de delitos contra la propiedad intelectual en Internet."
+    ],
+    "answer": "La comisión de delitos graves contra la vida, integridad física y libertad, con finalidades como desestabilizar el orden constitucional o provocar un estado de terror en la población."
+  },
+  {
+    "question": "¿Qué actividades se consideran ciberterrorismo según el artículo 573?",
+    "options": [
+      "Delitos informáticos que se cometen con la finalidad de alterar el orden constitucional, la paz pública o desestabilizar organizaciones internacionales.",
+      "Delitos informáticos cometidos por individuos que buscan un beneficio económico personal.",
+      "Delitos informáticos cometidos sin ninguna intención política o social."
+    ],
+    "answer": "Delitos informáticos que se cometen con la finalidad de alterar el orden constitucional, la paz pública o desestabilizar organizaciones internacionales."
+  },
+  {
+    "question": "¿Cuál es uno de los principales usos de Internet por parte de los ciberterroristas?",
+    "options": [
+      "Para difundir propaganda, reclutar adeptos y financiar sus actividades.",
+      "Para realizar investigaciones científicas y técnicas.",
+      "Para promover eventos deportivos internacionales."
+    ],
+    "answer": "Para difundir propaganda, reclutar adeptos y financiar sus actividades."
+  },
+  {
+    "question": "¿Qué herramienta utilizan los ciberterroristas para garantizar el anonimato en sus comunicaciones?",
+    "options": [
+      "La Deep web y TOR (The Onion Router).",
+      "Redes sociales populares como Facebook y Twitter.",
+      "Plataformas de videoconferencia comunes como Zoom."
+    ],
+    "answer": "La Deep web y TOR (The Onion Router)."
+  },
+  {
+    "question": "¿Cuál es una de las finalidades de la propaganda terrorista en Internet?",
+    "options": [
+      "Recaudar fondos mediante ventas en línea y donaciones.",
+      "Reclutar personas para realizar actividades de turismo.",
+      "Formar alianzas entre empresas tecnológicas."
+    ],
+    "answer": "Recaudar fondos mediante ventas en línea y donaciones."
+  },
+  {
+    "question": "¿Qué regulación aprobó la Unión Europea para luchar contra la difusión de contenidos terroristas en línea?",
+    "options": [
+      "El Reglamento (UE) 2021/784 sobre la lucha contra la difusión de contenidos terroristas en línea.",
+      "La Directiva 2014/99 sobre la protección de datos personales.",
+      "La Ley de Protección de Infraestructuras Críticas 2016."
+    ],
+    "answer": "El Reglamento (UE) 2021/784 sobre la lucha contra la difusión de contenidos terroristas en línea."
+  },
+  {
+    "question": "¿Qué propósito tiene la difusión de contenidos terroristas en Internet según la legislación europea?",
+    "options": [
+      "Garantizar la seguridad pública y el correcto funcionamiento del mercado único digital.",
+      "Promover la educación tecnológica entre jóvenes.",
+      "Difundir teorías conspirativas relacionadas con el gobierno."
+    ],
+    "answer": "Garantizar la seguridad pública y el correcto funcionamiento del mercado único digital."
+  },
+  {
+    "question": "¿Qué objetivo tiene el ciberterrorismo en relación con las acciones terroristas?",
+    "options": [
+      "Preparar acciones terroristas mediante la obtención de información útil.",
+      "Realizar actividades de ciberseguridad para proteger redes gubernamentales.",
+      "Crear contenido digital educativo y de sensibilización."
+    ],
+    "answer": "Preparar acciones terroristas mediante la obtención de información útil."
+  },
+  {
+    "question": "¿Qué tipo de plataformas son más utilizadas por los terroristas para difundir su mensaje?",
+    "options": [
+      "Las redes sociales y foros en la Deep web.",
+      "Plataformas de compras en línea.",
+      "Plataformas de streaming de contenido deportivo."
+    ],
+    "answer": "Las redes sociales y foros en la Deep web."
+  },
+  {
+    "question": "¿Cómo se gestionan las organizaciones terroristas en el ciberespacio?",
+    "options": [
+      "Mediante pequeños grupos independientes que se comunican a través de Internet de manera anónima.",
+      "A través de grandes empresas de telecomunicaciones.",
+      "Mediante organismos gubernamentales."
+    ],
+    "answer": "Mediante pequeños grupos independientes que se comunican a través de Internet de manera anónima."
+  },{
+    "question": "¿Qué pena se impone al que acose a una persona de forma insistente y reiterada según el artículo 172 ter?",
+    "options": [
+      "Pena de prisión de tres meses a dos años o multa de seis a veinticuatro meses.",
+      "Pena de prisión de uno a tres años.",
+      "Pena de trabajo comunitario durante seis meses."
+    ],
+    "answer": "Pena de prisión de tres meses a dos años o multa de seis a veinticuatro meses."
+  },
+  {
+    "question": "¿Qué conducta se considera acoso según el artículo 172 ter del Código Penal?",
+    "options": [
+      "Vigilar, perseguir o buscar la cercanía física de una persona sin estar legítimamente autorizado.",
+      "Realizar compras en línea sin el consentimiento de otra persona.",
+      "Enviar correos electrónicos no deseados a un número desconocido."
+    ],
+    "answer": "Vigilar, perseguir o buscar la cercanía física de una persona sin estar legítimamente autorizado."
+  },
+  {
+    "question": "¿Cuál es la principal diferencia entre el ciberacoso y el ciberbullying?",
+    "options": [
+      "El ciberacoso involucra a adultos y el ciberbullying involucra solo a menores de edad.",
+      "El ciberacoso ocurre solo en redes sociales, mientras que el ciberbullying se da exclusivamente en el correo electrónico.",
+      "El ciberacoso siempre es realizado por extraños, mientras que en el ciberbullying los involucrados son conocidos."
+    ],
+    "answer": "El ciberacoso involucra a adultos y el ciberbullying involucra solo a menores de edad."
+  },
+  {
+    "question": "¿Qué constituye el ciberbullying?",
+    "options": [
+      "Un acoso realizado entre menores de edad, con el objetivo de humillar públicamente.",
+      "Una venganza realizada entre adultos en el ámbito laboral.",
+      "Una difamación pública entre adultos a través de mensajería instantánea."
+    ],
+    "answer": "Un acoso realizado entre menores de edad, con el objetivo de humillar públicamente."
+  },
+  {
+    "question": "¿Qué es el ciberbaiting?",
+    "options": [
+      "El acoso a profesores por parte de los estudiantes con el fin de humillarlos públicamente.",
+      "El uso de redes sociales para compartir información sobre celebridades.",
+      "El acoso a víctimas a través de múltiples dispositivos móviles."
+    ],
+    "answer": "El acoso a profesores por parte de los estudiantes con el fin de humillarlos públicamente."
+  },
+  {
+    "question": "¿Qué tipo de contenido se difunde en casos de ciberacoso o ciberbullying?",
+    "options": [
+      "Contenidos personales y humillantes a través de medios digitales.",
+      "Anuncios publicitarios de productos de consumo.",
+      "Noticias relacionadas con deportes o entretenimiento."
+    ],
+    "answer": "Contenidos personales y humillantes a través de medios digitales."
+  },
+  {
+    "question": "¿Qué elemento es esencial para que las conductas de ciberacoso o ciberbullying constituyan un delito?",
+    "options": [
+      "Que sean hechos repetidos en el tiempo.",
+      "Que se realicen una sola vez.",
+      "Que sean realizados por una sola persona."
+    ],
+    "answer": "Que sean hechos repetidos en el tiempo."
+  },
+  {
+    "question": "¿En qué tipo de relación se suele dar un desequilibrio en el ciberacoso o ciberbullying?",
+    "options": [
+      "En una relación donde una de las partes tiene una posición de superioridad laboral o de fuerza.",
+      "Entre personas desconocidas que se encuentran por casualidad en Internet.",
+      "Cuando dos personas se encuentran debido a un accidente."
+    ],
+    "answer": "En una relación donde una de las partes tiene una posición de superioridad laboral o de fuerza."
+  },
+  {
+    "question": "¿Qué tipo de pena se impone al que utilice la imagen de otra persona sin consentimiento para crear perfiles falsos o anuncios en redes sociales?",
+    "options": [
+      "Pena de prisión de tres meses a un año o multa de seis a doce meses.",
+      "Pena de prisión de uno a tres años.",
+      "Multa de veinticuatro a treinta y seis meses."
+    ],
+    "answer": "Pena de prisión de tres meses a un año o multa de seis a doce meses."
+  },
+  {
+    "question": "¿Qué diferencia hay entre el ciberacoso y el grooming?",
+    "options": [
+      "El ciberacoso involucra a adultos, mientras que el grooming implica un adulto intentando establecer contacto sexual con un menor.",
+      "El ciberacoso solo ocurre en redes sociales, mientras que el grooming es solo por correo electrónico.",
+      "El grooming siempre involucra contenido violento, mientras que el ciberacoso no lo hace."
+    ],
+    "answer": "El ciberacoso involucra a adultos, mientras que el grooming implica un adulto intentando establecer contacto sexual con un menor."
+  },
+  {
+    "question": "¿Qué pena se impone al adulto que contacte con un menor de dieciséis años a través de Internet con el fin de cometer un delito sexual según el artículo 183.1 del Código Penal?",
+    "options": [
+      "Pena de prisión de uno a tres años o multa de doce a veinticuatro meses.",
+      "Pena de prisión de tres a cinco años.",
+      "Pena de prisión de seis meses a un año."
+    ],
+    "answer": "Pena de prisión de uno a tres años o multa de doce a veinticuatro meses."
+  },
+  {
+    "question": "¿Qué tipo de actos están relacionados con el delito de grooming según el artículo 183.2 del Código Penal?",
+    "options": [
+      "El contacto con un menor para obtener o mostrar material pornográfico.",
+      "El contacto con un menor para pedirle dinero.",
+      "El contacto con un menor para obtener información personal sobre su familia."
+    ],
+    "answer": "El contacto con un menor para obtener o mostrar material pornográfico."
+  },
+  {
+    "question": "¿Cuál es la primera fase en el delito de grooming?",
+    "options": [
+      "Contacto con el menor.",
+      "Acoso.",
+      "Difusión de imágenes."
+    ],
+    "answer": "Contacto con el menor."
+  },
+  {
+    "question": "¿En qué consiste la segunda fase del grooming?",
+    "options": [
+      "Establecimiento de una relación de confianza con el menor.",
+      "Exigir al menor que envíe imágenes de contenido sexual.",
+      "Reunirse en persona con el menor."
+    ],
+    "answer": "Establecimiento de una relación de confianza con el menor."
+  },
+  {
+    "question": "En el grooming, ¿qué sucede durante la fase de 'intercambio de imágenes o vídeos'?",
+    "options": [
+      "El adulto empieza a enviar imágenes o vídeos con contenido sexual.",
+      "El menor comienza a compartir sus redes sociales.",
+      "El adulto se presenta en persona ante el menor."
+    ],
+    "answer": "El adulto empieza a enviar imágenes o vídeos con contenido sexual."
+  },
+  {
+    "question": "¿Qué acción caracteriza la fase de 'acoso' en el grooming?",
+    "options": [
+      "El autor chantajea al menor con las imágenes o le obliga a realizar conductas sexuales.",
+      "El adulto bloquea al menor en todas las redes sociales.",
+      "El menor se queja a sus padres sobre la situación."
+    ],
+    "answer": "El autor chantajea al menor con las imágenes o le obliga a realizar conductas sexuales."
+  },
+  {
+    "question": "¿Qué sucede en la fase de 'difusión' en el grooming?",
+    "options": [
+      "El autor difunde las imágenes del menor entre sus conocidos para causar daño.",
+      "El menor denuncia al acosador a las autoridades.",
+      "El autor deja de contactar al menor y desaparece."
+    ],
+    "answer": "El autor difunde las imágenes del menor entre sus conocidos para causar daño."
+  },
+  {
+    "question": "¿Qué tipo de delitos se incluyen en la legislación que regula el grooming?",
+    "options": [
+      "Delitos sexuales cometidos a través de Internet, como el abuso o explotación sexual de menores.",
+      "Delitos relacionados con el robo de información personal.",
+      "Delitos de estafa financiera a través de redes sociales."
+    ],
+    "answer": "Delitos sexuales cometidos a través de Internet, como el abuso o explotación sexual de menores."
+  },
+  {
+    "question": "¿Cuál es la pena que se impone al que embauque a un menor para que le facilite material pornográfico según el artículo 183.2 del Código Penal?",
+    "options": [
+      "Pena de prisión de seis meses a dos años.",
+      "Pena de prisión de tres a cinco años.",
+      "Pena de trabajo comunitario durante seis meses."
+    ],
+    "answer": "Pena de prisión de seis meses a dos años."
+  },
+  {
+    "question": "¿Qué diferencia existe entre el delito de grooming y la usurpación de identidad en redes sociales?",
+    "options": [
+      "El grooming implica un contacto con menores con fines sexuales, mientras que la usurpación de identidad involucra la suplantación de identidad para realizar actos fraudulentos.",
+      "El grooming solo ocurre en redes sociales, mientras que la usurpación de identidad es solo un delito de ciberseguridad.",
+      "La usurpación de identidad solo se da entre adultos, mientras que el grooming involucra exclusivamente a menores."
+    ],
+    "answer": "El grooming implica un contacto con menores con fines sexuales, mientras que la usurpación de identidad involucra la suplantación de identidad para realizar actos fraudulentos."
+  }]

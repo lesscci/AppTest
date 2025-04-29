@@ -1,0 +1,569 @@
+[
+    {
+      "question": "¿Cuál era la motivación inicial de los ciberdelincuentes en los orígenes de la ciberdelincuencia?",
+      "options": [
+        "Motivos económicos",
+        "Afán de notoriedad dentro del mundo hacker",
+        "Objetivos políticos"
+      ],
+      "answer": "Afán de notoriedad dentro del mundo hacker"
+    },
+    {
+      "question": "¿Qué motivaciones predominan actualmente en la ciberdelincuencia?",
+      "options": [
+        "Reconocimiento social",
+        "Protagonismo en redes",
+        "Objetivos económicos, políticos o religiosos"
+      ],
+      "answer": "Objetivos económicos, políticos o religiosos"
+    },
+    {
+      "question": "¿Qué característica permite a un ciberdelito afectar a múltiples víctimas con una sola acción?",
+      "options": [
+        "Anonimato",
+        "Pluralidad de víctimas",
+        "Facilidad de ejecución"
+      ],
+      "answer": "Pluralidad de víctimas"
+    },
+    {
+      "question": "¿Qué dificultad presentan las pruebas en la investigación de ciberdelitos?",
+      "options": [
+        "Son fáciles de encontrar pero difíciles de interpretar",
+        "Son inmutables",
+        "Pueden ser manipulables y no perdurar en el tiempo"
+      ],
+      "answer": "Pueden ser manipulables y no perdurar en el tiempo"
+    },
+    {
+      "question": "¿Qué característica dificulta el rastreo de los ciberdelincuentes?",
+      "options": [
+        "Actúan en solitario",
+        "Usan software libre",
+        "Ocultan sus identidades con seudónimos o IP falsas"
+      ],
+      "answer": "Ocultan sus identidades con seudónimos o IP falsas"
+    },
+    {
+      "question": "¿Cuál de las siguientes es una motivación habitual en los ciberdelincuentes modernos?",
+      "options": [
+        "Curiosidad tecnológica",
+        "Obtención de beneficios económicos",
+        "Búsqueda de empleo"
+      ],
+      "answer": "Obtención de beneficios económicos"
+    },
+    {
+      "question": "¿Qué tipo de motivaciones además de las económicas se mencionan en el texto?",
+      "options": [
+        "Académicas y recreativas",
+        "Políticas, religiosas y empresariales",
+        "Sociales y culturales"
+      ],
+      "answer": "Políticas, religiosas y empresariales"
+    },
+    {
+      "question": "¿Qué implica la característica de sofisticación en los ciberdelitos?",
+      "options": [
+        "Uso de técnicas primitivas",
+        "Dificultad para que las víctimas detecten el delito",
+        "Mayor visibilidad del atacante"
+      ],
+      "answer": "Dificultad para que las víctimas detecten el delito"
+    },
+    {
+      "question": "¿Qué significa que haya una 'cifra negra' en los ciberdelitos?",
+      "options": [
+        "Que los ciberdelitos se castigan más severamente",
+        "Que hay muchos delitos no denunciados o no detectados",
+        "Que los datos de los delitos están encriptados"
+      ],
+      "answer": "Que hay muchos delitos no denunciados o no detectados"
+    },
+    {
+      "question": "¿Por qué se necesita alta especialización para investigar ciberdelitos?",
+      "options": [
+        "Porque los delitos ocurren en varios países",
+        "Porque los investigadores deben manejar herramientas tecnológicas avanzadas",
+        "Porque no hay suficiente legislación"
+      ],
+      "answer": "Porque los investigadores deben manejar herramientas tecnológicas avanzadas"
+    },
+    {
+      "question": "¿Cómo ha evolucionado el perfil del ciberdelincuente?",
+      "options": [
+        "De grupos organizados a individuos aislados",
+        "De personas con conocimientos básicos a individuos o redes organizadas y sofisticadas",
+        "De adolescentes a funcionarios estatales"
+      ],
+      "answer": "De personas con conocimientos básicos a individuos o redes organizadas y sofisticadas"
+    },
+    {
+      "question": "¿Cuál es una característica común de los ciberdelincuentes en cuanto a su identidad?",
+      "options": [
+        "Suelen actuar con nombre real",
+        "Ocultan su identidad mediante seudónimos o direcciones IP falsas",
+        "Usan pasaportes falsos"
+      ],
+      "answer": "Ocultan su identidad mediante seudónimos o direcciones IP falsas"
+    },
+    {
+      "question": "¿Qué tipo de delitos son comunes por su fácil ejecución?",
+      "options": [
+        "Delitos informáticos simples",
+        "Delitos con motivación ideológica",
+        "Delitos internacionales"
+      ],
+      "answer": "Delitos informáticos simples"
+    },
+    {
+      "question": "¿Qué elemento facilita la innovación en la ciberdelincuencia?",
+      "options": [
+        "La presión social",
+        "La creatividad y uso de nuevas herramientas",
+        "La falta de vigilancia"
+      ],
+      "answer": "La creatividad y uso de nuevas herramientas"
+    },
+    {
+      "question": "¿Cuál es un ejemplo de delito económico habitual en internet?",
+      "options": [
+        "Phishing",
+        "Sabotaje industrial",
+        "Espionaje diplomático"
+      ],
+      "answer": "Phishing"
+    },
+    {
+      "question": "¿Qué tipo de ataques tienen objetivos empresariales?",
+      "options": [
+        "Secuestros de datos personales",
+        "Acceso a información corporativa valiosa",
+        "Destrucción de infraestructuras públicas"
+      ],
+      "answer": "Acceso a información corporativa valiosa"
+    },
+    {
+      "question": "¿Qué finalidad puede tener el uso de internet por parte de organizaciones terroristas?",
+      "options": [
+        "Promover el comercio internacional",
+        "Comunicar mensajes, captar adeptos y coordinarse",
+        "Distribuir software educativo"
+      ],
+      "answer": "Comunicar mensajes, captar adeptos y coordinarse"
+    },
+    {
+      "question": "¿Qué motivación suele tener un ciberataque entre Estados?",
+      "options": [
+        "Cultural",
+        "Espionaje o sabotaje institucional",
+        "Comercialización de productos"
+      ],
+      "answer": "Espionaje o sabotaje institucional"
+    },
+    {
+      "question": "¿Cuál de las siguientes no es una característica del ciberdelito?",
+      "options": [
+        "Limitación territorial",
+        "Alta sofisticación",
+        "Pluralidad de víctimas"
+      ],
+      "answer": "Limitación territorial"
+    },
+    {
+      "question": "¿Qué se requiere para validar las pruebas en delitos informáticos?",
+      "options": [
+        "Que estén impresas en papel",
+        "Garantías jurídicas en su obtención",
+        "Consentimiento del atacante"
+      ],
+      "answer": "Garantías jurídicas en su obtención"
+    },
+    {
+      "question": "¿Qué perfil técnico se asocia comúnmente con los ciberdelincuentes?",
+      "options": [
+        "Usuarios básicos de internet",
+        "Altamente técnicos y especializados",
+        "Funcionarios administrativos"
+      ],
+      "answer": "Altamente técnicos y especializados"
+    },
+    {
+      "question": "¿Qué herramienta utilizan los ciberdelincuentes para dificultar el rastreo?",
+      "options": [
+        "Navegadores convencionales",
+        "VPNs y proxys",
+        "Antivirus de pago"
+      ],
+      "answer": "VPNs y proxys"
+    },
+    {
+      "question": "¿Qué hace que un delito informático sea difícil de detectar para la víctima?",
+      "options": [
+        "No genera ningún tipo de pérdida económica",
+        "La sofisticación del ataque lo hace invisible",
+        "Se realiza únicamente fuera de horario laboral"
+      ],
+      "answer": "La sofisticación del ataque lo hace invisible"
+    },
+    {
+      "question": "¿Qué implica la globalidad del ciberdelito para la justicia?",
+      "options": [
+        "Mayor cooperación internacional",
+        "Menor relevancia jurídica",
+        "Fácil aplicación de leyes locales"
+      ],
+      "answer": "Mayor cooperación internacional"
+    },
+    {
+      "question": "¿Qué tipo de organización puede tener una red de ciberdelincuentes moderna?",
+      "options": [
+        "Grupos espontáneos",
+        "Redes organizadas con recursos económicos",
+        "Colegios profesionales"
+      ],
+      "answer": "Redes organizadas con recursos económicos"
+    },
+    {
+      "question": "¿Qué papel juega la cifra negra en la percepción del ciberdelito?",
+      "options": [
+        "La cifra negra reduce la alarma social",
+        "Indica que no se cometen tantos delitos como se cree",
+        "Refleja una realidad incompleta del fenómeno"
+      ],
+      "answer": "Refleja una realidad incompleta del fenómeno"
+    },
+    {
+      "question": "¿Qué tipo de delitos requieren menos esfuerzo técnico según el texto?",
+      "options": [
+        "Delitos de sabotaje estatal",
+        "Delitos comunes como phishing y spam",
+        "Acceso no autorizado a redes militares"
+      ],
+      "answer": "Delitos comunes como phishing y spam"
+    },
+    {
+      "question": "¿Qué herramienta legal es imprescindible para validar pruebas digitales?",
+      "options": [
+        "Certificado SSL",
+        "Peritaje informático con garantías",
+        "Licencia de software"
+      ],
+      "answer": "Peritaje informático con garantías"
+    },
+    {
+      "question": "¿Qué hace cada vez más difícil combatir la ciberdelincuencia?",
+      "options": [
+        "Falta de tecnología adecuada",
+        "Constante evolución técnica y estratégica de los delincuentes",
+        "Poca motivación de las autoridades"
+      ],
+      "answer": "Constante evolución técnica y estratégica de los delincuentes"
+    }, {
+        "question": "¿Qué representa la ciberdelincuencia organizada en el contexto de la seguridad digital?",
+        "options": [
+          "Una amenaza menor a largo plazo",
+          "Una oportunidad para nuevas tecnologías",
+          "Una de las amenazas más importantes con potencial de causar daños significativos"
+        ],
+        "answer": "Una de las amenazas más importantes con potencial de causar daños significativos"
+      },
+      {
+        "question": "¿Cuál es una característica fundamental de la ciberdelincuencia organizada?",
+        "options": [
+          "Es local y poco estructurada",
+          "Se limita a delitos individuales",
+          "Opera de forma sofisticada y sin fronteras"
+        ],
+        "answer": "Opera de forma sofisticada y sin fronteras"
+      },
+      {
+        "question": "¿Qué tecnologías utilizan los grupos de ciberdelincuencia organizada?",
+        "options": [
+          "Redes sociales exclusivamente",
+          "Tecnologías de la información y la comunicación (TIC)",
+          "Televisión y radio"
+        ],
+        "answer": "Tecnologías de la información y la comunicación (TIC)"
+      },
+      {
+        "question": "¿Qué estructura organizativa suelen tener estos grupos?",
+        "options": [
+          "Completamente desorganizada",
+          "Jerárquica, con roles y responsabilidades definidas",
+          "Anónima y sin líderes"
+        ],
+        "answer": "Jerárquica, con roles y responsabilidades definidas"
+      },
+      {
+        "question": "¿Cuál es el objetivo principal de la ciberdelincuencia organizada?",
+        "options": [
+          "Crear software libre",
+          "Obtener beneficios económicos o materiales",
+          "Educar sobre ciberseguridad"
+        ],
+        "answer": "Obtener beneficios económicos o materiales"
+      },
+      {
+        "question": "Según la Convención de Naciones Unidas, ¿cuántas personas deben formar parte de un grupo para considerarlo criminal organizado?",
+        "options": [
+          "Al menos dos personas",
+          "Tres o más personas",
+          "Más de diez personas"
+        ],
+        "answer": "Tres o más personas"
+      },
+      {
+        "question": "¿Cuál de los siguientes no es uno de los elementos fundamentales de un grupo criminal organizado según la ONU?",
+        "options": [
+          "Estructura",
+          "Localización fija",
+          "Finalidad común"
+        ],
+        "answer": "Localización fija"
+      },
+      {
+        "question": "¿Qué tipo de delitos cometen los grupos de ciberdelincuencia organizada?",
+        "options": [
+          "Delitos de tránsito",
+          "Robo de datos, fraude financiero, ciberterrorismo",
+          "Solo delitos de opinión"
+        ],
+        "answer": "Robo de datos, fraude financiero, ciberterrorismo"
+      },
+      {
+        "question": "¿Qué ha provocado el desarrollo tecnológico respecto a los delitos organizados?",
+        "options": [
+          "Reducción de delitos",
+          "Cambio de enfoque hacia delitos económicos y blanqueo de capitales",
+          "Eliminación del crimen organizado"
+        ],
+        "answer": "Cambio de enfoque hacia delitos económicos y blanqueo de capitales"
+      },
+      {
+        "question": "¿Qué función cumple internet en el contexto de la ciberdelincuencia organizada?",
+        "options": [
+          "Restringe el acceso a la información",
+          "Facilita el acceso a información personal y organizacional",
+          "Limita la comunicación entre delincuentes"
+        ],
+        "answer": "Facilita el acceso a información personal y organizacional"
+      },
+      {
+        "question": "¿Cuál de las siguientes estructuras es habitual en la ciberdelincuencia organizada?",
+        "options": [
+          "Grupos con jerarquía clara o redes descentralizadas",
+          "Organizaciones sindicales",
+          "Empresas registradas legalmente"
+        ],
+        "answer": "Grupos con jerarquía clara o redes descentralizadas"
+      },
+      {
+        "question": "¿Qué es un enjambre dentro de la ciberdelincuencia organizada?",
+        "options": [
+          "Grupo que actúa durante mucho tiempo",
+          "Fusión temporal de individuos para una tarea específica delictiva",
+          "Estructura centralizada con mando claro"
+        ],
+        "answer": "Fusión temporal de individuos para una tarea específica delictiva"
+      },
+      {
+        "question": "¿Qué caracteriza a un nodo en la estructura delictiva?",
+        "options": [
+          "Carece de mando y estructura",
+          "Cuenta con núcleo y socios periféricos con mando definido",
+          "No tiene objetivos económicos"
+        ],
+        "answer": "Cuenta con núcleo y socios periféricos con mando definido"
+      },
+      {
+        "question": "¿Qué actividades delictivas se asocian típicamente con los nodos?",
+        "options": [
+          "Investigación académica",
+          "Ciberactivismo legal",
+          "Phishing, delitos sexuales, distribución de malware"
+        ],
+        "answer": "Phishing, delitos sexuales, distribución de malware"
+      },
+      {
+        "question": "¿Qué tipo de personal incluyen los grupos de ciberdelincuencia organizada?",
+        "options": [
+          "Solo expertos informáticos",
+          "Solo delincuentes comunes",
+          "Personal técnico y de apoyo, como en una empresa"
+        ],
+        "answer": "Personal técnico y de apoyo, como en una empresa"
+      },
+      {
+        "question": "¿Qué similitud tienen estos grupos con las empresas legítimas?",
+        "options": [
+          "Tienen código de ética y transparencia",
+          "Tienen personal contratado, normas internas y control",
+          "Están reguladas por el gobierno"
+        ],
+        "answer": "Tienen personal contratado, normas internas y control"
+      },
+      {
+        "question": "¿Qué organización internacional señaló que la ciberdelincuencia organizada es un problema global y sofisticado?",
+        "options": [
+          "FIFA",
+          "Foro Económico Mundial",
+          "UNESCO"
+        ],
+        "answer": "Foro Económico Mundial"
+      },
+      {
+        "question": "¿Qué función cumple la coordinación internacional en la lucha contra la ciberdelincuencia organizada?",
+        "options": [
+          "Es prescindible",
+          "Es un obstáculo para los estados",
+          "Es imprescindible para evitar ventajas para los delincuentes"
+        ],
+        "answer": "Es imprescindible para evitar ventajas para los delincuentes"
+      },
+      {
+        "question": "¿Cuál es una crítica a la definición de grupo delictivo organizada de la Convención de la ONU?",
+        "options": [
+          "Es demasiado técnica",
+          "Es imprecisa",
+          "Es demasiado breve"
+        ],
+        "answer": "Es imprecisa"
+      },
+      {
+        "question": "¿Qué alternativa se propuso a la definición de la ONU?",
+        "options": [
+          "Definición del FBI",
+          "Lista de indicadores del Consejo de Europa y Europol",
+          "Normas ISO internacionales"
+        ],
+        "answer": "Lista de indicadores del Consejo de Europa y Europol"
+      },
+      {
+        "question": "¿Qué organización recopiló un compendio sobre ciberdelincuencia organizada?",
+        "options": [
+          "Interpol",
+          "UNODC (Oficina de las Naciones Unidas contra la Droga y el Delito)",
+          "ONU Mujeres"
+        ],
+        "answer": "UNODC (Oficina de las Naciones Unidas contra la Droga y el Delito)"
+      },
+      {
+        "question": "¿Qué permite la falta de necesidad de coincidencia geográfica entre miembros?",
+        "options": [
+          "Mayor anonimato",
+          "Coordinación efectiva en línea",
+          "Limitación de los delitos"
+        ],
+        "answer": "Coordinación efectiva en línea"
+      },
+      {
+        "question": "¿Qué organismos han aprobado instrumentos legislativos y protocolos para hacer frente a la ciberdelincuencia organizada?",
+        "options": [
+          "Gobiernos, cuerpos de policía y otros operadores",
+          "Empresas privadas y organizaciones no gubernamentales",
+          "Solo gobiernos de la Unión Europea"
+        ],
+        "answer": "Gobiernos, cuerpos de policía y otros operadores"
+      },
+      {
+        "question": "¿Cuál es la clasificación realizada por la UNODC sobre cooperación internacional en ciberdelitos?",
+        "options": [
+          "Cooperación formal e informal",
+          "Cooperación pública y privada",
+          "Cooperación bilateral y multilateral"
+        ],
+        "answer": "Cooperación formal e informal"
+      },
+      {
+        "question": "¿Qué organismo internacional aprobó el Convenio sobre la ciberdelincuencia o Convenio de Budapest?",
+        "options": [
+          "Consejo de Europa",
+          "ONU",
+          "Unión Europea"
+        ],
+        "answer": "Consejo de Europa"
+      },
+      {
+        "question": "¿En qué año se aprobó el Convenio de Budapest?",
+        "options": [
+          "2001",
+          "2011",
+          "2020"
+        ],
+        "answer": "2001"
+      },
+      {
+        "question": "¿Qué tipos de delitos clasifica el Convenio de Budapest en relación con la ciberdelincuencia?",
+        "options": [
+          "Delitos contra la confidencialidad, la integridad y la disponibilidad de datos y sistemas informáticos",
+          "Delitos de espionaje industrial",
+          "Delitos contra la propiedad física"
+        ],
+        "answer": "Delitos contra la confidencialidad, la integridad y la disponibilidad de datos y sistemas informáticos"
+      },
+      {
+        "question": "¿Cuál es el objetivo principal de la Directiva 2011/92/UE?",
+        "options": [
+          "Luchar contra los abusos sexuales y la explotación sexual de menores, y la pornografía infantil",
+          "Regular el comercio electrónico en Europa",
+          "Proteger los derechos de los consumidores en línea"
+        ],
+        "answer": "Luchar contra los abusos sexuales y la explotación sexual de menores, y la pornografía infantil"
+      },
+      {
+        "question": "¿Qué principio fundamental se establece en el artículo 3 del Convenio de Budapest?",
+        "options": [
+          "Extradición de los autores de ciberdelitos",
+          "Protección de la privacidad",
+          "Prevención de la ciberdelincuencia"
+        ],
+        "answer": "Extradición de los autores de ciberdelitos"
+      },
+      {
+        "question": "¿Cuál es la ventaja principal de la cooperación internacional en la lucha contra la ciberdelincuencia?",
+        "options": [
+          "Mayor eficacia en la persecución de delitos transnacionales",
+          "Control total sobre las investigaciones",
+          "Acceso ilimitado a datos privados"
+        ],
+        "answer": "Mayor eficacia en la persecución de delitos transnacionales"
+      },
+      {
+        "question": "¿Qué permite la falta de necesidad de coincidencia geográfica entre miembros?",
+        "options": [
+          "Mayor anonimato",
+          "Coordinación efectiva en línea",
+          "Limitación de los delitos"
+        ],
+        "answer": "Coordinación efectiva en línea"
+      },
+      {
+        "question": "¿Qué instrumento internacional se utiliza para regular las medidas contra la ciberdelincuencia en Europa?",
+        "options": [
+          "Convenio de Budapest",
+          "Reglamento General de Protección de Datos",
+          "Convención de Ginebra"
+        ],
+        "answer": "Convenio de Budapest"
+      },
+      {
+        "question": "¿Cómo se clasifica la ciberdelincuencia en la legislación internacional?",
+        "options": [
+          "Como un delito transnacional",
+          "Como un delito local",
+          "Como un delito ambiental"
+        ],
+        "answer": "Como un delito transnacional"
+      },
+      {
+        "question": "¿Qué aspecto clave se aborda en la legislación sobre ciberdelincuencia?",
+        "options": [
+          "Protección de los sistemas informáticos y de datos",
+          "Control de la actividad política en línea",
+          "Exclusión de los delitos de robo físico"
+        ],
+        "answer": "Protección de los sistemas informáticos y de datos"
+      }
+  ]
+  

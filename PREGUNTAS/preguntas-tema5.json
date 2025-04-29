@@ -1,0 +1,553 @@
+[
+    {
+      "question": "¿Qué elemento NO forma parte de los tres principales de la firma electrónica según el texto?",
+      "options": [
+        "Autenticidad en origen",
+        "Trazabilidad absoluta",
+        "Integridad"
+      ],
+      "answer": "Trazabilidad absoluta"
+    },
+    {
+      "question": "¿Qué utiliza el firmante para firmar electrónicamente según el artículo 3.10 del Reglamento eIDAS?",
+      "options": [
+        "Un dispositivo de autenticación de múltiples factores",
+        "Datos en formato electrónico asociados lógicamente a otros datos",
+        "Un software homologado por la UE"
+      ],
+      "answer": "Datos en formato electrónico asociados lógicamente a otros datos"
+    },
+    {
+      "question": "¿Cuál es la función principal de la clave privada en la firma electrónica?",
+      "options": [
+        "Cifrar el mensaje original",
+        "Firmar el resumen del mensaje generado por una función hash",
+        "Verificar la identidad del receptor"
+      ],
+      "answer": "Firmar el resumen del mensaje generado por una función hash"
+    },
+    {
+      "question": "¿Qué garantiza la autenticidad de origen en una firma electrónica?",
+      "options": [
+        "Que el mensaje sea legible",
+        "Que el mensaje proviene de la fuente declarada",
+        "Que se ha utilizado un certificado biométrico"
+      ],
+      "answer": "Que el mensaje proviene de la fuente declarada"
+    },
+    {
+      "question": "¿Cuál es el rol de la clave pública en la verificación de una firma electrónica?",
+      "options": [
+        "Desencriptar el mensaje original",
+        "Generar la firma del remitente",
+        "Verificar la autenticidad de la firma mediante el resumen cifrado"
+      ],
+      "answer": "Verificar la autenticidad de la firma mediante el resumen cifrado"
+    },
+    {
+      "question": "¿Qué tipo de criptografía se utiliza comúnmente en la firma electrónica?",
+      "options": [
+        "Criptografía simétrica de clave única",
+        "Criptografía cuántica",
+        "Criptografía asimétrica o de clave pública"
+      ],
+      "answer": "Criptografía asimétrica o de clave pública"
+    },
+    {
+      "question": "¿Qué operación realiza el remitente antes de firmar digitalmente un mensaje?",
+      "options": [
+        "Crea una clave secreta compartida",
+        "Ejecuta una función hash sobre el mensaje",
+        "Obtiene un token de verificación"
+      ],
+      "answer": "Ejecuta una función hash sobre el mensaje"
+    },
+    {
+      "question": "¿Qué garantiza que un documento firmado electrónicamente no pueda ser negado por el firmante?",
+      "options": [
+        "El uso de doble autenticación",
+        "El concepto de no repudio",
+        "El control biométrico"
+      ],
+      "answer": "El concepto de no repudio"
+    },
+    {
+      "question": "¿Cuál es la finalidad principal del certificado digital en el contexto de la firma electrónica?",
+      "options": [
+        "Servir como canal de comunicación cifrada",
+        "Asociar una persona o entidad a una clave pública",
+        "Sustituir la clave privada del firmante"
+      ],
+      "answer": "Asociar una persona o entidad a una clave pública"
+    },
+    {
+      "question": "¿Qué ocurre si los resúmenes hash comparados durante la verificación de la firma coinciden?",
+      "options": [
+        "Se confirma que el mensaje no ha sido modificado y su autenticidad",
+        "La firma electrónica se vuelve inválida",
+        "Debe solicitarse un nuevo certificado"
+      ],
+      "answer": "Se confirma que el mensaje no ha sido modificado y su autenticidad"
+    },
+    {
+      "question": "¿Qué organización firma el certificado digital según el texto?",
+      "options": [
+        "El propio usuario",
+        "Un prestador de servicios de confianza",
+        "El Parlamento Europeo"
+      ],
+      "answer": "Un prestador de servicios de confianza"
+    },
+    {
+      "question": "¿Qué modifica el Reglamento (UE) 2024/1183?",
+      "options": [
+        "La Directiva 2002/58/CE",
+        "El Reglamento eIDAS original (910/2014)",
+        "El RGPD (Reglamento General de Protección de Datos)"
+      ],
+      "answer": "El Reglamento eIDAS original (910/2014)"
+    },
+    {
+      "question": "¿Qué función NO corresponde al certificado de firma electrónica según el texto?",
+      "options": [
+        "Vincular los datos de validación de firma con una persona",
+        "Confirmar el seudónimo o nombre de una persona",
+        "Encriptar el contenido de los mensajes"
+      ],
+      "answer": "Encriptar el contenido de los mensajes"
+    },
+    {
+      "question": "¿Cuál es una característica esencial de la clave privada según el texto?",
+      "options": [
+        "Puede ser compartida con el receptor",
+        "Debe estar firmada digitalmente por el receptor",
+        "Solo debe ser conocida por el emisor"
+      ],
+      "answer": "Solo debe ser conocida por el emisor"
+    },
+    {
+      "question": "¿Qué tipo de datos vincula el certificado de firma electrónica?",
+      "options": [
+        "Datos personales y datos fiscales",
+        "Datos biométricos del firmante",
+        "Datos de validación de firma con una persona física"
+      ],
+      "answer": "Datos de validación de firma con una persona física"
+    }
+    ,{
+        "question": "¿Qué institución expide el DNI electrónico en España?",
+        "options": [
+          "Agencia Española de Protección de Datos",
+          "Ministerio del Interior",
+          "Ministerio de Justicia"
+        ],
+        "answer": "Ministerio del Interior"
+      },
+      {
+        "question": "¿Qué año marcó la introducción del DNI electrónico en España?",
+        "options": [
+          "2004",
+          "2006",
+          "2010"
+        ],
+        "answer": "2006"
+      },
+      {
+        "question": "¿Cuál de los siguientes efectos legales tiene la firma realizada con el DNI electrónico?",
+        "options": [
+          "Validez limitada a trámites administrativos",
+          "Equivalente a una firma manuscrita",
+          "Solo válida en procedimientos judiciales"
+        ],
+        "answer": "Equivalente a una firma manuscrita"
+      },
+      {
+        "question": "¿Cuál de estas funciones no es atribuida al DNI electrónico según el texto?",
+        "options": [
+          "Realizar compras en el extranjero",
+          "Firmar documentos electrónicamente",
+          "Verificar la identidad en Internet"
+        ],
+        "answer": "Realizar compras en el extranjero"
+      },
+      {
+        "question": "¿Qué contiene el chip del DNI electrónico además de la información personal del titular?",
+        "options": [
+          "Registro de viajes realizados",
+          "Certificados digitales",
+          "Firma manuscrita escaneada"
+        ],
+        "answer": "Certificados digitales"
+      },
+      {
+        "question": "¿Cuál es la principal función del certificado de autenticación?",
+        "options": [
+          "Comprobar si un documento ha sido alterado",
+          "Proporcionar validez jurídica a una firma",
+          "Probar que el ciudadano es el titular del eDNI"
+        ],
+        "answer": "Probar que el ciudadano es el titular del eDNI"
+      },
+      {
+        "question": "¿Qué se necesita para acceder al certificado de autenticación del eDNI?",
+        "options": [
+          "Firma manuscrita",
+          "Tarjeta bancaria asociada",
+          "Conocimiento del PIN"
+        ],
+        "answer": "Conocimiento del PIN"
+      },
+      {
+        "question": "¿Qué propiedad garantiza el certificado de firma del eDNI?",
+        "options": [
+          "Anonimato",
+          "No repudio e integridad",
+          "Autenticidad de terceros"
+        ],
+        "answer": "No repudio e integridad"
+      },
+      {
+        "question": "¿Qué implicación jurídica tiene el uso del certificado de firma del eDNI?",
+        "options": [
+          "Es válido solo en organismos públicos",
+          "Equivale a una prueba testifical",
+          "Tiene la misma validez que una firma manuscrita"
+        ],
+        "answer": "Tiene la misma validez que una firma manuscrita"
+      },
+      {
+        "question": "¿Qué puede impedir el uso de un certificado del eDNI?",
+        "options": [
+          "Que el titular esté en el extranjero",
+          "Que el certificado esté caducado o revocado",
+          "Que no se haya usado en los últimos 30 días"
+        ],
+        "answer": "Que el certificado esté caducado o revocado"
+      },
+      {
+        "question": "¿Qué tipo de información contiene el chip del DNI electrónico?",
+        "options": [
+          "Datos biométricos completos",
+          "Datos personales y certificados digitales",
+          "Información fiscal y patrimonial"
+        ],
+        "answer": "Datos personales y certificados digitales"
+      },
+      {
+        "question": "¿Qué permite al ciudadano el certificado de autenticación?",
+        "options": [
+          "Enviar correos electrónicos cifrados",
+          "Autenticarse en servicios electrónicos",
+          "Recuperar contraseñas olvidadas"
+        ],
+        "answer": "Autenticarse en servicios electrónicos"
+      },
+      {
+        "question": "¿Qué condición es necesaria para validar un certificado digital antes de usarlo?",
+        "options": [
+          "Que esté emitido en los últimos 12 meses",
+          "Que esté activo y no revocado",
+          "Que el titular lo haya registrado en Hacienda"
+        ],
+        "answer": "Que esté activo y no revocado"
+      },
+      {
+        "question": "¿Por qué motivo podría revocarse un certificado del eDNI?",
+        "options": [
+          "Por dejar de usarlo durante más de un año",
+          "Por actualizar la fotografía del titular",
+          "Por la pérdida o robo del documento"
+        ],
+        "answer": "Por la pérdida o robo del documento"
+      },
+      {
+        "question": "¿Cuál de las siguientes afirmaciones es falsa según el texto?",
+        "options": [
+          "El certificado de firma sirve para autenticar al ciudadano ante la Administración",
+          "El certificado de firma asegura la integridad del documento",
+          "El certificado de autenticación requiere conocer el PIN"
+        ],
+        "answer": "El certificado de firma sirve para autenticar al ciudadano ante la Administración"
+      },
+        {
+          "question": "¿Qué característica fundamental diferencia una firma electrónica avanzada de una simple?",
+          "options": [
+            "La necesidad de un certificado digital",
+            "La vinculación única con el firmante y detección de modificaciones",
+            "El uso exclusivo en transacciones comerciales"
+          ],
+          "answer": "La vinculación única con el firmante y detección de modificaciones"
+        },
+        {
+          "question": "En el contexto de los certificados electrónicos, ¿qué implica la revocación?",
+          "options": [
+            "La renovación automática del certificado",
+            "La invalidación anticipada antes de su caducidad",
+            "La transferencia a otro titular"
+          ],
+          "answer": "La invalidación anticipada antes de su caducidad"
+        },
+        {
+          "question": "¿Qué garantiza específicamente un sello electrónico cualificado para una persona jurídica?",
+          "options": [
+            "La autoría y no repudio de documentos institucionales",
+            "La confidencialidad de las comunicaciones",
+            "La representación legal ante notarías"
+          ],
+          "answer": "La autoría y no repudio de documentos institucionales"
+        },
+        {
+          "question": "¿Qué principio del eIDAS asegura que una firma cualificada española sea válida en Alemania?",
+          "options": [
+            "Principio de reciprocidad",
+            "Reconocimiento mutuo entre Estados miembros",
+            "Armonización fiscal europea"
+          ],
+          "answer": "Reconocimiento mutuo entre Estados miembros"
+        },
+        {
+          "question": "¿Qué elemento NO es obligatorio para un prestador de servicios de confianza cualificados?",
+          "options": [
+            "Constituir un seguro de responsabilidad civil",
+            "Almacenar copias de los datos de creación de firma",
+            "Publicar información veraz sobre sus servicios"
+          ],
+          "answer": "Almacenar copias de los datos de creación de firma"
+        },
+        {
+          "question": "La 'ventaja probatoria' en documentos electrónicos se aplica cuando:",
+          "options": [
+            "Se usa cualquier tipo de firma electrónica",
+            "Se emplea un servicio de confianza cualificado",
+            "El documento se imprime después de firmar"
+          ],
+          "answer": "Se emplea un servicio de confianza cualificado"
+        },
+        {
+          "question": "¿Qué aspecto verifica un certificado de autenticación web?",
+          "options": [
+            "La identidad del administrador del sitio",
+            "La vinculación entre dominio y entidad titular",
+            "El cumplimiento de normativas de accesibilidad"
+          ],
+          "answer": "La vinculación entre dominio y entidad titular"
+        },
+        {
+          "question": "En la cartera europea de identidad digital (EUDI-Wallet), ¿qué derecho tiene el titular?",
+          "options": [
+            "Control exclusivo sobre sus datos personales",
+            "Compensación económica por su uso",
+            "Acceso a servicios fuera de la UE"
+          ],
+          "answer": "Control exclusivo sobre sus datos personales"
+        },
+        {
+          "question": "¿Qué circunstancia obliga a un prestador a revelar la identidad tras un pseudónimo?",
+          "options": [
+            "Solicitud de cualquier ciudadano",
+            "Requerimiento judicial o autoridad competente",
+            "Petición de empresas publicitarias"
+          ],
+          "answer": "Requerimiento judicial o autoridad competente"
+        },
+        {
+          "question": "La modificación del eIDAS en 2024 introdujo principalmente:",
+          "options": [
+            "Nuevos impuestos a servicios digitales",
+            "El marco europeo de identidad digital",
+            "Restricciones a la firma electrónica simple"
+          ],
+          "answer": "El marco europeo de identidad digital"
+        },
+        {
+          "question": "¿Qué característica es exclusiva de los dispositivos cualificados de creación de firma?",
+          "options": [
+            "Permiten firmar múltiples documentos simultáneamente",
+            "Garantizan la seguridad del proceso mediante certificación",
+            "Funcionan sin conexión a internet"
+          ],
+          "answer": "Garantizan la seguridad del proceso mediante certificación"
+        },
+        {
+          "question": "En un certificado de representante de persona jurídica, ¿qué debe verificar el prestador?",
+          "options": [
+            "Solo la identidad del representante",
+            "Las facultades de representación y vigencia",
+            "El historial crediticio de la empresa"
+          ],
+          "answer": "Las facultades de representación y vigencia"
+        },
+        {
+          "question": "¿Qué tipo de certificado NO puede emitirse para una persona jurídica según eIDAS?",
+          "options": [
+            "Certificado de sello electrónico",
+            "Certificado de firma electrónica cualificada",
+            "Certificado de autenticación web"
+          ],
+          "answer": "Certificado de firma electrónica cualificada"
+        },
+        {
+          "question": "La suspensión de un certificado electrónico implica:",
+          "options": [
+            "Su invalidación permanente",
+            "Una interrupción temporal de su validez",
+            "La transferencia automática a otro prestador"
+          ],
+          "answer": "Una interrupción temporal de su validez"
+        },
+        {
+          "question": "¿Qué servicio de confianza permite demostrar la existencia de un documento en un momento dado?",
+          "options": [
+            "Sello de tiempo electrónico",
+            "Entrega electrónica certificada",
+            "Archivo electrónico cualificado"
+          ],
+          "answer": "Sello de tiempo electrónico"
+        },
+        {
+          "question": "En la UE, ¿qué sector NO está obligado a aceptar la cartera de identidad digital?",
+          "options": [
+            "Servicios públicos administrativos",
+            "Bancos y entidades financieras",
+            "Redes sociales privadas"
+          ],
+          "answer": "Redes sociales privadas"
+        },
+        {
+          "question": "¿Qué requisito debe cumplir una firma avanzada que NO exige la firma simple?",
+          "options": [
+            "Vinculación única con el firmante",
+            "Uso de contraseña o PIN",
+            "Registro ante autoridad competente"
+          ],
+          "answer": "Vinculación única con el firmante"
+        },
+        {
+          "question": "La responsabilidad por delegación de funciones en prestadores de servicios:",
+          "options": [
+            "Recae siempre en el subcontratista",
+            "Es asumida íntegramente por el prestador principal",
+            "Se extingue al firmar acuerdos de confidencialidad"
+          ],
+          "answer": "Es asumida íntegramente por el prestador principal"
+        },
+        {
+          "question": "¿Qué documento debe conservar un PSEC que emita certificados con pseudónimos?",
+          "options": [
+            "La identidad real del titular",
+            "El historial de transacciones financieras",
+            "Autorización de familiares directos"
+          ],
+          "answer": "La identidad real del titular"
+        },
+        {
+          "question": "La modificación detectada en un documento firmado electrónicamente:",
+          "options": [
+            "Siempre invalida la firma",
+            "Solo afecta a firmas avanzadas y cualificadas",
+            "Permite rastrear al responsable del cambio"
+          ],
+          "answer": "Solo afecta a firmas avanzadas y cualificadas"
+        },
+        {
+          "question": "En el eIDAS 2.0, ¿qué característica tiene la EUDI-Wallet?",
+          "options": [
+            "Uso gratuito para personas físicas",
+            "Almacenamiento centralizado en Bruselas",
+            "Limitación a 5 servicios simultáneos"
+          ],
+          "answer": "Uso gratuito para personas físicas"
+        },
+        {
+          "question": "¿Qué obligación tienen los prestadores no cualificados al iniciar actividad?",
+          "options": [
+            "Obtener autorización previa del Ministerio",
+            "Comunicar su actividad en plazo determinado",
+            "Contratar auditorías trimestrales"
+          ],
+          "answer": "Comunicar su actividad en plazo determinado"
+        },
+        {
+          "question": "La 'lista de confianza' publicada por España contiene:",
+          "options": [
+            "Todos los prestadores registrados",
+            "Solo prestadores cualificados autorizados",
+            "Empresas sancionadas por incumplimientos"
+          ],
+          "answer": "Solo prestadores cualificados autorizados"
+        },
+        {
+          "question": "¿Qué principio violaría un PSEC que almacene datos de creación de firma sin consentimiento?",
+          "options": [
+            "Principio de neutralidad tecnológica",
+            "Control exclusivo del firmante",
+            "Reconocimiento mutuo"
+          ],
+          "answer": "Control exclusivo del firmante"
+        },
+        {
+          "question": "En la expedición de certificados, la 'declaración de prácticas de certificación' regula:",
+          "options": [
+            "Las tarifas aplicables a los usuarios",
+            "Condiciones de solicitud, uso y extinción",
+            "El porcentaje de certificados rechazados"
+          ],
+          "answer": "Condiciones de solicitud, uso y extinción"
+        },
+        {
+          "question": "¿Qué garantiza un libro mayor electrónico según el eIDAS 2?",
+          "options": [
+            "Integridad y orden cronológico de registros",
+            "Confidencialidad de datos sensibles",
+            "Conversión automática a papel sellado"
+          ],
+          "answer": "Integridad y orden cronológico de registros"
+        },
+        {
+          "question": "Para autenticar un software corporativo, una empresa usaría preferentemente:",
+          "options": [
+            "Certificado de sello electrónico",
+            "Firma electrónica de empleado autorizado",
+            "Certificado de autenticación web"
+          ],
+          "answer": "Certificado de sello electrónico"
+        },
+        {
+          "question": "La notificación de violaciones de seguridad por prestadores debe incluir:",
+          "options": [
+            "Solo daños económicos cuantificables",
+            "Pérdidas de integridad detectadas",
+            "Quejas de usuarios no atendidas"
+          ],
+          "answer": "Pérdidas de integridad detectadas"
+        },
+        {
+          "question": "¿Qué impide el eIDAS en relación con las carteras de identidad digital?",
+          "options": [
+            "Su uso para servicios públicos",
+            "Recopilación de datos sobre patrones de uso",
+            "Integración con sistemas nacionales"
+          ],
+          "answer": "Recopilación de datos sobre patrones de uso"
+        },
+        {
+          "question": "En un certificado cualificado, la 'clave de firma' se caracteriza por:",
+          "options": [
+            "Ser conocida por el prestador del servicio",
+            "Estar bajo control exclusivo del firmante",
+            "Renovarse automáticamente cada mes"
+          ],
+          "answer": "Estar bajo control exclusivo del firmante"
+        },
+        {
+          "question": "La diferencia esencial entre firma electrónica y sello electrónico radica en:",
+          "options": [
+            "El sujeto titular (persona física/jurídica)",
+            "El número de documentos que pueden firmarse",
+            "La obligatoriedad de uso en contratos"
+          ],
+          "answer": "El sujeto titular (persona física/jurídica)"
+        }
+      
+  ]
+  

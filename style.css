@@ -12,21 +12,28 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h1 {
-    text-align: center;
+
+.temas{
+    display: flex;
+    flex-direction: column;
+    font-size: large;
 }
 
 button {
     display: block;
     margin: 20px auto;
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: pink;
     color: white;
     border: none;
     cursor: pointer;
 }
 
-button:hover {
+.comprobar{
+    background-color: #4CAF50;
+}
+
+.comprobar:hover {
     background-color: #45a049;
 }
 
@@ -38,3 +45,74 @@ label {
     display: block;
     margin-left: 20px;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/*MODAL */
+ .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.4); /* Fondo oscuro */
+        }
+        .modal-content {
+            background-color: white;
+            margin: 15% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            max-width: 400px;
+        }
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;}
+
+            .controls {
+                margin: 20px 0;
+                padding: 15px;
+                background: #f5f5f5;
+                border-radius: 8px;
+            }
+            
+            .controls label {
+                margin-right: 10px;
+                font-weight: bold;
+            }
+            
+            #numQuestions {
+                padding: 5px;
+                margin-right: 20px;
+            }
+            
+            .checkboxes-container {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 10px;
+                margin-top: 10px;
+            }
+            
+            .checkbox-item {
+                display: flex;
+                align-items: center;
+                margin-right: 15px;
+            }
+            
+            .checkbox-item label {
+                font-weight: normal;
+                margin-left: 5px;
+            }

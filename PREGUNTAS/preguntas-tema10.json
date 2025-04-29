@@ -1,0 +1,273 @@
+[
+      {
+        "question": "¿Cuál es el medio más habitual y sencillo para comunicar la existencia de un posible ciberdelito a las autoridades competentes?",
+        "options": [
+          "A través de las direcciones de correo electrónico de la Guardia Civil o la Policía Nacional.",
+          "Mediante una llamada telefónica al juez de instrucción.",
+          "Utilizando las redes sociales oficiales de las fuerzas de seguridad."
+        ],
+        "answer": "A través de las direcciones de correo electrónico de la Guardia Civil o la Policía Nacional."
+      },
+      {
+        "question": "¿En qué casos se utiliza la comunicación a las autoridades públicas competentes?",
+        "options": [
+          "Cuando el comunicante ha sido víctima de un ciberdelito.",
+          "Cuando se quiere informar sobre hechos observados en Internet sin ser víctima directa.",
+          "Cuando el denunciante ya tiene pruebas que permitan condenar al delincuente."
+        ],
+        "answer": "Cuando se quiere informar sobre hechos observados en Internet sin ser víctima directa."
+      },
+      {
+        "question": "¿Qué se busca al realizar una mera comunicación a las autoridades competentes?",
+        "options": [
+          "Que las autoridades inicien investigaciones de oficio si el hecho es considerado delictivo.",
+          "Que el denunciante sea compensado por el daño sufrido.",
+          "Que el denunciante reciba una respuesta rápida del sistema judicial."
+        ],
+        "answer": "Que las autoridades inicien investigaciones de oficio si el hecho es considerado delictivo."
+      },
+      {
+        "question": "¿Qué diferencia existe entre una denuncia y una querella en relación con los ciberdelitos?",
+        "options": [
+          "En la denuncia, el denunciante no interviene directamente en el proceso, mientras que en la querella sí forma parte activa del proceso.",
+          "En la querella, la persona denunciada debe ser arrestada inmediatamente.",
+          "La denuncia solo puede presentarse de forma oral, mientras que la querella se presenta de forma escrita."
+        ],
+        "answer": "En la denuncia, el denunciante no interviene directamente en el proceso, mientras que en la querella sí forma parte activa del proceso."
+      },
+      {
+        "question": "¿Cuáles son los requisitos para presentar una denuncia en relación con un ciberdelito?",
+        "options": [
+          "El denunciante debe personarse en las autoridades competentes y presentar su identificación.",
+          "El denunciante puede presentar la denuncia de forma telemática sin necesidad de identificarse.",
+          "El denunciante debe presentar una querella ante el juez competente."
+        ],
+        "answer": "El denunciante debe personarse en las autoridades competentes y presentar su identificación."
+      },
+      {
+        "question": "¿Qué elementos deben incluirse en una denuncia por ciberdelito?",
+        "options": [
+          "Datos de identificación del denunciante, descripción detallada de los hechos y elementos probatorios.",
+          "Solo los datos personales del denunciante y la descripción del ciberdelito.",
+          "El tipo de delito cometido y una solicitud para que el denunciante sea llamado a declarar."
+        ],
+        "answer": "Datos de identificación del denunciante, descripción detallada de los hechos y elementos probatorios."
+      },
+      {
+        "question": "¿Qué acción debe realizar un testigo de un ciberdelito según la Ley de Enjuiciamiento Criminal?",
+        "options": [
+          "Debe denunciar inmediatamente los hechos ante el Juez o funcionario Fiscal más cercano.",
+          "Debe esperar a que la víctima se presente antes de denunciar.",
+          "Debe comunicar los hechos a un abogado para que tome las acciones pertinentes."
+        ],
+        "answer": "Debe denunciar inmediatamente los hechos ante el Juez o funcionario Fiscal más cercano."
+      },
+      {
+        "question": "¿Qué diferencia existe entre la denuncia y la querella en cuanto a la participación del denunciante?",
+        "options": [
+          "En la querella, el denunciante interviene como parte acusadora, mientras que en la denuncia no.",
+          "La denuncia permite al denunciante presentar pruebas, pero no interviene en el proceso.",
+          "En la denuncia, el denunciante puede ser llamado a juicio, mientras que en la querella no."
+        ],
+        "answer": "En la querella, el denunciante interviene como parte acusadora, mientras que en la denuncia no."
+      },
+      {
+        "question": "¿Cómo debe realizarse la querella según la Ley de Enjuiciamiento Criminal?",
+        "options": [
+          "Debe ser presentada por escrito por un procurador y suscrita por un abogado.",
+          "Debe presentarse oralmente ante el juez de instrucción.",
+          "Debe realizarse de forma telemática ante las autoridades competentes."
+        ],
+        "answer": "Debe ser presentada por escrito por un procurador y suscrita por un abogado."
+      },
+      {
+        "question": "¿Qué es necesario aportar cuando se presenta una denuncia por ciberdelito en representación de una empresa?",
+        "options": [
+          "Una copia de los poderes de representación de la empresa y los datos de la empresa.",
+          "Una carta de autorización firmada por los directivos de la empresa.",
+          "Una lista de todos los empleados afectados por el ciberdelito."
+        ],
+        "answer": "Una copia de los poderes de representación de la empresa y los datos de la empresa."
+      }, {
+        "question": "¿Cuál es el objetivo principal de la salvaguarda de evidencias digitales?",
+        "options": [
+          "Asegurar que las pruebas se encuentren en las mejores condiciones para su investigación.",
+          "Destruir cualquier evidencia que no sea relevante para el caso.",
+          "Asegurar que las evidencias digitales sean modificadas para que sean más fáciles de analizar."
+        ],
+        "answer": "Asegurar que las pruebas se encuentren en las mejores condiciones para su investigación."
+      },
+      {
+        "question": "¿Qué se entiende por evidencia digital?",
+        "options": [
+          "Cualquier información almacenada en un dispositivo que pueda ser relevante para la resolución de un delito.",
+          "Solo los archivos de texto almacenados en la nube.",
+          "Cualquier tipo de archivo almacenado en un dispositivo, independientemente de su relevancia."
+        ],
+        "answer": "Cualquier información almacenada en un dispositivo que pueda ser relevante para la resolución de un delito."
+      },
+      {
+        "question": "¿Qué debe garantizarse durante la recolección de evidencias digitales?",
+        "options": [
+          "La integridad y autenticidad de la información recopilada.",
+          "Que las evidencias sean manipuladas para facilitar su análisis.",
+          "Que las evidencias se eliminen para evitar alteraciones."
+        ],
+        "answer": "La integridad y autenticidad de la información recopilada."
+      },
+      {
+        "question": "¿Qué técnica es comúnmente utilizada para garantizar la integridad de las evidencias digitales durante la recolección?",
+        "options": [
+          "La copia forense.",
+          "La modificación de los archivos.",
+          "El borrado de datos innecesarios."
+        ],
+        "answer": "La copia forense."
+      },
+      {
+        "question": "¿Por qué es importante preservar la cadena de custodia en la salvaguarda de evidencias digitales?",
+        "options": [
+          "Para garantizar que las evidencias no sean alteradas y puedan ser admitidas en un tribunal.",
+          "Para destruir las pruebas que no sean necesarias para el caso.",
+          "Para cambiar las pruebas que podrían ser perjudiciales para el acusado."
+        ],
+        "answer": "Para garantizar que las evidencias no sean alteradas y puedan ser admitidas en un tribunal."
+      },
+      {
+        "question": "¿Cuál de las siguientes acciones se debe evitar al manipular evidencias digitales?",
+        "options": [
+          "Usar herramientas que emitan electricidad estática o campos magnéticos.",
+          "Usar guantes para evitar huellas dactilares.",
+          "Mantener las evidencias en lugares con temperatura controlada."
+        ],
+        "answer": "Usar herramientas que emitan electricidad estática o campos magnéticos."
+      },
+      {
+        "question": "¿Qué información debe incluirse en la documentación que acompaña a cada evidencia digital?",
+        "options": [
+          "Número de identificación, descripción del dispositivo, lugar de almacenamiento y personas responsables.",
+          "El tipo de delito cometido y la identidad del acusado.",
+          "El contenido exacto de los archivos almacenados en el dispositivo."
+        ],
+        "answer": "Número de identificación, descripción del dispositivo, lugar de almacenamiento y personas responsables."
+      },
+      {
+        "question": "¿Qué se debe hacer para garantizar la seguridad de las evidencias digitales durante su custodia?",
+        "options": [
+          "Preservar la integridad y autenticidad de la evidencia.",
+          "Permitir el acceso frecuente a la evidencia para comprobar su validez.",
+          "Alterar las evidencias para mejorar su utilidad en el juicio."
+        ],
+        "answer": "Preservar la integridad y autenticidad de la evidencia."
+      },
+      {
+        "question": "¿Qué debe hacerse si una evidencia digital presenta una falta de información relevante, como el número de serie?",
+        "options": [
+          "Se debe individualizar de otra manera, por ejemplo, con un adhesivo no removible o una inscripción indeleble.",
+          "Se debe desechar la evidencia y no usarla en el caso.",
+          "Se debe modificar el contenido de la evidencia para incluir los datos faltantes."
+        ],
+        "answer": "Se debe individualizar de otra manera, por ejemplo, con un adhesivo no removible o una inscripción indeleble."
+      },
+      {
+        "question": "¿Cuál es el propósito de evitar la manipulación o rotura de los dispositivos que contienen evidencias digitales?",
+        "options": [
+          "Garantizar que las evidencias se encuentren en las mismas condiciones que en el momento de su identificación.",
+          "Facilitar el acceso a las evidencias para que el caso sea resuelto rápidamente.",
+          "Hacer que las evidencias sean más comprensibles para los investigadores."
+        ],
+        "answer": "Garantizar que las evidencias se encuentren en las mismas condiciones que en el momento de su identificación."
+      },
+      {
+        "question": "¿Qué paso del proceso de gestión de evidencia digital consiste en determinar qué evidencia es relevante para el caso o la investigación?",
+        "options": [
+          "Identificación.",
+          "Recopilación.",
+          "Adquisición."
+        ],
+        "answer": "Identificación."
+      },
+      {
+        "question": "¿Cuál es el objetivo principal de la recopilación de evidencia digital?",
+        "options": [
+          "Reunir y asegurar la evidencia digital identificada de manera forense.",
+          "Alterar la evidencia digital para hacerla más útil en el juicio.",
+          "Transmitir la evidencia digital a los abogados para que la examinen."
+        ],
+        "answer": "Reunir y asegurar la evidencia digital identificada de manera forense."
+      },
+      {
+        "question": "En el proceso de gestión de evidencia digital, ¿qué implica la adquisición?",
+        "options": [
+          "Extraer la evidencia digital de sus fuentes originales utilizando métodos adecuados para evitar la contaminación o alteración.",
+          "Recopilar toda la evidencia digital sin analizar su relevancia.",
+          "Eliminar las evidencias digitales irrelevantes para el caso."
+        ],
+        "answer": "Extraer la evidencia digital de sus fuentes originales utilizando métodos adecuados para evitar la contaminación o alteración."
+      },
+      {
+        "question": "¿Qué aspecto del proceso de gestión de evidencia digital garantiza la integridad y autenticidad de la evidencia una vez recopilada?",
+        "options": [
+          "Preservación.",
+          "Identificación.",
+          "Recopilación."
+        ],
+        "answer": "Preservación."
+      },
+      {
+        "question": "¿Qué norma proporciona directrices detalladas sobre el proceso de gestión de evidencia digital, incluyendo identificación, recopilación, adquisición y preservación?",
+        "options": [
+          "ISO/IEC 27037:2016.",
+          "ISO 9001:2015.",
+          "ISO/IEC 27001:2013."
+        ],
+        "answer": "ISO/IEC 27037:2016."
+      },
+      {
+        "question": "¿Cuál es el principal objetivo de la norma ISO/IEC 27037:2016 en relación con la gestión de evidencia digital?",
+        "options": [
+          "Garantizar la integridad y autenticidad de la evidencia digital.",
+          "Establecer estándares forenses específicos.",
+          "Proporcionar herramientas de software para analizar evidencias digitales."
+        ],
+        "answer": "Garantizar la integridad y autenticidad de la evidencia digital."
+      },
+      {
+        "question": "La norma ISO/IEC 27037:2016 no establece:",
+        "options": [
+          "Estándares forenses específicos.",
+          "Directrices generales para la gestión de evidencia digital.",
+          "Requisitos legales para la preservación de la evidencia digital."
+        ],
+        "answer": "Estándares forenses específicos."
+      },
+      {
+        "question": "En el proceso de gestión de evidencia digital, ¿qué debe garantizarse durante la adquisición de evidencia?",
+        "options": [
+          "Que no se altere ni contamine la evidencia durante su extracción.",
+          "Que se recopilen todas las evidencias disponibles sin discriminación.",
+          "Que la evidencia digital sea accesible para todos los involucrados en el caso."
+        ],
+        "answer": "Que no se altere ni contamine la evidencia durante su extracción."
+      },
+      {
+        "question": "¿Qué componente del proceso de gestión de evidencia digital se encarga de almacenar y mantener la evidencia en un entorno seguro?",
+        "options": [
+          "Preservación.",
+          "Adquisición.",
+          "Identificación."
+        ],
+        "answer": "Preservación."
+      },
+      {
+        "question": "El proceso de gestión de evidencia digital debe cumplir con:",
+        "options": [
+          "Los requisitos legales y reglamentarios aplicables.",
+          "Los intereses personales de los investigadores.",
+          "La norma ISO 9001:2015 para la gestión de calidad."
+        ],
+        "answer": "Los requisitos legales y reglamentarios aplicables."
+      }
+    ]
+  
+  

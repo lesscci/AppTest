@@ -1,0 +1,258 @@
+[
+    {
+      "question": "¿Cuál es el propósito principal de las cartas nigerianas en el fraude en línea?",
+      "options": [
+        "Conseguir dinero a cuenta de una supuesta cantidad mayor prometida a la víctima",
+        "Vender productos falsificados",
+        "Solicitar datos bancarios de la víctima para robar fondos",
+        "Ofrecer empleo a cambio de una comisión"
+      ],
+      "answer": "Conseguir dinero a cuenta de una supuesta cantidad mayor prometida a la víctima"
+    },
+    {
+      "question": "¿Qué tipo de carta se utiliza en las cartas nigerianas para engañar a las víctimas?",
+      "options": [
+        "Cartas sobre un supuesto premio de lotería o herencia",
+        "Cartas de amenazas de muerte",
+        "Cartas de solicitud de amistad",
+        "Cartas que piden información personal para una encuesta"
+      ],
+      "answer": "Cartas sobre un supuesto premio de lotería o herencia"
+    },
+    {
+      "question": "¿Qué información solicitan los ciberdelincuentes en una carta nigeriana una vez que la víctima muestra interés?",
+      "options": [
+        "Número de cuenta bancaria y documentos personales",
+        "Contraseña de acceso a redes sociales",
+        "Datos de la tarjeta de crédito",
+        "Información sobre el empleo de la víctima"
+      ],
+      "answer": "Número de cuenta bancaria y documentos personales"
+    },
+    {
+      "question": "¿Cómo puede detectar una víctima potencial una carta nigeriana?",
+      "options": [
+        "A través de errores gramaticales en el texto",
+        "Si el remitente tiene un correo oficial",
+        "Si el mensaje está firmado por una persona conocida",
+        "Por la ausencia de enlaces en el correo"
+      ],
+      "answer": "A través de errores gramaticales en el texto"
+    },
+    {
+      "question": "¿Qué tipo de fraude se comete cuando los ciberdelincuentes venden vehículos u otros productos por Internet?",
+      "options": [
+        "Estafa en la compra de productos a precios muy bajos",
+        "Venta de productos falsificados",
+        "Robo de identidad",
+        "Phishing"
+      ],
+      "answer": "Estafa en la compra de productos a precios muy bajos"
+    },
+    {
+      "question": "¿Qué precaución pueden tomar las víctimas de una estafa al comprar vehículos en el extranjero?",
+      "options": [
+        "Utilizar una empresa intermediaria para verificar el producto",
+        "Pagar por adelantado para obtener el vehículo más rápido",
+        "Comprar solo vehículos con garantía",
+        "Solicitar un reembolso antes de recibir el producto"
+      ],
+      "answer": "Utilizar una empresa intermediaria para verificar el producto"
+    },
+    {
+      "question": "¿Cómo engañan los ciberdelincuentes en las estafas sentimentales o romancescam?",
+      "options": [
+        "Ganándose la confianza de la víctima y luego solicitando dinero",
+        "Ofreciendo productos a precios bajos",
+        "Solicitando datos bancarios para realizar pagos",
+        "Vendiendo fotos falsas para hacerse pasar por una celebridad"
+      ],
+      "answer": "Ganándose la confianza de la víctima y luego solicitando dinero"
+    },
+    {
+      "question": "¿Qué técnica utilizan los estafadores para crear imágenes de personas en las estafas sentimentales?",
+      "options": [
+        "Utilizan inteligencia artificial para crear personas inexistentes",
+        "Contratan modelos profesionales",
+        "Piden a las víctimas fotos reales de sus amigos",
+        "Utilizan fotografías de redes sociales sin permiso"
+      ],
+      "answer": "Utilizan inteligencia artificial para crear personas inexistentes"
+    },
+    {
+      "question": "¿Cómo suelen los estafadores operar en las estafas sentimentales?",
+      "options": [
+        "Inician conversaciones en plataformas de citas en línea o redes sociales",
+        "Solicitan pagos por productos falsos",
+        "Utilizan campañas publicitarias en Internet",
+        "Envía enlaces a sitios web fraudulentos para obtener información personal"
+      ],
+      "answer": "Inician conversaciones en plataformas de citas en línea o redes sociales"
+    },
+    {
+      "question": "¿Qué es un falso antivirus o 'rogue'?",
+      "options": [
+        "Un malware que finge ser un antivirus para robar información personal",
+        "Un software de seguridad legítimo que no funciona",
+        "Un antivirus gratuito que no detecta virus",
+        "Un servicio de pago para eliminar malware legítimo"
+      ],
+      "answer": "Un malware que finge ser un antivirus para robar información personal"
+    },
+    {
+      "question": "¿Cómo se instala un falso antivirus en el ordenador de la víctima?",
+      "options": [
+        "Generalmente se instala al descargar archivos desde páginas de descargas directas (P2P)",
+        "A través de correos electrónicos de empresas legítimas",
+        "Mediante publicidad en redes sociales",
+        "Por medio de actualizaciones automáticas de software"
+      ],
+      "answer": "Generalmente se instala al descargar archivos desde páginas de descargas directas (P2P)"
+    },
+    {
+      "question": "¿Qué hace el falso antivirus una vez instalado en el equipo de la víctima?",
+      "options": [
+        "Detecta un virus inexistente e invita a comprar una licencia para eliminarlo",
+        "Elimina todos los archivos de la computadora",
+        "Reduce la velocidad del ordenador sin razón",
+        "Desactiva otras medidas de seguridad legítimas"
+      ],
+      "answer": "Detecta un virus inexistente e invita a comprar una licencia para eliminarlo"
+    }, 
+    {
+        "question": "¿Qué tipo de fraude se realiza utilizando los datos de una tarjeta bancaria para realizar compras en línea sin presentar la tarjeta físicamente?",
+        "options": [
+          "Skimming",
+          "Card not present fraud (CNP fraud)",
+          "Phishing"
+        ],
+        "answer": "Card not present fraud (CNP fraud)"
+      },
+      {
+        "question": "¿Qué técnica de fraude utiliza un dispositivo para leer la información de la banda magnética de una tarjeta de crédito o débito en un cajero automático?",
+        "options": [
+          "Skimming",
+          "Carding",
+          "Spoofing"
+        ],
+        "answer": "Skimming"
+      },
+      {
+        "question": "¿Qué medidas de seguridad han ayudado a reducir la duplicación de tarjetas físicas en el fraude de medios de pago?",
+        "options": [
+          "Chip EMV",
+          "Tarjetas magnéticas",
+          "Contraseña única"
+        ],
+        "answer": "Chip EMV"
+      },
+      {
+        "question": "¿Qué se utiliza en el fraude de skimming para obtener el número PIN de la víctima?",
+        "options": [
+          "Un dispositivo para clonar tarjetas",
+          "Un falso teclado o una cámara",
+          "Un virus informático"
+        ],
+        "answer": "Un falso teclado o una cámara"
+      },
+      {
+        "question": "¿Qué es el web skimming o formjacking?",
+        "options": [
+          "El robo de información de tarjetas a través de cajeros automáticos",
+          "El robo de información de tarjetas bancarias durante transacciones en línea",
+          "La obtención de datos de tarjetas a través de correos electrónicos fraudulentos"
+        ],
+        "answer": "El robo de información de tarjetas bancarias durante transacciones en línea"
+      },{
+        "question": "¿Qué tipo de fraude se realiza cuando un ciberdelincuente obtiene los datos de la tarjeta sin necesidad de la presencia física de la víctima?",
+        "options": [
+          "Skimming",
+          "Card not present fraud (CNP fraud)",
+          "Phishing"
+        ],
+        "answer": "Card not present fraud (CNP fraud)"
+      },
+      {
+        "question": "¿Qué técnica de fraude permite a los delincuentes leer y copiar la información de la banda magnética de una tarjeta de crédito o débito?",
+        "options": [
+          "Carding",
+          "Skimming",
+          "Ransomware"
+        ],
+        "answer": "Skimming"
+      },
+      {
+        "question": "¿Qué tipo de dispositivos utilizan los delincuentes en el fraude de skimming para capturar el número PIN de las tarjetas?",
+        "options": [
+          "Cámaras y teclados falsos",
+          "Relojes espía",
+          "USB infectados"
+        ],
+        "answer": "Cámaras y teclados falsos"
+      },
+      {
+        "question": "¿Qué es la técnica de formjacking o Magecart en el contexto del fraude digital?",
+        "options": [
+          "El robo de información de tarjetas durante transacciones en línea",
+          "El uso de tarjetas de crédito falsas para realizar compras",
+          "El robo de claves de acceso a cuentas bancarias"
+        ],
+        "answer": "El robo de información de tarjetas durante transacciones en línea"
+      },
+      {
+        "question": "¿Qué tipo de tarjetas han ayudado a reducir el fraude de duplicación debido a sus características de seguridad avanzadas?",
+        "options": [
+          "Tarjetas de débito tradicionales",
+          "Tarjetas con chip EMV",
+          "Tarjetas de crédito con banda magnética"
+        ],
+        "answer": "Tarjetas con chip EMV"
+      },
+      {
+        "question": "En el fraude de skimming, ¿qué parte del proceso involucra la clonación de las tarjetas con la información obtenida?",
+        "options": [
+          "Obtención de los datos",
+          "Distribución de la información",
+          "Realización de operaciones fraudulentas"
+        ],
+        "answer": "Distribución de la información"
+      },
+      {
+        "question": "¿Cuál es el principal objetivo de los delincuentes al usar tarjetas clonadas obtenidas por skimming?",
+        "options": [
+          "Vender las tarjetas clonadas",
+          "Realizar compras o retirar dinero",
+          "Usar las tarjetas para obtener información personal"
+        ],
+        "answer": "Realizar compras o retirar dinero"
+      },
+      {
+        "question": "¿Qué medida de seguridad adicional se utiliza para proteger las transacciones de pago y evitar el fraude en línea?",
+        "options": [
+          "Autenticación de dos factores (2FA)",
+          "Confirmación por correo electrónico",
+          "Autorización por llamada telefónica"
+        ],
+        "answer": "Autenticación de dos factores (2FA)"
+      },
+      {
+        "question": "En el fraude de skimming, ¿cómo los ciberdelincuentes suelen ocultar su actividad en los cajeros automáticos?",
+        "options": [
+          "Instalando dispositivos de lectura ocultos y cámaras",
+          "Robando las tarjetas directamente de las personas",
+          "Reemplazando los cajeros automáticos por falsos"
+        ],
+        "answer": "Instalando dispositivos de lectura ocultos y cámaras"
+      },
+      {
+        "question": "¿Qué tipo de herramientas se necesitan para clonar una tarjeta en un fraude de skimming?",
+        "options": [
+          "Impresoras de alta calidad y soportes de tarjetas en blanco",
+          "Cámaras ocultas y micrófonos",
+          "Dispositivos USB infectados"
+        ],
+        "answer": "Impresoras de alta calidad y soportes de tarjetas en blanco"
+      }
+      
+  ]
+  

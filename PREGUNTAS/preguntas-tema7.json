@@ -1,0 +1,336 @@
+[
+    {
+      "question": "¿Qué es el phishing en el contexto de la banca electrónica?",
+      "options": [
+        "Una técnica de hacking para robar dinero directamente",
+        "Una táctica para obtener información confidencial suplantando entidades legítimas",
+        "Un sistema de protección de contraseñas"
+      ],
+      "answer": "Una táctica para obtener información confidencial suplantando entidades legítimas"
+    },
+    {
+      "question": "¿Qué tipo de información buscan obtener los ciberdelincuentes a través del phishing?",
+      "options": [
+        "Información sobre el historial laboral",
+        "Información personal y financiera, como contraseñas y números de tarjetas de crédito",
+        "Preferencias de compra"
+      ],
+      "answer": "Información personal y financiera, como contraseñas y números de tarjetas de crédito"
+    },
+    {
+      "question": "¿Cuáles son las tres fases principales del proceso de phishing?",
+      "options": [
+        "Captura de datos, captación de mulas y transferencia de dinero",
+        "Infiltración, distribución y suplantación",
+        "Investigación, ataque y defensa"
+      ],
+      "answer": "Captura de datos, captación de mulas y transferencia de dinero"
+    },
+    {
+      "question": "¿Cómo suelen actuar los ciberdelincuentes en el caso de la banca electrónica?",
+      "options": [
+        "Enviando correos electrónicos y mensajes fraudulentos haciéndose pasar por una entidad bancaria",
+        "Robando directamente desde cuentas bancarias",
+        "Instalando software de protección en las cuentas de los usuarios"
+      ],
+      "answer": "Enviando correos electrónicos y mensajes fraudulentos haciéndose pasar por una entidad bancaria"
+    },
+    {
+      "question": "¿Qué tipo de métodos pueden usar los ciberdelincuentes para engañar a las víctimas?",
+      "options": [
+        "Emails, mensajes de texto y llamadas telefónicas fraudulentas",
+        "Solamente correos electrónicos",
+        "Enlaces a páginas web con apariencia legítima"
+      ],
+      "answer": "Emails, mensajes de texto y llamadas telefónicas fraudulentas"
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la fase de captura de datos en un ataque de phishing?",
+        "options": [
+          "Obtener información confidencial como nombres de usuario, claves de acceso, números de tarjetas bancarias, etc.",
+          "Enviar correos electrónicos fraudulentos",
+          "Acceder a los servidores de la entidad bancaria"
+        ],
+        "answer": "Obtener información confidencial como nombres de usuario, claves de acceso, números de tarjetas bancarias, etc."
+      },
+      {
+        "question": "¿Cuáles son las dos principales vías para obtener información en la fase de captura de datos?",
+        "options": [
+          "Ingeniería social y malware",
+          "Phishing y smishing",
+          "Acceso a servidores y diseño de páginas web fraudulentas"
+        ],
+        "answer": "Ingeniería social y malware"
+      },
+      {
+        "question": "¿Qué técnica de ingeniería social se utiliza para que la víctima facilite sus credenciales de acceso?",
+        "options": [
+          "El diseño de una página web idéntica a la de una entidad bancaria legítima",
+          "El envío de correos electrónicos con enlaces maliciosos",
+          "La instalación de software malicioso"
+        ],
+        "answer": "El diseño de una página web idéntica a la de una entidad bancaria legítima"
+      },
+      {
+        "question": "¿Qué aspecto es clave para identificar un correo de phishing malicioso?",
+        "options": [
+          "El dominio del remitente puede ser ligeramente diferente al original",
+          "La dirección de correo electrónico siempre es visible y correcta",
+          "El correo siempre incluye un archivo adjunto"
+        ],
+        "answer": "El dominio del remitente puede ser ligeramente diferente al original"
+      },
+      {
+        "question": "¿Cuál es el objetivo del diseño de un correo electrónico en una campaña de phishing?",
+        "options": [
+          "Hacer que la víctima crea que es una comunicación legítima de la entidad bancaria",
+          "Ofrecer una promoción atractiva para productos bancarios",
+          "Proveer información educativa sobre ciberseguridad"
+        ],
+        "answer": "Hacer que la víctima crea que es una comunicación legítima de la entidad bancaria"
+      },
+      {
+        "question": "¿Qué debe hacer la víctima al recibir un correo de phishing que parece legítimo?",
+        "options": [
+          "Verificar la dirección de correo electrónico del remitente y comprobar la URL del enlace",
+          "Hacer clic en el enlace inmediatamente",
+          "Ignorar el correo sin tomar ninguna acción"
+        ],
+        "answer": "Verificar la dirección de correo electrónico del remitente y comprobar la URL del enlace"
+      },
+      {
+        "question": "¿Qué diferencia al 'smishing' del 'phishing'?",
+        "options": [
+          "El smishing se realiza a través de SMS o mensajes de texto en lugar de correos electrónicos",
+          "El smishing es un ataque más sofisticado que el phishing",
+          "El smishing no requiere la intervención de malware"
+        ],
+        "answer": "El smishing se realiza a través de SMS o mensajes de texto en lugar de correos electrónicos"
+      },
+      {
+        "question": "¿Qué es un 'keylogger' en el contexto de un ataque de phishing?",
+        "options": [
+          "Un software que registra las pulsaciones de teclado del usuario",
+          "Un virus que roba información bancaria directamente",
+          "Un software de protección que bloquea ataques de phishing"
+        ],
+        "answer": "Un software que registra las pulsaciones de teclado del usuario"
+      },{
+        "question": "¿Qué función cumplen las mulas en el esquema de fraude bancario?",
+        "options": [
+          "Realizar las transferencias de dinero a los ciberdelincuentes",
+          "Proteger los datos personales de las víctimas",
+          "Verificar la autenticidad de las ofertas laborales",
+          "Generar ingresos legítimos para los ciberdelincuentes"
+        ],
+        "answer": "Realizar las transferencias de dinero a los ciberdelincuentes"
+      },
+      {
+        "question": "¿Cómo pueden ser reclutadas las mulas para el fraude?",
+        "options": [
+          "Mediante ofertas laborales legítimas con condiciones muy atractivas",
+          "Por medio de anuncios de productos en venta",
+          "A través de la promesa de altos beneficios por inversiones legales",
+          "A través de falsas campañas de ayuda humanitaria"
+        ],
+        "answer": "Mediante ofertas laborales legítimas con condiciones muy atractivas"
+      },
+      {
+        "question": "¿Qué puede ocurrir con una mula que actúa de manera imprudente en el fraude bancario?",
+        "options": [
+          "Podría ser responsable penalmente por blanqueo de capitales",
+          "Recibirá una recompensa económica considerable",
+          "Será víctima de un fraude por parte de los ciberdelincuentes",
+          "No sufrirá consecuencias legales"
+        ],
+        "answer": "Podría ser responsable penalmente por blanqueo de capitales"
+      },
+      {
+        "question": "¿Cuál es el riesgo para las mulas que aceptan ser parte de un esquema fraudulento?",
+        "options": [
+          "Podrían ser responsables penalmente por colaborar con los ciberdelincuentes",
+          "Podrán generar ingresos legítimos para ellos mismos",
+          "No tendrán repercusiones legales si no reciben el dinero",
+          "Serán recompensadas con un sueldo fijo y seguro"
+        ],
+        "answer": "Podrían ser responsables penalmente por colaborar con los ciberdelincuentes"
+      },
+      {
+        "question": "¿Cómo suelen ser engañadas las mulas en la mayoría de los casos?",
+        "options": [
+          "Reciben una oferta de trabajo que parece legítima y bien remunerada",
+          "Les envían dinero a cambio de trabajos que no requieren experiencia",
+          "Se les ofrece una inversión que parece segura",
+          "Son contactadas por falsas entidades bancarias"
+        ],
+        "answer": "Reciben una oferta de trabajo que parece legítima y bien remunerada"
+      },
+      {
+        "question": "¿Qué papel juegan las mulas en la diversificación de las operaciones fraudulentas?",
+        "options": [
+          "Aseguran que las transferencias no sean interceptadas por las autoridades",
+          "Reciben pagos de una variedad de bancos diferentes",
+          "Operan de forma exclusiva con las cuentas de los ciberdelincuentes",
+          "Distribuyen los fondos de las víctimas a través de diferentes cuentas"
+        ],
+        "answer": "Aseguran que las transferencias no sean interceptadas por las autoridades"
+      },
+      {
+        "question": "¿Qué podría suceder si las mulas no están involucradas en un esquema de fraude bancario?",
+        "options": [
+          "El dinero no llegaría a manos de los ciberdelincuentes y no se consumaría la estafa",
+          "El fraude sería detectado más rápidamente por las autoridades",
+          "Los ciberdelincuentes no podrían realizar operaciones fraudulentas",
+          "Las víctimas recuperarían el dinero que les fue sustraído"
+        ],
+        "answer": "El dinero no llegaría a manos de los ciberdelincuentes y no se consumaría la estafa"
+      },
+      {
+        "question": "¿Qué tipo de estafas pueden utilizar los ciberdelincuentes para captar mulas?",
+        "options": [
+          "Falsas ofertas de trabajo y campañas de ayuda a desastres naturales",
+          "Solicitudes para realizar inversiones de alto rendimiento",
+          "Ventas de productos falsos o defectuosos",
+          "Solicitudes de colaboración en proyectos de negocios"
+        ],
+        "answer": "Falsas ofertas de trabajo y campañas de ayuda a desastres naturales"
+      },
+      {
+        "question": "¿Qué suele despertar sospechas cuando se ofrece trabajo a posibles mulas?",
+        "options": [
+          "El requerimiento de un pago previo a cambio de trabajo",
+          "La oferta de un trabajo en el que se requiere experiencia",
+          "El proceso largo de selección de candidatos",
+          "El tiempo requerido para realizar las tareas asignadas"
+        ],
+        "answer": "El requerimiento de un pago previo a cambio de trabajo"
+      },
+      {
+        "question": "¿Cuál de las siguientes afirmaciones es cierta respecto a las mulas en los fraudes bancarios?",
+        "options": [
+          "Pueden ser responsables penalmente por blanqueo de capitales si actúan imprudentemente",
+          "Son siempre conscientes de que están participando en un fraude",
+          "Nunca se les paga por sus servicios",
+          "Reciben protección legal por actuar bajo engaño"
+        ],
+        "answer": "Pueden ser responsables penalmente por blanqueo de capitales si actúan imprudentemente"
+      }, {
+        "question": "¿Cuál es el objetivo principal de la Fase III en un esquema de phishing?",
+        "options": [
+          "Transferir el dinero obtenido a las cuentas de los ciberdelincuentes",
+          "Captar nuevas mulas para realizar transferencias futuras",
+          "Recuperar la información bancaria de las víctimas",
+          "Retrasar el proceso para evitar alertar a las autoridades"
+        ],
+        "answer": "Transferir el dinero obtenido a las cuentas de los ciberdelincuentes"
+      },
+      {
+        "question": "¿Por qué suelen realizarse las transferencias a las cuentas de las mulas en días no laborables?",
+        "options": [
+          "Para evitar que las víctimas detecten el fraude rápidamente",
+          "Para obtener una mayor comisión de las mulas",
+          "Para asegurarse de que las mulas tengan tiempo de realizar el envío",
+          "Para que las transferencias sean más rápidas"
+        ],
+        "answer": "Para evitar que las víctimas detecten el fraude rápidamente"
+      },
+      {
+        "question": "¿Qué hacen los ciberdelincuentes después de que las mulas reciben el dinero?",
+        "options": [
+          "Contactan a las mulas para que transfieran el dinero a los responsables del fraude",
+          "Devuelven el dinero a las víctimas",
+          "Solicitan más información personal de la víctima",
+          "Destruyen la información obtenida para evitar ser atrapados"
+        ],
+        "answer": "Contactan a las mulas para que transfieran el dinero a los responsables del fraude"
+      },
+      {
+        "question": "¿Qué porcentaje del dinero suele recibir una mula como comisión por realizar el envío del dinero?",
+        "options": [
+          "5 o 10 %",
+          "20 o 30 %",
+          "50 %",
+          "10 o 15 %"
+        ],
+        "answer": "5 o 10 %"
+      },
+      {
+        "question": "¿Cómo pueden las mulas entregar el dinero a los ciberdelincuentes?",
+        "options": [
+          "Mediante transferencias bancarias o a través de empresas de envío de dinero",
+          "A través de criptomonedas",
+          "Mediante pagos con tarjetas de crédito falsas",
+          "Devolviendo el dinero a la víctima"
+        ],
+        "answer": "Mediante transferencias bancarias o a través de empresas de envío de dinero"
+      },
+      {
+        "question": "¿Qué tipo de entrega puede realizar una mula en algunos casos?",
+        "options": [
+          "Entrega presencial del dinero a un supuesto responsable de la empresa",
+          "Transferencia directa al banco central",
+          "Envío de dinero a través de una agencia gubernamental",
+          "Devolución en efectivo a la víctima"
+        ],
+        "answer": "Entrega presencial del dinero a un supuesto responsable de la empresa"
+      },
+      {
+        "question": "¿Qué relación tienen los destinatarios finales del dinero con los ciberdelincuentes?",
+        "options": [
+          "Son parte de los escalones más bajos de la organización",
+          "Son las víctimas que deben recuperar su dinero",
+          "Son los líderes de la organización criminal",
+          "Actúan como agentes de la ley"
+        ],
+        "answer": "Son parte de los escalones más bajos de la organización"
+      },
+      {
+        "question": "¿Qué sucede cuando los responsables de la organización reciben el dinero de las mulas?",
+        "options": [
+          "Se cierra el ciclo del phishing y el dinero se blanquea o se utiliza",
+          "El dinero es devuelto a las víctimas",
+          "La organización es desmantelada por las autoridades",
+          "Se distribuye el dinero entre las mulas"
+        ],
+        "answer": "Se cierra el ciclo del phishing y el dinero se blanquea o se utiliza"
+      },
+      {
+        "question": "¿Qué método pueden utilizar las mulas para enviar el dinero a los ciberdelincuentes?",
+        "options": [
+          "A través de empresas de envío de dinero",
+          "Mediante criptomonedas",
+          "Directamente desde su cuenta bancaria sin intermediarios",
+          "En efectivo a través de servicios postales"
+        ],
+        "answer": "A través de empresas de envío de dinero"
+      },
+      {
+        "question": "¿Cuál es el principal riesgo para las mulas durante la Fase III del fraude?",
+        "options": [
+          "Pueden ser procesadas por blanqueo de capitales y otros delitos",
+          "Pueden perder todo el dinero enviado",
+          "Pueden ser víctimas de un segundo fraude",
+          "Pueden ser perseguidas por las víctimas"
+        ],
+        "answer": "Pueden ser procesadas por blanqueo de capitales y otros delitos"
+      },
+      {
+        "question": "¿Cómo pueden los ciberdelincuentes utilizar un 'screenlogger' en un ataque de phishing?",
+        "options": [
+          "Capturando lo que el usuario ve en la pantalla, incluyendo teclados virtuales",
+          "Modificando la configuración de la página web bancaria",
+          "Redirigiendo al usuario a una página web falsa sin necesidad de clics"
+        ],
+        "answer": "Capturando lo que el usuario ve en la pantalla, incluyendo teclados virtuales"
+      },
+      {
+        "question": "¿Qué es el 'pharming' en un ataque de phishing?",
+        "options": [
+          "Un ataque que modifica el archivo de los servidores DNS para redirigir a los usuarios a páginas fraudulentas",
+          "Un virus que se envía a través de correos electrónicos fraudulentos",
+          "Un tipo de malware que se instala en el dispositivo de la víctima"
+        ],
+        "answer": "Un ataque que modifica el archivo de los servidores DNS para redirigir a los usuarios a páginas fraudulentas"
+      }
+  ]
+  
