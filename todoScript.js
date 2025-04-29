@@ -1,121 +1,185 @@
 document.addEventListener("DOMContentLoaded", function() {
+    // Variables globales
     let allQuestions = [];
-    const totalThemes = 10; // Cambia esto según cuántos temas tengas
+    let selectedQuestions = [];
     
-    // Generar checkboxes para seleccionar temas
+    // Elementos del DOM
+    const numQuestionsSelect = document.getElementById("numQuestions");
     const themeCheckboxes = document.getElementById("themeCheckboxes");
-    for (let i = 1; i <= totalThemes; i++) {
-        const checkboxDiv = document.createElement('div');
-        checkboxDiv.className = 'checkbox-item';
-        
-        const checkbox = document.createElement('input');
-        checkbox.type = 'checkbox';
-        checkbox.id = `theme${i}`;
-        checkbox.value = i;
-        checkbox.checked = true; // Todos seleccionados por defecto
-        
-        const label = document.createElement('label');
-        label.htmlFor = `theme${i}`;
-        label.textContent = ` Tema ${i}`;
-        
-        checkboxDiv.appendChild(checkbox);
-        checkboxDiv.appendChild(label);
-        themeCheckboxes.appendChild(checkboxDiv);
-    }
-    
-    // Función para cargar preguntas de los temas seleccionados
-    async function loadSelectedThemes() {
-        allQuestions = [];
-        const checkboxes = document.querySelectorAll('#themeCheckboxes input[type="checkbox"]:checked');
-        
-        // Cargar todos los JSONs seleccionados en paralelo
-        const promises = Array.from(checkboxes).map(checkbox => {
-            const temaNumero = checkbox.value;
-            const jsonFile = `../PREGUNTAS/preguntas-tema${temaNumero}.json`;
-            return fetch(jsonFile).then(res => res.json());
-        });
-        
+    const generateTestBtn = document.getElementById("generateTest");
+    const questionsContainer = document.getElementById("questionsContainer");
+    const checkAnswersBtn = document.getElementById("checkAnswers");
+    const restartTestBtn = document.getElementById("restartTest");
+    const closeModalBtn = document.getElementById("closeModal");
+    const resultModal = document.getElementById("resultModal");
+
+    // Cargar todas las preguntas de los temas
+    async function loadAllQuestions() {
         try {
-            const results = await Promise.all(promises);
-            allQuestions = results.flat(); // Combinar todos los arrays de preguntas
-            return true;
+            const temas = [1, 2, 3, 4, 5]; // Ajusta según tus temas
+            const requests = temas.map(tema => 
+                fetch(`../PREGUNTAS/preguntas-tema${tema}.json`)
+                    .then(res => res.json())
+                    .then(data => data.map(q => ({...q, tema})))
+            );
+            
+            const results = await Promise.all(requests);
+            allQuestions = results.flat();
+            
+            // Crear checkboxes de temas
+            createThemeCheckboxes(temas);
         } catch (error) {
-            console.error('Error cargando preguntas:', error);
-            const questionsContainer = document.getElementById("questionsContainer");
-            questionsContainer.textContent = "Error al cargar las preguntas. Por favor, recarga la página.";
-            return false;
+            console.error("Error cargando preguntas:", error);
+            questionsContainer.innerHTML = `
+                <p class="error">Error al cargar las preguntas. Por favor, recarga la página.</p>
+            `;
         }
     }
-    
-    // Botón para generar el test
-    document.getElementById("generateTest").addEventListener("click", async function() {
-        const loaded = await loadSelectedThemes();
-        if (loaded) {
-            const numQuestions = parseInt(document.getElementById("numQuestions").value);
-            generateRandomTest(numQuestions);
+
+    // Crear checkboxes para selección de temas
+    function createThemeCheckboxes(temas) {
+        themeCheckboxes.innerHTML = temas.map(tema => `
+            <label>
+                <input type="checkbox" name="selectedThemes" value="${tema}" checked>
+                Tema ${tema}
+            </label>
+        `).join("");
+    }
+
+    // Generar test con los parámetros seleccionados
+    function generateTest() {
+        const numQuestions = parseInt(numQuestionsSelect.value);
+        const selectedThemes = Array.from(
+            document.querySelectorAll('input[name="selectedThemes"]:checked')
+        ).map(cb => parseInt(cb.value));
+        
+        // Filtrar preguntas por temas seleccionados
+        const filteredQuestions = allQuestions.filter(q => 
+            selectedThemes.includes(q.tema)
+        );
+        
+        if (filteredQuestions.length === 0) {
+            questionsContainer.innerHTML = `
+                <p class="error">No hay preguntas disponibles para los temas seleccionados.</p>
+            `;
+            return;
         }
-    });
-    
-    // Modal (igual que en tu código original)
-    function showModal(resultsText) {
-        const modal = document.getElementById("resultModal");
-        const resultDiv = document.getElementById("results");
-        resultDiv.textContent = resultsText;
-        modal.style.display = "block";
+        
+        // Seleccionar preguntas aleatorias
+        selectedQuestions = getRandomQuestions(filteredQuestions, numQuestions);
+        
+        // Mostrar preguntas
+        renderQuestions(selectedQuestions);
+        
+        // Mostrar/ocultar botones
+        generateTestBtn.style.display = "none";
+        checkAnswersBtn.style.display = "block";
     }
-    
-    const closeModal = document.getElementById("closeModal");
-    closeModal.onclick = function() {
-        const modal = document.getElementById("resultModal");
-        modal.style.display = "none";
-    }
-    
-    // Función para generar test con preguntas aleatorias 
-    function generateRandomTest(count) {
-        const questionsContainer = document.getElementById("questionsContainer");
+
+    // Mostrar preguntas en el contenedor
+    function renderQuestions(questions) {
         questionsContainer.innerHTML = "";
         
-        const randomQuestions = getRandomQuestions(allQuestions, count);
-        
-        randomQuestions.forEach((question, index) => {
+        questions.forEach((question, index) => {
             const questionDiv = document.createElement("div");
-            questionDiv.classList.add("question");
+            questionDiv.className = "question";
+            questionDiv.dataset.correctAnswer = question.answer;
             
+            // Texto de la pregunta
             const questionText = document.createElement("p");
             questionText.textContent = `${index + 1}. ${question.question}`;
             questionDiv.appendChild(questionText);
-
+            
+            // Opciones de respuesta (mezcladas)
             const shuffledOptions = shuffleArray([...question.options]);
             
             shuffledOptions.forEach((option, i) => {
-                const answerLabel = document.createElement("label");
-                const answerInput = document.createElement("input");
-                answerInput.type = "radio";
-                answerInput.name = `question${index}`;
-                answerInput.value = option;
-                answerInput.id = `answer-${index}-${i}`;
-
-                answerLabel.htmlFor = answerInput.id;
-                answerLabel.appendChild(answerInput);
-                answerLabel.appendChild(document.createTextNode(option));
-                questionDiv.appendChild(answerLabel);
+                const label = document.createElement("label");
+                const input = document.createElement("input");
+                input.type = "radio";
+                input.name = `question${index}`;
+                input.value = option;
+                input.id = `q${index}_opt${i}`;
                 
+                label.htmlFor = input.id;
+                label.appendChild(input);
+                label.appendChild(document.createTextNode(option));
+                
+                questionDiv.appendChild(label);
                 questionDiv.appendChild(document.createElement("br"));
             });
-
-            questionDiv.dataset.correctAnswer = question.answer.trim();
+            
             questionsContainer.appendChild(questionDiv);
         });
-
-        document.getElementById("checkAnswers").style.display = "block";
-        document.getElementById("restartTest").style.display = "none";
-        document.getElementById("results").innerHTML = "";
     }
 
+    // Comprobar respuestas
+    function checkAnswers() {
+        let correctAnswers = 0;
+        const results = [];
+        
+        selectedQuestions.forEach((question, index) => {
+            const selectedOption = document.querySelector(
+                `input[name="question${index}"]:checked`
+            );
+            
+            const isCorrect = selectedOption && 
+                selectedOption.value === question.answer;
+            
+            if (isCorrect) correctAnswers++;
+            
+            // Resaltar respuestas
+            document.querySelectorAll(`input[name="question${index}"]`).forEach(input => {
+                const label = input.parentElement;
+                if (input.value === question.answer) {
+                    label.style.fontWeight = "bold";
+                    label.style.color = "#2ecc71"; // Verde
+                } else if (input === selectedOption && !isCorrect) {
+                    label.style.color = "#e74c3c"; // Rojo
+                }
+            });
+            
+            // Guardar resultado para el modal
+            results.push({
+                question: question.question,
+                userAnswer: selectedOption ? selectedOption.value : "No respondida",
+                correctAnswer: question.answer,
+                isCorrect
+            });
+        });
+        
+        // Mostrar resultados en el modal
+        showResults(results, correctAnswers, selectedQuestions.length);
+        
+        // Mostrar/ocultar botones
+        checkAnswersBtn.style.display = "none";
+        restartTestBtn.style.display = "block";
+    }
+
+    // Mostrar resultados en el modal
+    function showResults(results, correctCount, totalQuestions) {
+        const resultsDiv = document.getElementById("results");
+        resultsDiv.innerHTML = `
+            <h2>Resultados del Test</h2>
+            <p class="score">${correctCount} de ${totalQuestions} correctas (${Math.round((correctCount/totalQuestions)*100)}%)</p>
+            <div class="results-details">
+                ${results.map((result, i) => `
+                    <div class="result-item ${result.isCorrect ? 'correct' : 'incorrect'}">
+                        <p><strong>Pregunta ${i+1}:</strong> ${result.question}</p>
+                        <p>Tu respuesta: ${result.userAnswer}</p>
+                        ${!result.isCorrect ? `<p>Respuesta correcta: ${result.correctAnswer}</p>` : ''}
+                    </div>
+                `).join('')}
+            </div>
+        `;
+        
+        resultModal.style.display = "block";
+    }
+
+    // Funciones utilitarias
     function getRandomQuestions(questions, count) {
-        if (questions.length <= count) return [...questions];
         const shuffled = [...questions].sort(() => 0.5 - Math.random());
-        return shuffled.slice(0, count);
+        return shuffled.slice(0, Math.min(count, questions.length));
     }
     
     function shuffleArray(array) {
@@ -126,47 +190,15 @@ document.addEventListener("DOMContentLoaded", function() {
         return array;
     }
 
-    document.getElementById("checkAnswers").addEventListener("click", function() {
-        const resultsDiv = document.getElementById("results");
-        resultsDiv.innerHTML = "";
-        
-        let correctAnswers = 0;
-        const questions = document.querySelectorAll(".question");
-        
-        questions.forEach((question) => {
-            const selectedAnswer = question.querySelector("input[type='radio']:checked");
-            if (selectedAnswer) {
-                const userAnswer = selectedAnswer.value.trim().toLowerCase();
-                const correctAnswer = question.dataset.correctAnswer.trim().toLowerCase();
-                
-                if (userAnswer === correctAnswer) {
-                    correctAnswers++;
-                    selectedAnswer.parentElement.style.color = "green";
-                } else {
-                    selectedAnswer.parentElement.style.color = "red";
-                }
-            }
-            
-            const options = question.querySelectorAll("input[type='radio']");
-            options.forEach(option => {
-                if (option.value.trim().toLowerCase() === question.dataset.correctAnswer.trim().toLowerCase()) {
-                    option.parentElement.style.fontWeight = "bold";
-                    option.parentElement.style.color = "green";
-                }
-            });
-        });
-
-        resultsDiv.innerHTML = `
-            <h3>Resultados</h3>
-            <p>Respuestas correctas: <strong>${correctAnswers}</strong> de <strong>${questions.length}</strong></p>
-            <p>Porcentaje: <strong>${Math.round((correctAnswers / questions.length) * 100)}%</strong></p>
-        `;
-        
-        document.getElementById("checkAnswers").style.display = "none";
-        document.getElementById("restartTest").style.display = "block";
+    // Event listeners
+    generateTestBtn.addEventListener("click", generateTest);
+    checkAnswersBtn.addEventListener("click", checkAnswers);
+    restartTestBtn.addEventListener("click", () => window.location.reload());
+    closeModalBtn.addEventListener("click", () => resultModal.style.display = "none");
+    window.addEventListener("click", (e) => {
+        if (e.target === resultModal) resultModal.style.display = "none";
     });
 
-    document.getElementById("restartTest").addEventListener("click", function() {
-        document.getElementById("generateTest").click();
-    });
+    // Inicializar
+    loadAllQuestions();
 });

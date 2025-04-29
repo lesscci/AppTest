@@ -20,32 +20,138 @@ if (temaNumero) {
         });
 }
 
-//Modal
+// -----------------------------------------------------------//
 
+//Modal
 const jsonPath = '../PREGUNTAS/preguntas-tema1.json'; 
 
-// Función para mostrar el modal
-function showModal(resultsText) {
-    const modal = document.getElementById("resultModal");
-    const resultDiv = document.getElementById("results");
-    resultDiv.textContent = resultsText; // Asignar el contenido de los resultados al modal
-    modal.style.display = "block"; // Mostrar el modal
+        // Función para mostrar el MODAL
+        function showModal() {
+            const modal = document.getElementById("resultModal");
+            if (modal) {
+                modal.style.display = "block";
+            } else {
+                console.error("Modal element not found!");
+            }
+        }
+// Cerrar modal al hacer clic en la X
+document.getElementById("closeModal").onclick = function() {
+    const closeModal = document.getElementById("closeModal");
+    if (closeModal) {
+        closeModal.onclick = function() {
+            const modal = document.getElementById("resultModal");
+            if (modal) modal.style.display = "none";
+        }
+    } else {
+        console.warn("Elemento closeModal no encontrado");
+    }
 }
 
-// Función para cerrar el modal
-const closeModal = document.getElementById("closeModal");
-closeModal.onclick = function() {
+  // Cerrar modal al hacer clic fuera del contenido
+  window.onclick = function(event) {
     const modal = document.getElementById("resultModal");
-    modal.style.display = "none"; // Cerrar el modal
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+
+// -----------------------------------------------------------//
+
+// Función para guardar respuestas incorrectas
+function saveIncorrectAnswer(questionElement, userAnswer, temaNumero, allQuestions) {
+    let incorrectAnswers = JSON.parse(localStorage.getItem('incorrectAnswers')) || [];
+    
+    // Obtener el texto de la pregunta del DOM
+    const questionText = questionElement.querySelector("p").textContent.replace(/^\d+\.\s/, "");
+    
+    // Buscar la pregunta completa en allQuestions
+    const originalQuestion = allQuestions.find(q => q.question === questionText);
+    
+    if (!originalQuestion) {
+        console.error("No se encontró la pregunta original:", questionText);
+        return;
+    }
+    
+    // Crear objeto con estructura correcta
+    const incorrectQuestion = {
+        question: originalQuestion.question,
+        options: [...originalQuestion.options], // Copia las opciones
+        answer: originalQuestion.answer,
+        respuestaUsuario: userAnswer,
+        tema: temaNumero ? `Tema ${temaNumero}` : "Sin tema",
+        fecha: new Date().toLocaleString()
+    };
+    
+    // Validación adicional
+    if (!incorrectQuestion.question || !incorrectQuestion.answer || 
+        !incorrectQuestion.options || !Array.isArray(incorrectQuestion.options)) {
+        console.error("Estructura de pregunta inválida:", incorrectQuestion);
+        return;
+    }
+    
+    incorrectAnswers.push(incorrectQuestion);
+    localStorage.setItem('incorrectAnswers', JSON.stringify(incorrectAnswers));
 }
 
 // Lógica para comprobar respuestas y mostrar resultados en el modal
 document.getElementById("checkAnswers").addEventListener("click", function() {
-    // Aquí puedes agregar la lógica para comprobar las respuestas y generar los resultados
-    const resultsText = "Tus resultados: 8 de 10 correctas."; // Ejemplo de resultados
-    showModal(resultsText);
-});
+    const resultsDiv = document.getElementById("results");
+    resultsDiv.innerHTML = "";
+    
+    let correctAnswers = 0;
+    const questions = document.querySelectorAll(".question");
+    let incorrectAnswersCount = 0;
+    
+    questions.forEach((question) => {
+        const selectedAnswer = question.querySelector("input[type='radio']:checked");
+        if (selectedAnswer) {
+            const userAnswer = selectedAnswer.value.trim().toLowerCase();
+            const correctAnswer = question.dataset.correctAnswer.trim().toLowerCase();
+            const questionText = question.querySelector("p").textContent.replace(/^\d+\.\s/, "");
+            
+            if (userAnswer === correctAnswer) {
+                correctAnswers++;
+                selectedAnswer.parentElement.style.color = "green";
+            } else {
+                incorrectAnswersCount++;
+                selectedAnswer.parentElement.style.color = "red";
+                
+                // Guardar respuesta incorrecta
+                saveIncorrectAnswer(
+                    questionText,
+                    userAnswer,
+                    correctAnswer,
+                    temaNumero,
+                    question 
+                );
+            }
+        }
+        
+        // Mostrar la respuesta correcta
+        const options = question.querySelectorAll("input[type='radio']");
+        options.forEach(option => {
+            if (option.value.trim().toLowerCase() === question.dataset.correctAnswer.trim().toLowerCase()) {
+                option.parentElement.style.fontWeight = "bold";
+                option.parentElement.style.color = "green";
+            }
+        });
+    });
 
+    // Mostrar resultados en el modal
+    resultsDiv.innerHTML = `
+        <h3>Resultados</h3>
+        <p>Respuestas correctas: <strong>${correctAnswers}</strong> de <strong>${questions.length}</strong></p>
+        <p>Porcentaje: <strong>${Math.round((correctAnswers / questions.length) * 100)}%</strong></p>
+        ${incorrectAnswersCount > 0 ? 
+          `<p>Se han guardado <strong>${incorrectAnswersCount}</strong> respuestas incorrectas para revisión.</p>
+           <a href="incorrectas.html" style="color: blue; text-decoration: underline;">Ver respuestas incorrectas</a>` 
+          : ''}
+    `;
+    
+    showModal();
+    document.getElementById("checkAnswers").style.display = "none";
+    document.getElementById("restartTest").style.display = "block";
+});
 
     // Función para generar test con preguntas aleatorias 
     function generateRandomTest() {
@@ -95,6 +201,8 @@ document.getElementById("checkAnswers").addEventListener("click", function() {
         return shuffled.slice(0, count);
     }
     
+    
+    
     function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
@@ -109,41 +217,35 @@ document.getElementById("checkAnswers").addEventListener("click", function() {
         
         let correctAnswers = 0;
         const questions = document.querySelectorAll(".question");
+        let incorrectAnswersCount = 0;
         
-        questions.forEach((question) => {
-            const selectedAnswer = question.querySelector("input[type='radio']:checked");
+        questions.forEach((questionElement) => {
+            const selectedAnswer = questionElement.querySelector("input[type='radio']:checked");
             if (selectedAnswer) {
-                const userAnswer = selectedAnswer.value.trim().toLowerCase();
-                const correctAnswer = question.dataset.correctAnswer.trim().toLowerCase();
+                const userAnswer = selectedAnswer.value;
+                const correctAnswer = questionElement.dataset.correctAnswer;
                 
                 if (userAnswer === correctAnswer) {
                     correctAnswers++;
                     selectedAnswer.parentElement.style.color = "green";
                 } else {
+                    incorrectAnswersCount++;
                     selectedAnswer.parentElement.style.color = "red";
+                    
+                    // Guardar respuesta incorrecta con la estructura correcta
+                    saveIncorrectAnswer(questionElement, userAnswer, temaNumero, allQuestions);
                 }
             }
-            
-            const options = question.querySelectorAll("input[type='radio']");
-            options.forEach(option => {
-                if (option.value.trim().toLowerCase() === question.dataset.correctAnswer.trim().toLowerCase()) {
-                    option.parentElement.style.fontWeight = "bold";
-                    option.parentElement.style.color = "green";
-                }
-            });
         });
-
-        resultsDiv.innerHTML = `
-            <h3>Resultados</h3>
-            <p>Respuestas correctas: <strong>${correctAnswers}</strong> de <strong>${questions.length}</strong></p>
-            <p>Porcentaje: <strong>${Math.round((correctAnswers / questions.length) * 100)}%</strong></p>
-        `;
         
-        document.getElementById("checkAnswers").style.display = "none";
-        document.getElementById("restartTest").style.display = "block";
+        // Resto de tu lógica para mostrar resultados...
     });
 
     document.getElementById("restartTest").addEventListener("click", function() {
         generateRandomTest();
     });
+
+  
+
+
 });

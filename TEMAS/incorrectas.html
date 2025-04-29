@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repaso de Respuestas Incorrectas</title>
+    <link rel="stylesheet" href="../style.css">
+    <style>
+        /* Estilos para el modal */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.7);
+        }
+        
+        .modal-content {
+            background-color: #fefefe;
+            margin: 10% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            max-width: 600px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+        
+        .close:hover {
+            color: black;
+        }
+        
+        /* Estilos para las preguntas */
+        .no-questions {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+        }
+        
+        .question {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+        }
+        
+        .question label {
+            display: block;
+            margin: 5px 0;
+            cursor: pointer;
+        }
+        
+        /* Estilos para los resultados */
+        .results-container {
+            max-height: 60vh;
+            overflow-y: auto;
+        }
+        
+        .result-item {
+            margin-bottom: 15px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        
+        .result-item.correct {
+            background-color: #e8f8f0;
+            border-left: 4px solid #2ecc71;
+        }
+        
+        .result-item.incorrect {
+            background-color: #fdeded;
+            border-left: 4px solid #e74c3c;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📝 Repaso de Respuestas Incorrectas</h1>
+        <div id="questionsContainer"></div>
+        <button class="comprobar" id="checkAnswers" style="display: none;">Comprobar Respuestas</button>
+        <button class="inicio" onclick="window.location.href='../index.html'">Volver al inicio</button>
+    </div>
+
+    <!-- Modal para resultados -->
+    <div id="resultModal" class="modal">
+        <div class="modal-content">
+            <span class="close" id="closeModal">&times;</span>
+            <div id="results" class="results-container"></div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // 1. Obtener elementos del DOM
+            const checkAnswersBtn = document.getElementById("checkAnswers");
+            const questionsContainer = document.getElementById("questionsContainer");
+            const resultModal = document.getElementById("resultModal");
+            const closeModalBtn = document.getElementById("closeModal");
+            const resultsDiv = document.getElementById("results");
+            
+            // 2. Verificar que los elementos existen
+            if (!checkAnswersBtn || !questionsContainer || !resultModal || !closeModalBtn || !resultsDiv) {
+                console.error("Elementos esenciales no encontrados en el DOM");
+                return;
+            }
+
+            // 3. Configurar eventos del modal
+            closeModalBtn.onclick = function() {
+                resultModal.style.display = "none";
+            };
+            
+            window.onclick = function(event) {
+                if (event.target === resultModal) {
+                    resultModal.style.display = "none";
+                }
+            };
+
+            // 4. Cargar preguntas incorrectas
+            let incorrectAnswers = [];
+            try {
+                incorrectAnswers = JSON.parse(localStorage.getItem('incorrectAnswers')) || [];
+            } catch (error) {
+                console.error("Error al leer localStorage:", error);
+            }
+            
+            // 5. Normalizar estructura de preguntas
+            const normalizedQuestions = incorrectAnswers.map(q => ({
+                pregunta: q.pregunta || q.question,
+                respuestaCorrecta: q.respuestaCorrecta || q.answer,
+                opciones: q.opciones || q.options || []
+            })).filter(q => q.pregunta && q.respuestaCorrecta && q.opciones.length > 0);
+
+            // 6. Mostrar contenido según haya preguntas
+            if (normalizedQuestions.length === 0) {
+                questionsContainer.innerHTML = `
+                    <div class="no-questions">
+                        <p>No hay preguntas incorrectas para repasar.</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            // 7. Generar el test con las preguntas
+            generateTestFromIncorrectAnswers(normalizedQuestions);
+            
+            // 8. Mostrar el botón y asignar evento
+            checkAnswersBtn.style.display = "block";
+            checkAnswersBtn.addEventListener("click", function() {
+                showResults(normalizedQuestions);
+            });
+        });
+
+        function generateTestFromIncorrectAnswers(questions) {
+            const questionsContainer = document.getElementById("questionsContainer");
+            if (!questionsContainer) return;
+            
+            questionsContainer.innerHTML = "";
+            
+            questions.forEach((question, index) => {
+                const questionDiv = document.createElement("div");
+                questionDiv.className = "question";
+                questionDiv.dataset.correctAnswer = question.respuestaCorrecta.trim().toLowerCase();
+                
+                // Texto de la pregunta
+                const questionText = document.createElement("p");
+                questionText.textContent = `${index + 1}. ${question.pregunta}`;
+                questionDiv.appendChild(questionText);
+                
+                // Opciones de respuesta (mezcladas)
+                const shuffledOptions = shuffleArray([...question.opciones]);
+                
+                shuffledOptions.forEach((option, i) => {
+                    const optionText = option.trim();
+                    const label = document.createElement("label");
+                    const input = document.createElement("input");
+                    input.type = "radio";
+                    input.name = `question${index}`;
+                    input.value = optionText;
+                    input.id = `q${index}_opt${i}`;
+                    
+                    label.htmlFor = input.id;
+                    label.appendChild(input);
+                    label.appendChild(document.createTextNode(optionText));
+                    
+                    questionDiv.appendChild(label);
+                    questionDiv.appendChild(document.createElement("br"));
+                });
+                
+                questionsContainer.appendChild(questionDiv);
+            });
+        }
+
+        function showResults(questions) {
+            const resultModal = document.getElementById("resultModal");
+            const resultsDiv = document.getElementById("results");
+            const questionElements = document.querySelectorAll(".question");
+            
+            if (!resultModal || !resultsDiv) return;
+            
+            let correctCount = 0;
+            const results = [];
+            
+            questions.forEach((question, index) => {
+                const questionElement = questionElements[index];
+                const selectedOption = document.querySelector(`input[name="question${index}"]:checked`);
+                const isCorrect = selectedOption && 
+                    selectedOption.value.trim().toLowerCase() === question.respuestaCorrecta.trim().toLowerCase();
+                
+                if (isCorrect) correctCount++;
+                
+                // Resaltar respuestas en las preguntas
+                if (selectedOption) {
+                    if (isCorrect) {
+                        selectedOption.parentElement.style.color = "green";
+                    } else {
+                        selectedOption.parentElement.style.color = "red";
+                    }
+                }
+                
+                // Mostrar respuesta correcta
+                questionElement.querySelectorAll(`input[name="question${index}"]`).forEach(input => {
+                    if (input.value.trim().toLowerCase() === question.respuestaCorrecta.trim().toLowerCase()) {
+                        input.parentElement.style.fontWeight = "bold";
+                        input.parentElement.style.color = "green";
+                    }
+                });
+                
+                // Guardar resultados para el modal
+                results.push({
+                    question: question.pregunta,
+                    userAnswer: selectedOption ? selectedOption.value : "No respondida",
+                    correctAnswer: question.respuestaCorrecta,
+                    isCorrect
+                });
+            });
+            
+            // Mostrar resultados en el modal
+            resultsDiv.innerHTML = `
+                <h2>Resultados del Test</h2>
+                <p class="score">${correctCount} de ${questions.length} correctas (${Math.round((correctCount/questions.length)*100)}%)</p>
+                <div class="results-list">
+                    ${results.map((result, i) => `
+                        <div class="result-item ${result.isCorrect ? 'correct' : 'incorrect'}">
+                            <p><strong>Pregunta ${i+1}:</strong> ${result.question}</p>
+                            <p>Tu respuesta: ${result.userAnswer}</p>
+                            ${!result.isCorrect ? `<p>Respuesta correcta: ${result.correctAnswer}</p>` : ''}
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+            
+            resultModal.style.display = "block";
+            
+            // Actualizar localStorage (eliminar preguntas correctas)
+            const remainingQuestions = questions.filter((q, i) => {
+                const selected = document.querySelector(`input[name="question${i}"]:checked`);
+                return !selected || 
+                    selected.value.trim().toLowerCase() !== q.respuestaCorrecta.trim().toLowerCase();
+            });
+            
+            localStorage.setItem('incorrectAnswers', JSON.stringify(remainingQuestions));
+        }
+
+        function shuffleArray(array) {
+            const newArray = [...array];
+            for (let i = newArray.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+            }
+            return newArray;
+        }
+    </script>
+</body>
+</html>
