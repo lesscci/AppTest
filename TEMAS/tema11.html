@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tema 10 - Test</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <div class="container">
+        <h1> 🛒 UF1 - Determinación del surtido de productos </h1>
+        <div id="questionsContainer"></div>
+        <button class="comprobar" id="checkAnswers">Comprobar Respuestas</button>
+        <button class="comprobar" id="restartTest" style="display:none;">Hacer otro test</button>
+        <button class="inicio" onclick="window.location.href='/index.html'">Volver al inicio</button>
+
+          <!-- Modal de Resultados -->
+      <div id="resultModal" class="modal">
+        <div class="modal-content">
+          <span class="close" id="closeModal">&times;</span>
+          <div id="results"></div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+        const jsonPath = '../PREGUNTAS/preguntas-tema11.json'; 
+    </script>
+    <script src="../script.js"></script>
+</body>
+</html>
+

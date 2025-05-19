@@ -1,5 +1,195 @@
 [
-    {
+  {
+    "question": "El conjunt de productes o referències que una empresa ofereix a la seva clientela en el punt de venda al detall s'anomena:",
+    "options": [
+      "Gamma de productes",
+      "Línia de productes",
+      "Assortiment",
+      "Categoria de productes"
+    ],
+    "answer": "Assortiment"
+  },
+  {
+    "question": "Les divisions jeràrquiques de l'assortiment s'anomenen:",
+    "options": [
+      "Grups o nivells",
+      "Universos de productes",
+      "Categories de productes",
+      "Referències"
+    ],
+    "answer": "Grups o nivells"
+  },
+  {
+    "question": "Dins l'estructura de l'assortiment, les divisions d'una secció que agrupen diverses famílies s'anomenen:",
+    "options": [
+      "Subfamílies",
+      "Categories",
+      "Sectors",
+      "Departaments"
+    ],
+    "answer": "Categories"
+  },
+  {
+    "question": "Una categoria creuada de productes es caracteritza per:",
+    "options": [
+      "Agrupació per característiques físiques",
+      "Agrupació per necessitat genèrica",
+      "Agrupació per homogeneïtat en composició",
+      "Agrupació per tipus d'ús o consum"
+    ],
+    "answer": "Agrupació per tipus d'ús o consum"
+  },
+  {
+    "question": "L'amplitud de l'assortiment depèn principalment de:",
+    "options": [
+      "Nombre de departaments i seccions",
+      "Nombre de referències per família",
+      "Nombre total de referències",
+      "Nombre de categories i subfamílies"
+    ],
+    "answer": "Nombre de departaments i seccions"
+  },
+  {
+    "question": "La profunditat de l'assortiment s'analitza des d'una perspectiva:",
+    "options": [
+      "Horitzontal",
+      "Vertical",
+      "Qualitativa",
+      "Global"
+    ],
+    "answer": "Vertical"
+  },
+  {
+    "question": "Quin tipus d'establiment sol tenir assortiment profund?",
+    "options": [
+      "Grans magatzems",
+      "Hipermercats",
+      "Supermercats grans",
+      "Totes les anteriors"
+    ],
+    "answer": "Totes les anteriors"
+  },
+  {
+    "question": "Quin tipus d'assortiment cobreix moltes necessitats amb gran varietat de referències?",
+    "options": [
+      "Ampli i profund",
+      "Ampli i poc profund",
+      "Poc ampli i profund",
+      "Poc ampli i poc profund"
+    ],
+    "answer": "Ampli i profund"
+  },
+  {
+    "question": "El nombre de subgrups en què es divideix una secció determina la seva:",
+    "options": [
+      "Amplitud",
+      "Profunditat",
+      "Amplada",
+      "Extensió"
+    ],
+    "answer": "Amplada"
+  },
+  {
+    "question": "El grau de complementarietat entre agrupacions de l'assortiment determina:",
+    "options": [
+      "Equilibri",
+      "Essencialitat",
+      "Coherència",
+      "Traçabilitat"
+    ],
+    "answer": "Coherència"
+  },
+  {
+    "question": "L'univers de productes és la delimitació genèrica que els clients esperen trobar en un establiment:",
+    "options": [
+      "Vertader",
+      "Fals"
+    ],
+    "answer": "Vertader"
+  },
+  {
+    "question": "Les dimensions quantitatives principals de l'assortiment són amplitud, profunditat i longitud:",
+    "options": [
+      "Vertader",
+      "Fals"
+    ],
+    "answer": "Vertader"
+  },
+  {
+    "question": "L'extensó de l'assortiment mesura el nombre mitjà de marques per secció:",
+    "options": [
+      "Vertader",
+      "Fals"
+    ],
+    "answer": "Vertader"
+  },
+  {
+    "question": "Com més gran és l'amplitud, més especialitzat és l'assortiment:",
+    "options": [
+      "Vertader",
+      "Fals"
+    ],
+    "answer": "Fals"
+  },
+  {
+    "question": "L'essencialitat es refereix al grau de coincidència entre assortiment ofert i esperat:",
+    "options": [
+      "Vertader",
+      "Fals"
+    ],
+    "answer": "Vertader"
+  },
+  {
+    "question": "Relaciona: Moltes seccions i àmplia varietat de productes",
+    "options": [
+      "Amplitud",
+      "Profunditat",
+      "Amplada",
+      "Extensió"
+    ],
+    "answer": "Amplitud"
+  },
+  {
+    "question": "Relaciona: Moltes famílies amb gran varietat de referències",
+    "options": [
+      "Amplitud",
+      "Profunditat",
+      "Amplada",
+      "Extensió"
+    ],
+    "answer": "Profunditat"
+  },
+  {
+    "question": "Relaciona: Gran varietat de marques en les categories",
+    "options": [
+      "Amplitud",
+      "Profunditat",
+      "Amplada",
+      "Extensió"
+    ],
+    "answer": "Extensió"
+  },
+  {
+    "question": "Relaciona: Varietat similar en totes les famílies",
+    "options": [
+      "Equilibri",
+      "Essencialitat",
+      "Dinamisme",
+      "Fidelitat"
+    ],
+    "answer": "Equilibri"
+  },
+  {
+    "question": "Relaciona: Adaptació constant a necessitats dels clients",
+    "options": [
+      "Equilibri",
+      "Essencialitat",
+      "Dinamisme",
+      "Fidelitat"
+    ],
+    "answer": "Dinamisme"
+  },
+  {
     "question": "¿Qué principio exige que los datos se traten de forma clara para el interesado?",
     "options": [
       "Minimización de datos",
