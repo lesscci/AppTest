@@ -1,0 +1,275 @@
+[
+  {
+    "question": "¿Qué es la Comunicación Comercial Integrada (CIM)?",
+    "options": [
+      "Usar solo publicidad tradicional",
+      "Coordinar todos los instrumentos de marketing para transmitir un mensaje consistente",
+      "Limitarse a promociones de ventas",
+      "Ignorar los canales digitales"
+    ],
+    "answer": "Coordinar todos los instrumentos de marketing para transmitir un mensaje consistente",
+    "explication": "La CIM busca sinergias entre publicidad, PLV, promociones, etc., para un mensaje unificado."
+  },
+  {
+    "question": "¿Cuál es la diferencia clave entre comunicación ATL y BTL?",
+    "options": [
+      "La ATL usa medios masivos (TV, prensa); la BTL segmenta audiencias (mailing, ferias)",
+      "La ATL es más barata que la BTL",
+      "La BTL no usa creatividad",
+      "La ATL solo funciona online"
+    ],
+    "answer": "La ATL usa medios masivos (TV, prensa); la BTL segmenta audiencias (mailing, ferias)",
+    "explication": "Ejemplo: Un anuncio en TV es ATL; un stand interactivo en una feria es BTL."
+  },
+
+  {
+    "question": "En el proceso publicitario, ¿qué es el 'brífing'?",
+    "options": [
+      "Un contrato legal con los medios",
+      "Un documento con información sobre el producto, mercado y objetivos para la agencia",
+      "Un informe de ventas mensual",
+      "Un jingle publicitario"
+    ],
+    "answer": "Un documento con información sobre el producto, mercado y objetivos para la agencia",
+    "explication": "Incluye datos de la empresa, competencia, público objetivo y presupuesto."
+  }, {
+    "question": "¿Qué caracteriza la comunicación comercial actual según el texto?",
+    "options": [
+      "Saturación de medios tradicionales y fragmentación de audiencias",
+      "Uso exclusivo de publicidad masiva",
+      "Desaparición del márqueting directo",
+      "Falta de regulación legal"
+    ],
+    "answer": "Saturación de medios tradicionales y fragmentación de audiencias",
+    "explication": "El texto destaca la pérdida de eficacia de los medios convencionales y la necesidad de diversificar estrategias."
+  },{
+    "question": "¿Cuál NO es un instrumento de comunicación comercial mencionado?",
+    "options": [
+      "Venta personal",
+      "Fabricación de productos",
+      "Márqueting directo",
+      "Feres i exposicions"
+    ],
+    "answer": "Fabricación de productos",
+    "explication": "La fabricación es parte de la producción, no de la comunicación comercial."
+  }, {
+    "question": "¿Qué medio publicitario permite textos extensos pero no usa sonido ni movimiento?",
+    "options": [
+      "Televisión",
+      "Radio",
+      "Prensa escrita",
+      "Cine"
+    ],
+    "answer": "Prensa escrita",
+    "explication": "Ventaja clave para productos que requieren explicación detallada (ej: seguros)."
+  }, {
+    "question": "Si un anuncio en radio cuesta 1.200€ y llega a 80.000 oyentes, su CPMI es:",
+    "options": [
+      "15€",
+      "1.5€",
+      "150€",
+      "0.15€"
+    ],
+    "answer": "15€",
+    "explication": "CPMI = (1.200€ / 80.000) × 1.000 = 15€ por mil impactos."
+  },  {
+    "question": "Una promoción '2x1' en un supermercado busca principalmente:",
+    "options": [
+      "Fidelizar a largo plazo",
+      "Estimular la compra inmediata",
+      "Mejorar la imagen de marca",
+      "Educar al consumidor"
+    ],
+    "answer": "Estimular la compra inmediata",
+    "explication": "Las promociones actúan a corto plazo vs. publicidad (largo plazo)."
+  }, {
+    "question": "¿Qué tipo de promoción dirigirías a un distribuidor para que priorice tu marca?",
+    "options": [
+      "Muestras gratuitas para clientes finales",
+      "Bonificaciones por volumen de pedido",
+      "Campaña en redes sociales",
+      "Anuncio en TV"
+    ],
+    "answer": "Bonificaciones por volumen de pedido",
+    "explication": "Incentivos económicos directos a intermediarios."
+  },
+ {
+    "question": "Un expositor interactivo en una tienda es ejemplo de:",
+    "options": [
+      "Publicidad ATL",
+      "PLV (Publicitat en el Lloc de Venda)",
+      "Márqueting relacional",
+      "Propaganda"
+    ],
+    "answer": "PLV (Publicitat en el Lloc de Venda)",
+    "explication": "Elementos que influyen en la decisión de compra *in situ*."
+  }, {
+    "question": "¿Qué principio de la CIM evita mensajes contradictorios entre redes sociales y TV?",
+    "options": [
+      "Coherencia",
+      "Consistencia",
+      "Continuidad",
+      "Complementarietat"
+    ],
+    "answer": "Consistencia",
+    "explication": "Ejemplo: Mismo eslogan y colores en todos los canales."
+  },
+ {
+    "question": "Según la Ley General de Publicidad, ¿qué principio prohíbe anuncios que imiten a la competencia?",
+    "options": [
+      "Principi de legalitat",
+      "Principi de veracitat",
+      "Principi de lliure competència",
+      "Principi d'autenticitat"
+    ],
+    "answer": "Principi de lliure competència",
+    "explication": "Evita confusión entre marcas y competencia desleal."
+  }, {
+    "question": "¿Qué incluye el *brífing* para una campaña publicitaria?",
+    "options": [
+      "Solo el presupuesto",
+      "Datos de la empresa, competencia, público objetivo y objetivos",
+      "Solo imágenes creativas",
+      "Listado de medios a usar"
+    ],
+    "answer": "Datos de la empresa, competencia, público objetivo y objetivos",
+    "explication": "Documento clave para guiar a la agencia de publicidad."
+  },
+  {
+    "question": "¿Qué audiencia se considera 'útil' en publicidad?",
+    "options": [
+      "Toda la audiencia de un medio",
+      "Solo el público objetivo del anunciante",
+      "Los competidores directos",
+      "Los no consumidores del producto"
+    ],
+    "answer": "Solo el público objetivo del anunciante",
+    "explication": "Ejemplo: Anunciar pañales en una revista de padres."
+  },
+  {
+    "question": "Si un anuncio en TV cuesta 50.000€ y tiene 5 millones de espectadores, ¿cuál es su CPMI?",
+    "options": [
+      "100€",
+      "10€",
+      "50€",
+      "5€"
+    ],
+    "answer": "10€",
+    "explication": "CPMI = (50.000€ / 5.000.000) × 1.000 = 10€ por cada mil impactos."
+  },
+
+  {
+    "question": "¿Qué caracteriza a una promoción de ventas frente a la publicidad?",
+    "options": [
+      "Busca fidelizar a largo plazo",
+      "Ofrece incentivos inmediatos (ej: descuentos)",
+      "Solo se dirige a distribuidores",
+      "No usa canales digitales"
+    ],
+    "answer": "Ofrece incentivos inmediatos (ej: descuentos)",
+    "explication": "Ejemplo: '2x1' es una promoción; un anuncio de TV es publicidad."
+  },
+  {
+    "question": "¿A qué destinatario se dirige una promoción que ofrece bonificaciones a vendedores por alcanzar metas?",
+    "options": [
+      "Clientes finales",
+      "Prescriptores",
+      "Personal de ventas",
+      "Intermediarios"
+    ],
+    "answer": "Personal de ventas",
+    "explication": "Objetivo: motivar al equipo comercial para aumentar ventas."
+  },
+
+  {
+    "question": "¿Qué significa PLV en comunicación comercial?",
+    "options": [
+      "Publicidad en Línea Viral",
+      "Publicidad en el Lugar de Venta",
+      "Promoción de Lanzamiento Vertical",
+      "Planificación de Ventas"
+    ],
+    "answer": "Publicidad en el Lugar de Venta",
+    "explication": "Ejemplos: Carteles, expositores o pantallas interactivas en tiendas."
+  },
+  {
+    "question": "¿Qué principio de la CIM asegura que los mensajes no sean contradictorios?",
+    "options": [
+      "Coherencia",
+      "Consistencia",
+      "Continuidad",
+      "Complementariedad"
+    ],
+    "answer": "Consistencia",
+    "explication": "Evita que un mensaje en redes sociales contradiga una campaña de TV."
+  },
+
+  {
+    "question": "Según la Ley General de Publicidad, ¿qué principio prohíbe anuncios que induzcan a error?",
+    "options": [
+      "Principio de legalidad",
+      "Principio de veracidad",
+      "Principio de autenticidad",
+      "Principio de competencia"
+    ],
+    "answer": "Principio de veracidad",
+    "explication": "Ejemplo: No se puede anunciar un producto como 'ecológico' sin certificación."
+  },
+  {
+    "question": "¿Qué tipo de medio publicitario permite argumentación extensa pero no usa sonido?",
+    "options": [
+      "Televisión",
+      "Radio",
+      "Prensa escrita",
+      "Cine"
+    ],
+    "answer": "Prensa escrita",
+    "explication": "Ventaja: Textos detallados para productos complejos (ej: seguros)."
+  },
+
+  {
+    "question": "Una promoción de 'prueba gratuita' para médicos busca:",
+    "options": [
+      "Fidelizar clientes finales",
+      "Influir en prescriptores",
+      "Motivar a distribuidores",
+      "Reducir costes de producción"
+    ],
+    "answer": "Influir en prescriptores",
+    "explication": "Médicos recomendarán el producto si confían en él."
+  },
+  {
+    "question": "¿Qué instrumento de comunicación refuerza la imagen de marca a largo plazo?",
+    "options": [
+      "Publicidad",
+      "Promoción de ventas '50% descuento'",
+      "PLV en tiendas",
+      "Márqueting directo"
+    ],
+    "answer": "Publicidad",
+    "explication": "Las promociones actúan a corto plazo; la publicidad construye reputación."
+  },
+
+  {
+    "question": "Un anuncio en Instagram con influencers + un stand interactivo en tienda son ejemplo de:",
+    "options": [
+      "Comunicación ATL exclusiva",
+      "Sinergias en CIM",
+      "Publicidad engañosa",
+      "Promociones para prescriptores"
+    ],
+    "answer": "Sinergias en CIM",
+    "explication": "Combina BTL (stand) y digital (influencers) con mensaje coherente."
+  },
+  {
+    "question": "Si una revista tiene 200.000 lectores y cobra 4.000€ por un anuncio, su CPMI es:",
+    "options": [
+      "2€",
+      "20€",
+      "200€",
+      "0.2€"
+    ],
+    "answer": "20€",
+    "explication": "CPMI = (4.000€ / 200.000) × 1.000 = 20€ por mil impactos."
+  }
+]

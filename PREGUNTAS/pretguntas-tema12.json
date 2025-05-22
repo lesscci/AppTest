@@ -1,0 +1,1009 @@
+[
+  {
+    "question": "¿Qué es el lineal en un punto de venta?",
+    "options": [
+      "Un espacio físico para la exposición de productos",
+      "Un tipo de promoción comercial",
+      "Un sistema de gestión de inventario",
+      "Una estrategia de precios"
+    ],
+    "answer": "Un espacio físico para la exposición de productos"
+  },
+  {
+    "question": "¿Cuál de estos elementos NO forma parte del lineal?",
+    "options": [
+      "Góndolas",
+      "Paneles enrejados",
+      "Cajas registradoras",
+      "Vitrinas"
+    ],
+    "answer": "Cajas registradoras"
+  },
+  {
+    "question": "¿Qué función principal cumple el lineal en venta de autoservicio?",
+    "options": [
+      "Reemplazar al vendedor",
+      "Reducir costos de personal",
+      "Almacenar productos en tránsito",
+      "Controlar el inventario"
+    ],
+    "answer": "Reemplazar al vendedor"
+  },
+  {
+    "question": "¿Qué nivel del lineal tiene mayor potencial de ventas?",
+    "options": [
+      "Nivel inferior (de los pies)",
+      "Nivel intermedio superior (de los ojos)",
+      "Nivel superior (del sombrero)",
+      "Nivel intermedio inferior (de las manos)"
+    ],
+    "answer": "Nivel intermedio superior (de los ojos)"
+  },
+  {
+    "question": "¿Qué porcentaje aproximado de potencial de ventas tiene el nivel de los ojos?",
+    "options": [
+      "25%",
+      "52%",
+      "75%",
+      "13%"
+    ],
+    "answer": "52%"
+  },
+  {
+    "question": "¿Qué zona vertical del lineal tiene mayor potencial de ventas?",
+    "options": [
+      "Zona A (fría)",
+      "Zona B (caliente)",
+      "Zona C (tibia)",
+      "Todas tienen igual potencial"
+    ],
+    "answer": "Zona B (caliente)"
+  },
+  {
+    "question": "¿Qué es el lineal desarrollado?",
+    "options": [
+      "La longitud del lineal a nivel del suelo",
+      "El lineal multiplicado por el número de niveles",
+      "El espacio ocupado por productos promocionales",
+      "La superficie total del punto de venta"
+    ],
+    "answer": "El lineal multiplicado por el número de niveles"
+  },
+  {
+    "question": "¿Qué es un 'facing' en la gestión del lineal?",
+    "options": [
+      "La superficie frontal ocupada por unidades de un producto",
+      "La orientación del mobiliario en la tienda",
+      "Un tipo de mobiliario expositor",
+      "La estrategia de precios frontales"
+    ],
+    "answer": "La superficie frontal ocupada por unidades de un producto"
+  },
+  {
+    "question": "¿Qué tipo de mobiliario se usa normalmente en tiendas exclusivas?",
+    "options": [
+      "Mobiliario estándar modular",
+      "Mobiliario hecho a medida con materiales nobles",
+      "Mobiliario de bajo coste",
+      "Mobiliario temporal"
+    ],
+    "answer": "Mobiliario hecho a medida con materiales nobles"
+  },
+  {
+    "question": "¿Qué se recomienda colocar en el nivel superior del lineal?",
+    "options": [
+      "Productos de primera necesidad",
+      "Productos de compra por impulso",
+      "Material publicitario o stock de seguridad",
+      "Productos de alta rotación"
+    ],
+    "answer": "Material publicitario o stock de seguridad"
+  },
+  {
+    "question": "¿Qué factor NO influye en la elección del mobiliario para el lineal?",
+    "options": [
+      "Características del producto",
+      "Formato del establecimiento",
+      "Color favorito del gerente",
+      "Imagen que se quiere transmitir"
+    ],
+    "answer": "Color favorito del gerente"
+  },
+  {
+    "question": "¿Qué es el COS en la gestión del lineal?",
+    "options": [
+      "Coeficiente de Ocupación del Suelo",
+      "Control de Organización de Secciones",
+      "Cálculo de Ofertas Semanales",
+      "Clasificación de Objetos de Venta"
+    ],
+    "answer": "Coeficiente de Ocupación del Suelo"
+  },
+  {
+    "question": "¿Qué altura corresponde al nivel de las manos?",
+    "options": [
+      "Menos de 80 cm",
+      "80-120 cm",
+      "120-170 cm",
+      "Más de 170 cm"
+    ],
+    "answer": "80-120 cm"
+  },
+  {
+    "question": "¿Qué tipo de productos son adecuados para el nivel inferior del lineal?",
+    "options": [
+      "Productos de compra por impulso",
+      "Productos voluminosos y de primera necesidad",
+      "Productos de alta gama",
+      "Productos promocionales"
+    ],
+    "answer": "Productos voluminosos y de primera necesidad"
+  },
+  {
+    "question": "¿Qué objetivo tiene a largo plazo la gestión del lineal?",
+    "options": [
+      "Introducir un producto nuevo",
+      "Maximizar el volumen de ventas",
+      "Suprimir un producto del surtido",
+      "Aumentar ventas de un producto estancado"
+    ],
+    "answer": "Maximizar el volumen de ventas"
+  }, {
+    "question": "¿Qué elemento del lineal se utiliza específicamente para productos en promoción?",
+    "options": [
+      "Cabeceras de góndola",
+      "Vitrinas",
+      "Paneles enrejados",
+      "Frigoríficos expositores"
+    ],
+    "answer": "Cabeceras de góndola"
+  },
+  {
+    "question": "¿Qué tipo de mobiliario permite mayor versatilidad y adaptación a diferentes productos?",
+    "options": [
+      "Mobiliario hecho a medida",
+      "Mobiliario estándard modular",
+      "Mobiliario de lujo",
+      "Mobiliario temporal"
+    ],
+    "answer": "Mobiliario estándard modular"
+  },
+  {
+    "question": "¿Qué ancho mínimo deben tener los pasillos en locales de más de 200m²?",
+    "options": [
+      "1.2 metros",
+      "1.5 metros",
+      "1.8 metros",
+      "2.0 metros"
+    ],
+    "answer": "1.8 metros"
+  },
+  {
+    "question": "¿Qué efecto crea un mobiliario más alto en el punto de venta?",
+    "options": [
+      "Ambiente más abierto",
+      "Mayor visibilidad global",
+      "Ambiente más cerrado",
+      "Mejor iluminación natural"
+    ],
+    "answer": "Ambiente más cerrado"
+  },
+  {
+    "question": "¿Qué se entiende por 'stock de presentación'?",
+    "options": [
+      "El inventario total en almacén",
+      "Las unidades visibles y no visibles de una referencia en el lineal",
+      "Solo los productos en promoción",
+      "Los artículos de temporada"
+    ],
+    "answer": "Las unidades visibles y no visibles de una referencia en el lineal"
+  },
+  {
+    "question": "¿Para qué tipo de productos se utilizan normalmente las vitrinas?",
+    "options": [
+      "Productos que necesitan protección",
+      "Productos de gran volumen",
+      "Artículos de bajo valor",
+      "Mercancía en promoción"
+    ],
+    "answer": "Productos que necesitan protección"
+  },
+  {
+    "question": "¿Qué objetivo de corto plazo puede tener la gestión del lineal?",
+    "options": [
+      "Maximizar beneficios a largo plazo",
+      "Introducir un producto nuevo",
+      "Reducir costes de almacenamiento",
+      "Mejorar la rotación anual"
+    ],
+    "answer": "Introducir un producto nuevo"
+  },
+  {
+    "question": "¿Qué caracteriza a los expositores de sobremesa?",
+    "options": [
+      "Grandes dimensiones",
+      "Ubicación en pasillos centrales",
+      "Pequeño tamaño y colocación sobre mostradores",
+      "Uso exclusivo para productos refrigerados"
+    ],
+    "answer": "Pequeño tamaño y colocación sobre mostradores"
+  },
+  {
+    "question": "¿Qué función cumple el lineal para los fabricantes?",
+    "options": [
+      "Herramienta de comunicación y diferenciación",
+      "Sistema de control de inventario",
+      "Método para reducir costes",
+      "Soporte para gestión de pedidos"
+    ],
+    "answer": "Herramienta de comunicación y diferenciación"
+  },
+  {
+    "question": "¿Qué aspecto NO es importante en la composición del lineal?",
+    "options": [
+      "Formas y colores de los envases",
+      "Elementos de publicidad",
+      "Preferencias personales del repositor",
+      "Ordenación lógica de productos"
+    ],
+    "answer": "Preferencias personales del repositor"
+  },
+  {
+    "question": "¿Cuáles son los tres tipos básicos de presentación del lineal?",
+    "options": [
+      "Vertical, horizontal y mixta",
+      "Circular, diagonal y escalonada",
+      "Uniforme, aleatoria y secuencial",
+      "Por color, por tamaño y por marca"
+    ],
+    "answer": "Vertical, horizontal y mixta"
+  },
+  {
+    "question": "¿Qué ventaja principal tiene la presentación vertical?",
+    "options": [
+      "Mayor visibilidad de todos los productos",
+      "Ahorro de espacio en el lineal",
+      "Menor necesidad de reposición",
+      "Exclusividad para productos premium"
+    ],
+    "answer": "Mayor visibilidad de todos los productos"
+  },
+  {
+    "question": "¿Cuál es el inconveniente principal de la presentación horizontal?",
+    "options": [
+      "Dificulta la visibilidad de productos en niveles extremos",
+      "Requiere más espacio en el lineal",
+      "Aumenta los costes de reposición",
+      "Limita la variedad de productos"
+    ],
+    "answer": "Dificulta la visibilidad de productos en niveles extremos"
+  },
+  {
+    "question": "¿Qué se considera el lineal mínimo arran de terra para una categoría de productos?",
+    "options": [
+      "2 metros",
+      "1 metro",
+      "50 centímetros",
+      "3 metros"
+    ],
+    "answer": "2 metros"
+  },
+  {
+    "question": "¿Qué indica un COS entre 25-40%?",
+    "options": [
+      "Densidad óptima para mayoría de comercios",
+      "Espacio demasiado congestionado",
+      "Área desaprovechada",
+      "Necesidad de más referencias"
+    ],
+    "answer": "Densidad óptima para mayoría de comercios"
+  },
+  {
+    "question": "¿Cómo se calcula el lineal mínimo para una familia de productos?",
+    "options": [
+      "Número de tipos × ancho del envase ÷ número de niveles",
+      "Altura del envase × número de referencias",
+      "Número de ventas × espacio por unidad",
+      "Rotación semanal × profundidad del estante"
+    ],
+    "answer": "Número de tipos × ancho del envase ÷ número de niveles"
+  },
+  {
+    "question": "¿Qué criterio de repartimiento del lineal se basa en el importe monetario que proporciona cada referencia?",
+    "options": [
+      "Según las ventas",
+      "Según el beneficio brut",
+      "Según la rotación",
+      "Según el período de reposición"
+    ],
+    "answer": "Según las ventas"
+  },
+  {
+    "question": "¿Qué indica un índice de lineal superior a 1?",
+    "options": [
+      "El espacio asignado es insuficiente para el volumen de ventas",
+      "El espacio asignado es excesivo para el volumen de ventas",
+      "El espacio asignado es el correcto",
+      "El producto debería eliminarse del lineal"
+    ],
+    "answer": "El espacio asignado es insuficiente para el volumen de ventas"
+  },
+  {
+    "question": "¿Qué tipo de estoc permite atender la demanda entre dos proveïments?",
+    "options": [
+      "Estoc de reserva",
+      "Estoc de presentación",
+      "Estoc de seguridad",
+      "Estoc activo"
+    ],
+    "answer": "Estoc de reserva"
+  },
+  {
+    "question": "¿Qué fórmula se utiliza para calcular el espacio de lineal según el período de reposición?",
+    "options": [
+      "(Demanda × Período de reposición × Volumen unitario) ÷ (Capacidad del nivel × Número de niveles)",
+      "(Ventas totales × Marge brut) ÷ (Rotación × Niveles)",
+      "(Ancho del envase × Número de referencias) × Altura del lineal",
+      "(Estoc mínimo × Demanda diaria) ÷ Período de reposición"
+    ],
+    "answer": "(Demanda × Período de reposición × Volumen unitario) ÷ (Capacidad del nivel × Número de niveles)"
+  },
+  {
+    "question": "¿Qué tipo de presentación combina disposición vertical y horizontal?",
+    "options": [
+      "Presentación mixta",
+      "Presentación escalonada",
+      "Presentación modular",
+      "Presentación circular"
+    ],
+    "answer": "Presentación mixta"
+  },
+  {
+    "question": "¿Cuál es el principal objetivo del repartimiento del lineal en una tienda nueva?",
+    "options": [
+      "Maximizar las ventas",
+      "Incrementar el margen brut",
+      "Minimizar los costes de almacenaje",
+      "Reducir la variedad de productos"
+    ],
+    "answer": "Maximizar las ventas"
+  },
+  {
+    "question": "¿Qué se considera estoc de presentación?",
+    "options": [
+      "Productos accesibles al cliente en el lineal",
+      "Productos en el almacén para reposición",
+      "Productos en tránsito del proveedor",
+      "Productos devueltos por clientes"
+    ],
+    "answer": "Productos accesibles al cliente en el lineal"
+  },
+  {
+    "question": "¿Qué factor NO influye en la determinación del lineal mínimo?",
+    "options": [
+      "Color del envase del producto",
+      "Velocidad de circulación de clientes",
+      "Tamaño del local comercial",
+      "Dimensiones del producto"
+    ],
+    "answer": "Color del envase del producto"
+  },
+  {
+    "question": "¿Qué ventaja tiene la presentación vertical sobre la horizontal?",
+    "options": [
+      "Mejora la visibilidad de las familias de productos",
+      "Requiere menos espacio en el lineal",
+      "Facilita la reposición de productos",
+      "Reduce los costes de almacenamiento"
+    ],
+    "answer": "Mejora la visibilidad de las familias de productos"
+  },{
+  
+    "question": "¿Qué condición hace recomendable usar presentación vertical?",
+    "options": [
+      "Cuando la familia tiene menos de 50 cm de lineal arran de terra",
+      "Cuando la categoría tiene mínimo 2 metros de lineal arran de terra",
+      "Cuando los productos son de rotación lenta",
+      "Cuando el local es muy pequeño"
+    ],
+    "answer": "Cuando la categoría tiene mínimo 2 metros de lineal arran de terra"
+  },
+  {
+    "question": "¿Qué cálculo determina el lineal mínimo para una familia de pa de motlle en el ejemplo del texto?",
+    "options": [
+      "10 tipus × 12 cm ÷ 6 nivells = 20 cm",
+      "10 tipus × 25 cm × 6 nivells = 150 cm",
+      "12 cm × 6 nivells = 72 cm",
+      "10 tipus × 20 cm = 200 cm"
+    ],
+    "answer": "10 tipus × 12 cm ÷ 6 nivells = 20 cm"
+  },{
+    "question": "¿Qué es la gestión por categorías?",
+    "options": [
+      "Un método para organizar productos por colores",
+      "Un procedimiento de gestión de categorías como unidades estratégicas de negocio",
+      "Una técnica para reducir costos en el punto de venta",
+      "Un sistema de inventario automatizado"
+    ],
+    "answer": "Un procedimiento de gestión de categorías como unidades estratégicas de negocio"
+  },
+  {
+    "question": "¿Cuál es el objetivo principal de la gestión por categorías?",
+    "options": [
+      "Reducir el espacio en los lineales",
+      "Mejorar los resultados de fabricantes y distribuidores optimizando la satisfacción del consumidor",
+      "Aumentar exclusivamente los márgenes de beneficio",
+      "Disminuir la variedad de productos"
+    ],
+    "answer": "Mejorar los resultados de fabricantes y distribuidores optimizando la satisfacción del consumidor"
+  },
+  {
+    "question": "¿Qué rol tiene una categoría destino?",
+    "options": [
+      "Atraer clientes al punto de venta",
+      "Ofrecer productos de conveniencia",
+      "Presentar artículos estacionales",
+      "Mostrar productos de bajo margen"
+    ],
+    "answer": "Atraer clientes al punto de venta"
+  },
+  {
+    "question": "¿Qué es un planograma?",
+    "options": [
+      "Un sistema de pago electrónico",
+      "Un diagrama que describe la ubicación exacta de cada producto en el lineal",
+      "Un software de gestión de inventarios",
+      "Un informe de ventas mensuales"
+    ],
+    "answer": "Un diagrama que describe la ubicación exacta de cada producto en el lineal"
+  },
+  {
+    "question": "¿Cuántas fases tiene el proceso de gestión por categorías?",
+    "options": [
+      "4 fases",
+      "6 fases",
+      "8 fases",
+      "10 fases"
+    ],
+    "answer": "8 fases"
+  },
+  {
+    "question": "¿Qué tipo de implantación combina distribución vertical y horizontal?",
+    "options": [
+      "Implantación mixta",
+      "Implantación desordenada",
+      "Implantación en red",
+      "Implantación circular"
+    ],
+    "answer": "Implantación mixta"
+  },
+  {
+    "question": "¿Qué mide el coeficiente de ocupación de superficies (COS)?",
+    "options": [
+      "El porcentaje de espacio ocupado por productos en el lineal",
+      "La rotación de inventario",
+      "El margen bruto por producto",
+      "La satisfacción del cliente"
+    ],
+    "answer": "El porcentaje de espacio ocupado por productos en el lineal"
+  },
+  {
+    "question": "¿Qué es el trade marketing?",
+    "options": [
+      "Publicidad en redes sociales",
+      "Cooperación estratégica entre fabricante y distribuidor",
+      "Venta directa al consumidor",
+      "Marketing internacional"
+    ],
+    "answer": "Cooperación estratégica entre fabricante y distribuidor"
+  },
+  {
+    "question": "¿Qué caracteriza a los productos de exposición permanente?",
+    "options": [
+      "Se cambian semanalmente",
+      "Forman parte del surtido estable del punto de venta",
+      "Son solo productos de temporada",
+      "Ocupan espacios promocionales"
+    ],
+    "answer": "Forman parte del surtido estable del punto de venta"
+  },
+  {
+    "question": "¿Qué estrategia coloca productos líderes junto a otros de mayor margen?",
+    "options": [
+      "Estrategia de comparación",
+      "Estrategia de rotación",
+      "Estrategia de seguridad",
+      "Estrategia de margeo"
+    ],
+    "answer": "Estrategia de comparación"
+  },
+  {
+    "question": "¿Qué fase del proceso de gestión por categorías define el rol estratégico?",
+    "options": [
+      "Fase 1: Definición de la categoría",
+      "Fase 2: Rol de la categoría",
+      "Fase 5: Estrategias de la categoría",
+      "Fase 7: Plan de implantación"
+    ],
+    "answer": "Fase 2: Rol de la categoría"
+  },
+  {
+    "question": "¿Qué tipo de planograma muestra imágenes reales de los productos?",
+    "options": [
+      "Planograma con casillas de texto",
+      "Planograma pictórico o 2D",
+      "Planograma numérico",
+      "Planograma abstracto"
+    ],
+    "answer": "Planograma pictórico o 2D"
+  },
+  {
+    "question": "¿Qué es el ECR (Efficient Consumer Response)?",
+    "options": [
+      "Un sistema de pago rápido",
+      "Una estrategia para mejorar la eficiencia de la cadena de suministro",
+      "Un método de control de calidad",
+      "Un tipo de exposición promocional"
+    ],
+    "answer": "Una estrategia para mejorar la eficiencia de la cadena de suministro"
+  },
+  {
+    "question": "¿Qué categoría incluye productos de compra rutinaria?",
+    "options": [
+      "Categoría destino",
+      "Categoría habitual o preferente",
+      "Categoría estacional",
+      "Categoría de conveniencia"
+    ],
+    "answer": "Categoría habitual o preferente"
+  },
+  {
+    "question": "¿Qué técnica de implantación usa contenedores con productos desordenados?",
+    "options": [
+      "Implantación en red",
+      "Implantación desordenada (en vrac)",
+      "Implantación complementaria",
+      "Implantación vertical"
+    ],
+    "answer": "Implantación desordenada (en vrac)"
+  },
+  {
+    "question": "¿Qué es el 'llindar de saturació' en la gestió del lineal?",
+    "options": [
+      "El espacio máximo a partir del cual las ventas no crecen",
+      "El mínimo espacio para que un producto sea visible",
+      "La capacidad máxima del almacén",
+      "El número de referencias que un cliente puede recordar"
+    ],
+    "answer": "El espacio máximo a partir del cual las ventas no crecen"
+  },
+  {
+    "question": "En la presentació mixta, ¿cómo se distribueixen les varietats o talles?",
+    "options": [
+      "Horitzontalment",
+      "Verticalment",
+      "En diagonal",
+      "Aleatòriament"
+    ],
+    "answer": "Horitzontalment"
+  },
+  {
+    "question": "Segons el text, quina és la velocitat mitjana de circulació dels clients en un punt de venda?",
+    "options": [
+      "1 metre per segon",
+      "2 metres per segon",
+      "0.5 metres per segon",
+      "Depend de l'hora del dia"
+    ],
+    "answer": "1 metre per segon"
+  },
+  {
+    "question": "Què indica la fórmula: MB = PV (s/IVA) - PC (s/IVA)?",
+    "options": [
+      "Marge brut unitari",
+      "Vendes netes totals",
+      "Cost d'emmagatzematge",
+      "Rotació d'estocs"
+    ],
+    "answer": "Marge brut unitari"
+  },
+  {
+    "question": "Quin és l'estoc que permet afrontar oscil·lacions en la demanda o proveïment?",
+    "options": [
+      "Estoc de seguretat",
+      "Estoc actiu",
+      "Estoc de presentació",
+      "Estoc mínim"
+    ],
+    "answer": "Estoc de seguretat"
+  },{
+    "question": "¿Qué implica la gestión por categorías en la relación fabricante-distribuidor?",
+    "options": [
+      "Competencia por el espacio en lineal",
+      "Desaparición de departamentos funcionales aislados y creación de unidades estratégicas",
+      "Centralización de decisiones en el fabricante",
+      "Reducción de la variedad de productos"
+    ],
+    "answer": "Desaparición de departamentos funcionales aislados y creación de unidades estratégicas"
+  },
+  {
+    "question": "Según el ECR, ¿qué objetivo tiene la gestión por categorías?",
+    "options": [
+      "Aumentar los precios al consumidor",
+      "Mejorar la eficiencia de la cadena de suministro mediante cooperación",
+      "Reducir la rotación de productos",
+      "Eliminar marcas blancas"
+    ],
+    "answer": "Mejorar la eficiencia de la cadena de suministro mediante cooperación"
+  },
+
+  {
+    "question": "¿Qué caracteriza a una categoría estacional?",
+    "options": [
+      "Atrae clientes de manera constante",
+      "Su demanda varía según épocas del año (ej. productos navideños)",
+      "Solo incluye productos de alta rotación",
+      "Ocupa espacios permanentes en el lineal"
+    ],
+    "answer": "Su demanda varía según épocas del año (ej. productos navideños)"
+  },
+  {
+    "question": "Un supermercado coloca frutas y verduras frescas en la entrada. ¿Qué rol aplica?",
+    "options": [
+      "Categoría de conveniencia",
+      "Categoría destino",
+      "Categoría habitual",
+      "Categoría en desarrollo"
+    ],
+    "answer": "Categoría destino"
+  },
+
+  {
+    "question": "¿Qué ventaja tiene un planograma 3D frente a uno 2D?",
+    "options": [
+      "Es más barato de implementar",
+      "Muestra una representación realista del espacio y disposición final",
+      "No requiere software especializado",
+      "Solo funciona para productos pequeños"
+    ],
+    "answer": "Muestra una representación realista del espacio y disposición final"
+  },
+  {
+    "question": "En una implantación vertical:",
+    "options": [
+      "Los productos de una misma familia se colocan en todos los niveles del lineal",
+      "Las marcas se organizan por colores",
+      "Solo se exponen productos estacionales",
+      "Se priorizan los de menor margen"
+    ],
+    "answer": "Los productos de una misma familia se colocan en todos los niveles del lineal"
+  },
+  {
+    "question": "¿Qué indica un COS (Coeficiente de Ocupación de Superficies) del 30%?",
+    "options": [
+      "Espacio congestionado",
+      "Densidad óptima para la mayoría de comercios",
+      "Área desaprovechada",
+      "Necesidad de reducir referencias"
+    ],
+    "answer": "Densidad óptima para la mayoría de comercios"
+  },
+
+
+  {
+    "question": "¿Por qué se colocan productos de alta rotación en zonas menos visibles?",
+    "options": [
+      "Para obligar al cliente a recorrer más el establecimiento",
+      "Porque suelen tener márgenes bajos y se priorizan otros",
+      "Por normativa legal",
+      "Son menos atractivos visualmente"
+    ],
+    "answer": "Para obligar al cliente a recorrer más el establecimiento"
+  },
+  {
+    "question": "La estrategia de 'implantación complementaria' busca:",
+    "options": [
+      "Agrupar productos de distintas secciones que satisfacen necesidades similares",
+      "Aislar marcas líderes",
+      "Reducir el espacio en lineal",
+      "Evitar la comparación de precios"
+    ],
+    "answer": "Agrupar productos de distintas secciones que satisfacen necesidades similares"
+  },
+
+  {
+    "question": "Un ejemplo de acción de trade marketing es:",
+    "options": [
+      "Publicidad en televisión",
+      "Coordinar promociones conjuntas fabricante-distribuidor",
+      "Venta online exclusiva",
+      "Rediseño de envases"
+    ],
+    "answer": "Coordinar promociones conjuntas fabricante-distribuidor"
+  },
+  {
+    "question": "¿Qué información proporciona un software como Spaceman?",
+    "options": [
+      "Solo datos de ventas históricas",
+      "Rentabilidad por metro cuadrado y optimización de espacio",
+      "Opiniones de clientes en redes sociales",
+      "Horarios del personal"
+    ],
+    "answer": "Rentabilidad por metro cuadrado y optimización de espacio"
+  }, {
+    "question": "¿Qué caracteriza a los instrumentos cuantitativos de control?",
+    "options": [
+      "Recogen opiniones subjetivas de los clientes",
+      "Proporcionan datos numéricos objetivos (ej: tickets de caja)",
+      "Analizan preferencias no medibles",
+      "Son difíciles de calcular"
+    ],
+    "answer": "Proporcionan datos numéricos objetivos (ej: tickets de caja)"
+  },
+  {
+    "question": "Un ejemplo de instrumento cualitativo es:",
+    "options": [
+      "Número de clientes que entran en una hora",
+      "Valoración de los clientes sobre la decoración del local",
+      "Ventas totales diarias en euros",
+      "Rotación de stock en un mes"
+    ],
+    "answer": "Valoración de los clientes sobre la decoración del local"
+  },
+
+  {
+    "question": "La fórmula para calcular la rentabilidad global es:",
+    "options": [
+      "(Beneficio / Inversión) × 100",
+      "(Ventas / Costes) × 100",
+      "(Ingresos - Gastos) × 12",
+      "(Stock / Lineal ocupado) × 100"
+    ],
+    "answer": "(Beneficio / Inversión) × 100"
+  },
+  {
+    "question": "Si un negocio tiene ingresos anuales de 50.000€ y costes de 30.000€, su beneficio es:",
+    "options": [
+      "20.000€",
+      "80.000€",
+      "1,66%",
+      "No se puede calcular"
+    ],
+    "answer": "20.000€"
+  },
+
+  {
+    "question": "El Índice de Rotación (IR) mide:",
+    "options": [
+      "El espacio ocupado por producto",
+      "Las veces que se repone el stock en un periodo",
+      "La satisfacción del cliente",
+      "El margen bruto por unidad"
+    ],
+    "answer": "Las veces que se repone el stock en un periodo"
+  },
+  {
+    "question": "La fórmula del Índice del Lineal (IL) es:",
+    "options": [
+      "% de ventas del producto / % de espacio ocupado",
+      "Beneficio bruto / Lineal en cm",
+      "Rotación × Margen bruto",
+      "Coste de ventas / Stock medio"
+    ],
+    "answer": "% de ventas del producto / % de espacio ocupado"
+  },
+  {
+    "question": "Un Producto A tiene un Beneficio Bruto de 200€ y ocupa 50cm de lineal. Su Productividad del Lineal (PL) es:",
+    "options": [
+      "4€/cm",
+      "0,25 cm/€",
+      "250€",
+      "10.000€"
+    ],
+    "answer": "4€/cm"
+  },
+
+  {
+    "question": "El BDP por unidad se calcula como:",
+    "options": [
+      "Precio de venta - Coste de adquisición",
+      "(Ingresos - Costes variables) / Unidades vendidas",
+      "Margen bruto + Descuentos por volumen",
+      "Rotación × Espacio ocupado"
+    ],
+    "answer": "(Ingresos - Costes variables) / Unidades vendidas"
+  },
+  {
+    "question": "¿Qué ventaja tiene el BDP sobre el Beneficio Bruto?",
+    "options": [
+      "Ignora los costes de comercialización",
+      "Considera costes adicionales (transporte, salarios, etc.)",
+      "Es más fácil de calcular",
+      "No requiere datos históricos"
+    ],
+    "answer": "Considera costes adicionales (transporte, salarios, etc.)"
+  },
+
+{
+  "question": "Si un producto tiene un MBV del 30%, ventas de 3.475,50€ y rápel de 175€, ¿cuál es su Beneficio Bruto del Producto (BBP)?",
+  "options": [
+    "1.042,65€",
+    "867,50€",
+    "1.217,50€",
+    "3.300,50€"
+  ],
+  "answer": "867,50€",
+  "explication": "BBP = (3.475,50€ × 30%) + 175€ = 1.042,65€ - 175€ = 867,50€"
+},{
+  "question": "Si un producto tiene un MBV del 30%, ventas de 3.475,50€ y rápel de 175€, ¿cuál es su Beneficio Bruto del Producto (BBP)?",
+  "options": [
+    "1.042,65€",
+    "867,50€",
+    "1.217,50€",
+    "3.300,50€"
+  ],
+  "answer": "867,50€",
+  "explication": "BBP = (3.475,50€ × 30%) + 175€ = 1.042,65€ - 175€ = 867,50€"
+},{
+  "question": "¿Qué diferencia hay entre 'coste' y 'despesa' en una empresa comercial?",
+  "options": [
+    "El coste incluye solo compras, y la despesa incluye salarios",
+    "El coste es el consumo en la actividad comercial; la despesa es el pago por mercaderías/servicios",
+    "No hay diferencia, son sinónimos",
+    "El coste se refiere a impuestos, la despesa a beneficios"
+  ],
+  "answer": "El coste es el consumo en la actividad comercial; la despesa es el pago por mercaderías/servicios",
+  "explication": "Ejemplo: Transporte de mercancía es coste; comprar un ordenador es despesa."
+},{
+  "question": "¿Por qué el BDP (Beneficio Directo del Producto) es más preciso que el Beneficio Bruto?",
+  "options": [
+    "Porque ignora los costes fijos",
+    "Porque incluye costes de comercialización (transporte, salarios, etc.)",
+    "Porque solo considera ventas en efectivo",
+    "Porque no tiene en cuenta descuentos"
+  ],
+  "answer": "Porque incluye costes de comercialización (transporte, salarios, etc.)",
+  "explication": "El BDP refleja la contribución real neta de cada producto, restando más costes variables."
+},{
+  "question": "Si una referencia tiene Rentabilidad Comparada (RC) de 0.58, ¿qué decisión es adecuada?",
+  "options": [
+    "Aumentar su espacio en lineal",
+    "Revisar su precio o costes (está un 42% bajo la media)",
+    "Eliminarla del surtido",
+    "Ignorar el dato (RC no es relevante)"
+  ],
+  "answer": "Revisar su precio o costes (está un 42% bajo la media)",
+  "explication": "Una RC < 0.80 indica bajo rendimiento vs. su familia. Requiere análisis cualitativo/cuantitativo."
+},{
+  "question": "Si una referencia tiene Rentabilidad Comparada (RC) de 0.58, ¿qué decisión es adecuada?",
+  "options": [
+    "Aumentar su espacio en lineal",
+    "Revisar su precio o costes (está un 42% bajo la media)",
+    "Eliminarla del surtido",
+    "Ignorar el dato (RC no es relevante)"
+  ],
+  "answer": "Revisar su precio o costes (está un 42% bajo la media)",
+  "explication": "Una RC < 0.80 indica bajo rendimiento vs. su familia. Requiere análisis cualitativo/cuantitativo."
+},
+  {
+    "question": "Si una referencia tiene Rentabilidad Comparada (RC) de 1.5:",
+    "options": [
+      "Está un 50% por encima de la media de su familia",
+      "Genera pérdidas",
+      "Ocupa demasiado espacio",
+      "Debe eliminarse del lineal"
+    ],
+    "answer": "Está un 50% por encima de la media de su familia"
+  },
+  {
+    "question": "Para calcular metros cúbicos de exposición se usa:",
+    "options": [
+      "Ancho × Alto × Profundidad del espacio ocupado",
+      "Número de unidades × Precio de venta",
+      "Rotación × Margen bruto",
+      "Ventas totales / Costes fijos"
+    ],
+    "answer": "Ancho × Alto × Profundidad del espacio ocupado"
+  },
+
+  {
+    "question": "¿Qué fase del proceso de gestión por categorías incluye análisis de mercado y compradores?",
+    "options": [
+      "Definición de la categoría",
+      "Valoración de la categoría",
+      "Concreción de criterios",
+      "Revisión"
+    ],
+    "answer": "Valoración de la categoría"
+  },
+  {
+    "question": "En la implantación de productos pesados, ¿qué criterio se aplica?",
+    "options": [
+      "Colocarlos en el nivel superior",
+      "Ubicarlos en el nivel más bajo para fácil acceso",
+      "Mezclarlos con productos frágiles",
+      "Exponerlos solo en zonas promocionales"
+    ],
+    "answer": "Ubicarlos en el nivel más bajo para fácil acceso"
+  },
+  {
+    "question": "En el repartiment del lineal segons el benefici brut, ¿què es compara per calcular l'índex?",
+    "options": [
+      "Lineal assignat / Lineal que li correspondria pel seu benefici",
+      "Vendes totals / Marge mitjà de la família",
+      "Rotació / Estoc mitjà",
+      "Preu de venda / Preu de cost"
+    ],
+    "answer": "Lineal assignat / Lineal que li correspondria pel seu benefici"
+  },
+  {
+    "question": "Quin concepte es defineix com: 'Percentatge de les vendes d’un producte respecte al total del sector'?",
+    "options": [
+      "Participació de mercat",
+      "Marge comercial",
+      "Índex de lineal",
+      "Rotació"
+    ],
+    "answer": "Participació de mercat"
+  },
+  {
+    "question": "Quin tipus d'estoc es calcula com: (Estoc inicial + Estoc final) / 2?",
+    "options": [
+      "Estoc mitjà",
+      "Estoc mínim",
+      "Estoc de seguretat",
+      "Estoc actiu"
+    ],
+    "answer": "Estoc mitjà"
+  },
+  {
+    "question": "Segons el text, quants frontals es consideren mínims per garantir visibilitat?",
+    "options": [
+      "3 frontals",
+      "1 frontal",
+      "5 frontals",
+      "Depend de la mida del producte"
+    ],
+    "answer": "3 frontals"
+  },
+  {
+    "question": "Quin és l'inconvenient de la presentació vertical esmentat en l'exemple del pa de motlle?",
+    "options": [
+      "Requereix més espai per garantir visibilitat",
+      "Augmenta els costos de reposició",
+      "Dificulta la comparació de preus",
+      "Redueix el marge brut"
+    ],
+    "answer": "Requereix més espai per garantir visibilitat"
+  },
+  {
+    "question": "Quina fórmula s’utilitza per calcular el nivell de servei al client?",
+    "options": [
+      "(Unitats servides / Unitats demandades) × 100",
+      "(Vendes / Estoc mitjà) × 100",
+      "(Marge brut / Preu de venda) × 100",
+      "(Lineal assignat / Lineal total) × 100"
+    ],
+    "answer": "(Unitats servides / Unitats demandades) × 100"
+  },
+  {
+    "question": "Què passa quan s’assigna a un producte un espai superior al seu llindar de saturació?",
+    "options": [
+      "Es desaprofita l’espai del lineal",
+      "Les vendes augmenten exponencialment",
+      "El producte esdevé més visible però no més rendible",
+      "El client percep excessiva varietat"
+    ],
+    "answer": "Es desaprofita l’espai del lineal"
+  },
+  {
+    "question": "Quin criteri de repartiment del lineal és més adequat per a productes en promoció?",
+    "options": [
+      "Segons el període de reposició",
+      "Segons la rotació",
+      "Segons les vendes temporals",
+      "Segons el benefici brut a curt termini"
+    ],
+    "answer": "Segons les vendes temporals"
+  }
+]
