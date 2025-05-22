@@ -145,6 +145,142 @@
     ],
     "answer": "Solo el público objetivo del anunciante",
     "explication": "Ejemplo: Anunciar pañales en una revista de padres."
+  },{
+    "question": "¿Qué caracteriza al márqueting directe según el texto?",
+    "options": [
+      "Comunicación masiva a través de TV",
+      "Establecer comunicación directa e inmediata con el público objetivo",
+      "Uso exclusivo de redes sociales",
+      "Estrategias sin necesidad de bases de datos"
+    ],
+    "answer": "Establecer comunicación directa e inmediata con el público objetivo",
+    "explication": "Busca interacción personalizada, no comunicación masiva."
+  },
+  {
+    "question": "¿Por qué es crucial una buena base de datos en márqueting directo?",
+    "options": [
+      "Para enviar mensajes idénticos a todos los clientes",
+      "Permite segmentar y seleccionar el público más receptivo",
+      "Solo es útil para grandes empresas",
+      "Para reducir costes en publicidad tradicional"
+    ],
+    "answer": "Permite segmentar y seleccionar el público más receptivo",
+    "explication": "Ejemplo: Enviar promociones de tratamientos capilares solo a clientas con cabello largo."
+  },
+
+  {
+    "question": "¿Qué canal de márqueting directo se considera actualmente invasivo?",
+    "options": [
+      "Correo electrónico personalizado",
+      "Llamadas telefónicas",
+      "WhatsApp Business",
+      "Flyers en punto de venta"
+    ],
+    "answer": "Llamadas telefónicas",
+    "explication": "El texto menciona que es percibido como intrusivo vs. email o SMS."
+  },
+  {
+    "question": "Un ejemplo de márqueting directo con alta apertura pero bajo coste es:",
+    "options": [
+      "Anuncios en TV",
+      "Carteles en autobuses",
+      "SMS o WhatsApp personalizados",
+      "Patrocinios deportivos"
+    ],
+    "answer": "SMS o WhatsApp personalizados",
+    "explication": "Mayor probabilidad de lectura vs. llamadas telefónicas."
+  },
+
+  {
+    "question": "En una peluquería, ¿a quién dirigirías una promoción de hidratación para cabello encrespado?",
+    "options": [
+      "Todos los clientes sin filtrar",
+      "Solo clientas con cabello largo y frecuentes",
+      "Hombres con cabello corto",
+      "Nuevos clientes únicamente"
+    ],
+    "answer": "Solo clientas con cabello largo y frecuentes",
+    "explication": "Segmentación precisa aumenta la efectividad."
+  },
+  {
+    "question": "¿Qué ventaja tiene la personalización en márqueting directo?",
+    "options": [
+      "Reduce la necesidad de bases de datos",
+      "Incrementa la percepción de atención al cliente",
+      "Elimina la necesidad de medición",
+      "Permite usar menos canales"
+    ],
+    "answer": "Incrementa la percepción de atención al cliente",
+    "explication": "El cliente valora que el mensaje sea relevante para él/ella."
+  },
+
+  {
+    "question": "¿Por qué es clave medir los resultados en márqueting directo?",
+    "options": [
+      "Para justificar el presupuesto gastado",
+      "Evaluar la rentabilidad y ajustar estrategias",
+      "Cumplir con normativas legales",
+      "Solo es necesario en grandes campañas"
+    ],
+    "answer": "Evaluar la rentabilidad y ajustar estrategias",
+    "explication": "Ejemplo: Analizar tasa de redención de cupones enviados por email."
+  },
+  {
+    "question": "¿Qué aspecto debe actualizarse constantemente en márqueting directo?",
+    "options": [
+      "El logotipo de la empresa",
+      "Las bases de datos y los canales utilizados",
+      "Los precios de los productos",
+      "La ubicación del local"
+    ],
+    "answer": "Las bases de datos y los canales utilizados",
+    "explication": "Para reflejar cambios en hábitos de consumo y tecnologías."
+  },
+
+  {
+    "question": "¿Qué diferencia al márqueting directo de la publicidad masiva?",
+    "options": [
+      "El márqueting directo usa solo medios digitales",
+      "La publicidad masiva no segmenta",
+      "El márqueting directo busca respuesta inmediata y personalizada",
+      "La publicidad masiva es más barata"
+    ],
+    "answer": "El márqueting directo busca respuesta inmediata y personalizada",
+    "explication": "Ejemplo: Un SMS con descuento vs. un anuncio genérico en TV."
+  },
+  {
+    "question": "¿Qué NO es un objetivo del márqueting directo?",
+    "options": [
+      "Fidelizar clientes existentes",
+      "Obtener respuesta inmediata",
+      "Posicionar la marca a largo plazo",
+      "Segmentar audiencias específicas"
+    ],
+    "answer": "Posicionar la marca a largo plazo",
+    "explication": "Es objetivo de publicidad, no de márqueting directo (este es más táctico)."
+  },
+
+  {
+    "question": "¿Qué canal de márqueting directo menciona el texto como 'tradicional pero aún válido'?",
+    "options": [
+      "Influencers en Instagram",
+      "Flyers o folletos físicos",
+      "Realidad virtual",
+      "Podcasts"
+    ],
+    "answer": "Flyers o folletos físicos",
+    "explication": "Se pueden distribuir en puntos de venta o correo postal."
+  },
+  {
+    "question": "Un val de descompte enviado per SMS és un exemple de:",
+    "options": [
+      "Publicitat ATL",
+      "Màrqueting directe",
+      "Propaganda",
+      "Relacions públiques"
+    ],
+    "answer": "Màrqueting directe",
+    "explication": "Cumple con todos los criterios: comunicación directa, personalizada y busca respuesta inmediata."
   },
   {
     "question": "Si un anuncio en TV cuesta 50.000€ y tiene 5 millones de espectadores, ¿cuál es su CPMI?",
