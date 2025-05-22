@@ -1308,26 +1308,7 @@
           ],
           "answer": "Atributos de valor añadido como nutrientes extra"
         },
-        {
-          "question": "¿Qué reclamaban los agricultores y ganaderos según el artículo analizado?",
-          "options": [
-            "Más productos de reclamo",
-            "Prohibición de regalar alimentos básicos",
-            "Subvenciones estatales",
-            "Mayor producción"
-          ],
-          "answer": "Prohibición de regalar alimentos básicos"
-        },
-        {
-          "question": "¿Qué ejemplo se menciona como producto de reclamo típico?",
-          "options": [
-            "Electrodomésticos",
-            "Leche de marca del distribuidor",
-            "Vino de alta gama",
-            "Productos congelados"
-          ],
-          "answer": "Leche de marca del distribuidor"
-        },
+        
         {
           "question": "¿Cuál es el objetivo principal del Código de buenas prácticas mercantiles?",
           "options": [
@@ -1337,26 +1318,6 @@
             "Eliminar competencia"
           ],
           "answer": "Garantizar sostenibilidad del sector primario"
-        },
-        {
-          "question": "En el sistema de codificación de aceites, ¿cuántos dígitos tiene una referencia completa?",
-          "options": [
-            "5",
-            "7",
-            "9",
-            "11"
-          ],
-          "answer": "9"
-        },
-        {
-          "question": "¿Qué información contiene el primer nivel de la codificación de aceites?",
-          "options": [
-            "Marca del producto",
-            "Sección (10: Aceites alimentarios)",
-            "Subfamilia",
-            "Referencia exacta"
-          ],
-          "answer": "Sección (10: Aceites alimentarios)"
         },
         {
           "question": "¿Qué indica el pictograma de un punto verde en un envase?",
