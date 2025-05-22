@@ -1910,16 +1910,7 @@
             ],
             "answer": "Aumentar su precio"
           },
-          {
-            "question": "¿Qué software se menciona para gestión de surtidos?",
-            "options": [
-              "TVPSOL y FACTUSOL",
-              "SAP y Oracle",
-              "Excel y Access",
-              "Tableau y Power BI"
-            ],
-            "answer": "TVPSOL y FACTUSOL"
-          },
+        
           {
             "question": "¿Qué considera el lineal mínimo de percepción?",
             "options": [
@@ -1930,16 +1921,7 @@
             ],
             "answer": "20-25 cm por referencia"
           },
-          {
-            "question": "En el ejemplo de perfumería, ¿qué familias cumplían Pareto?",
-            "options": [
-              "Champús y geles de baño (79.5% ventas)",
-              "Perfumes y colonias",
-              "Desodorantes e higiene bucal",
-              "Lociones faciales y corporales"
-            ],
-            "answer": "Champús y geles de baño (79.5% ventas)"
-          },
+
           {
             "question": "¿Qué ventaja tiene el método 20/80?",
             "options": [
