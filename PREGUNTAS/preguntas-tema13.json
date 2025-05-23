@@ -21,7 +21,156 @@
     "answer": "La ATL usa medios masivos (TV, prensa); la BTL segmenta audiencias (mailing, ferias)",
     "explication": "Ejemplo: Un anuncio en TV es ATL; un stand interactivo en una feria es BTL."
   },
-
+{
+    "question": "Un objectiu qualitatiu de les accions promocionals pot ser...",
+    "options": [
+      "la participació de mercat i el nombre de clients nous que s'han aconseguit.",
+      "el grau d'acceptació de la promoció per part dels clients i la informació obtinguda del mercat.",
+      "l'índex de resposta aconseguit.",
+      "el control de l'evolució de les vendes, abans i després de la promoció."
+    ],
+    "answer": "el grau d'acceptació de la promoció per part dels clients i la informació obtinguda del mercat."
+  },
+  {
+    "question": "Les promocions de vendes dels fabricants i els distribuïdors ofereixen, bàsicament,...",
+    "options": [
+      "Totes les respostes són correctes.",
+      "incentius materials o econòmics.",
+      "raons per afavorir la venda del producte o servei.",
+      "informació sobre el producte o servei."
+    ],
+    "answer": "incentius materials o econòmics."
+  },
+  {
+    "question": "Una recomanació per a la retolació de lletres en els cartells del punt de venda és que les lletres...",
+    "options": [
+      "tinguin el doble d'amplada que la seva alçada.",
+      "siguin sense serif.",
+      "siguin amb serif.",
+      "tinguin el doble d'alçada que la seva amplada."
+    ],
+    "answer": "tinguin el doble d'alçada que la seva amplada."
+  },
+  {
+    "question": "La venda en rebaixes, la venda en liquidació i la venda de saldos o d'excedents són activitats de promoció amb finalitat...",
+    "options": [
+      "incentivadora.",
+      "productiva.",
+      "extintiva.",
+      "comunicativa."
+    ],
+    "answer": "extintiva."
+  },
+  {
+    "question": "El cost per impacte d'un suport de comunicació publicitària mesura...",
+    "options": [
+      "el cost que representa que el missatge arribi a una persona de l'audiència.",
+      "l'efectivitat d'un missatge, segons el nombre de respostes rebudes.",
+      "la tarifa del mitjà de comunicació massiu.",
+      "el cost d'inserció d'un missatge."
+    ],
+    "answer": "el cost que representa que el missatge arribi a una persona de l'audiència."
+  },
+  {
+    "question": "La promoció que consisteix en retornar l'import pagat pel client en la primera compra del producte és un tipus de promoció anomenat...",
+    "options": [
+      "mostra gratuïta.",
+      "val de descompte diferit.",
+      "reembors.",
+      "incentiu per quotes."
+    ],
+    "answer": "reembors."
+  },
+  {
+    "question": "Els centres d'atenció i informació en el punt de venda...",
+    "options": [
+      "Totes les respostes són correctes.",
+      "atenen reclamacions i queixes.",
+      "proporcionen informació als clients i usuaris.",
+      "recullen i gestionen enquestes de satisfacció de la clientela."
+    ],
+    "answer": "Totes les respostes són correctes."
+  },
+  {
+    "question": "La normativa de prevenció de riscos laborals regula les actuacions necessàries per a...",
+    "options": [
+      "la garantia de la protecció de la seguretat i la salut dels treballadors.",
+      "l'avaluació dels riscos laborals en els llocs de treball.",
+      "Totes les respostes són correctes.",
+      "la planificació de l'activitat preventiva i la formació dels treballadors d'acord amb el lloc de treball."
+    ],
+    "answer": "Totes les respostes són correctes."
+  },
+  {
+    "question": "La presentació massiva de productes mitjançant illes, piles o contenidors desordenats és un mitjà...",
+    "options": [
+      "personal.",
+      "físic.",
+      "psicològic.",
+      "d'estímul."
+    ],
+    "answer": "físic."
+  },
+  {
+    "question": "Algun dels serveis que ofereixen les empreses especialitzades en relació amb el personal per a la promoció de vendes són...",
+    "options": [
+      "Totes les respostes són correctes.",
+      "la formació en tècniques de comunicació i venda.",
+      "el control i anàlisi de l'acció promocional.",
+      "la creació d'equips adaptats a les necessitats de cada projecte."
+    ],
+    "answer": "Totes les respostes són correctes."
+  },
+  {
+    "question": "L'empatia, el lideratge, l'escolta activa i la capacitat comunicativa són...",
+    "options": [
+      "aptituds professionals.",
+      "actituds professionals o habilitats socials.",
+      "actituds personals.",
+      "aptituds personals o habilitats socials."
+    ],
+    "answer": "aptituds personals o habilitats socials."
+  },
+  {
+    "question": "La comunicació integrada de màrqueting és...",
+    "options": [
+      "qualsevol campanya de publicitat o promoció de vendes.",
+      "una acció que té per objectiu reforçar la imatge de marca o incrementar la fidelitat de la clientela.",
+      "el conjunt d'accions de comunicació que tenen per objectiu transmetre un mateix missatge.",
+      "l'acció combinada de dues o més actuacions, processos o mitjans."
+    ],
+    "answer": "el conjunt d'accions de comunicació que tenen per objectiu transmetre un mateix missatge."
+  },
+  {
+    "question": "Les accions de promoció i la indicació de preus són mitjans...",
+    "options": [
+      "físics.",
+      "personals.",
+      "psicològics.",
+      "d'estímul."
+    ],
+    "answer": "psicològics."
+  },
+  {
+    "question": "Alguna de les situacions més propícies per a realitzar promocions dirigides als clients finals és quan...",
+    "options": [
+      "el nombre de consumidors del producte o servei és baix.",
+      "l'objectiu és fidelitzar la clientela.",
+      "es vol evitar el descens de les vendes a llarg termini.",
+      "el producte no té una bona imatge."
+    ],
+    "answer": "el nombre de consumidors del producte o servei és baix."
+  },
+  {
+    "question": "L'ambientació sensorial (vista, oïda, olfacte, gust i tacte) forma part dels mitjans...",
+    "options": [
+      "físics.",
+      "d'estímul.",
+      "psicològics.",
+      "personals."
+    ],
+    "answer": "d'estímul."
+  },
   {
     "question": "En el proceso publicitario, ¿qué es el 'brífing'?",
     "options": [
