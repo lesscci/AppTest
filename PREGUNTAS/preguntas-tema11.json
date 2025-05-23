@@ -1391,16 +1391,6 @@
           "answer": "Puede llevar a compensación económica injusta a productores"
         },
         {
-          "question": "En la codificación de aceites, ¿qué dígitos identifican la subfamilia?",
-          "options": [
-            "Los 2 primeros",
-            "Los 3 centrales",
-            "Los 2 últimos",
-            "Posiciones 6-7 (2 dígitos)"
-          ],
-          "answer": "Posiciones 6-7 (2 dígitos)"
-        },
-        {
           "question": "¿Qué indica el pictograma de aerosol que no malmet la atmósfera?",
           "options": [
             "Producto inflamable",
@@ -1469,7 +1459,147 @@
             "Lealtad de marca"
           ],
           "answer": "Lealtad de marca"
-        },
+        },  {
+    "question": "El mètode de Saint-Cricq i Bruel...",
+    "options": [
+      "es basa en l’anàlisi conjunta de la demanda relativa i el benefici brut relatiu (criteris quantitatius).",
+      "es basa en l’anàlisi qualitativa de l’assortiment.",
+      "servix per determinar l’amplitud òptima de l’assortiment.",
+      "Totes les respostes són correctes."
+    ],
+    "answer": "es basa en l’anàlisi conjunta de la demanda relativa i el benefici brut relatiu (criteris quantitatius)."
+  }, {
+    "question": "El grau de coneixement per part dels consumidors d’una marca o d’un producte s’anomena...",
+    "options": [
+      "imatge.",
+      "essencialitat.",
+      "notorietat.",
+      "percepció."
+    ],
+    "answer": "notorietat."
+  }, {
+    "question": "La llet sencera, els iogurts naturals o la mantega són exemples...",
+    "options": [
+      "de seccions.",
+      "d’articles.",
+      "de categories de productes.",
+      "de referències."
+    ],
+    "answer": "de referències."
+  },{
+    "question": "Quin és el terme equivalent a l’assortiment en el cas de les empreses industrials o els fabricants?",
+    "options": [
+      "Model.",
+      "Article.",
+      "Línia.",
+      "Gamma."
+    ],
+    "answer": "Gamma."
+  }, {
+    "question": "Quin d’aquests motius pot provocar la supressió d’una referència del lineal?",
+    "options": [
+      "Totes les respostes són correctes.",
+      "Que la clientela deixi de comprar-la o en disminueixi la freqüència de compra.",
+      "Que el fabricant deixi de produir una referència concreta.",
+      "Que el detallista no obtingui la rendibilitat necessària."
+    ],
+    "answer": "Totes les respostes són correctes."
+  },{
+    "question": "El mètode específic per a la representació dels caràcters numèrics o alfabètics que contenen els codis de barres és...",
+    "options": [
+      "la codificació GS1.",
+      "la simbologia.",
+      "la codificació alfanumèrica.",
+      "la codificació."
+    ],
+    "answer": "la codificació."
+  },{
+    "question": "Els productes que s’adquireixen quan sorgeix una necessitat inesperada s’anomenen productes...",
+    "options": [
+      "d’emergència.",
+      "de compra impulsiva.",
+      "de compra esporàdica.",
+      "d’especialitat."
+    ],
+    "answer": "d’emergència."
+  }, {
+    "question": "La capacitat d’anar evolucionant per adaptar-se als canvis en determina...",
+    "options": [
+      "l’equilibri.",
+      "l’essencialitat.",
+      "el dinamisme.",
+      "la coherència."
+    ],
+    "answer": "el dinamisme."
+  }, {
+    "question": "El coeficient d’ocupació del sòl...",
+    "options": [
+      "és una mesura de densitat de l’establiment comercial.",
+      "depèn del tipus d’establiment però és recomanable que es trobi entre el 25 i el 40%.",
+      "expressa la relació entre el continent (superfície de la sala de vendes) i el contingut (mobiliari per a l’exposició de productes).",
+      "Totes les respostes són correctes."
+    ],
+    "answer": "Totes les respostes són correctes."
+  },{
+    "question": "El producte considerat en si mateix amb independència de la seva marca i amb els atributs per acomplir el benefici bàsic es coneix com a producte...",
+    "options": [
+      "augmentat.",
+      "potencial.",
+      "genèric.",
+      "esperat."
+    ],
+    "answer": "genèric."
+  }, {
+    "question": "El seguiment de la situació dels lots de productes al llarg de la cadena de subministrament que apliquen els fabricants s’anomena traçabilitat...",
+    "options": [
+      "externa.",
+      "interna.",
+      "ascendent o cap enrere.",
+      "descendent o cap endavant."
+    ],
+    "answer": "descendent o cap endavant."
+  },
+  {
+    "question": "Algunes característiques intangibles dels productes són...",
+    "options": [
+      "la notorietat i la lleialtat de marca.",
+      "la imatge del punt de venda i la qualitat percebuda.",
+      "Totes les respostes són correctes.",
+      "la imatge de marca i el valor afegit."
+    ],
+    "answer": "Totes les respostes són correctes."
+  },
+  {
+    "question": "El procediment mitjançant el qual el fabricant o l’importador informa els usuaris i les autoritats competents que el producte compleix els requisits essencials de la legislació vigent és...",
+    "options": [
+      "l’etiquetatge de recursos sostenibles i renovables.",
+      "els distintius d’origen i qualitat.",
+      "el marcatge de la CE o etiqueta de conformitat europea.",
+      "l’etiquetatge ecològic."
+    ],
+    "answer": "el marcatge de la CE o etiqueta de conformitat europea."
+  },
+  {
+    "question": "L’oferta comercial que es dirigeix a un segment relativament petit del mercat, amb l’avantatge que pocs establiments disposaran d’aquesta oferta, és característica d’un assortiment...",
+    "options": [
+      "extensiu.",
+      "estructurat.",
+      "especialitzat.",
+      "estructurat i exclusiu."
+    ],
+    "answer": "especialitzat."
+  },
+  {
+    "question": "L’extensió de l’assortiment està determinada pel nombre...",
+    "options": [
+      "de departaments i seccions que hi ha en el punt de venda.",
+      "de referències que formen part d’una determinada família de productes.",
+      "total de referències que componen l’oferta comercial d’un establiment comercial detallista.",
+      "mitjà de marques de les seccions."
+    ],
+    "answer": "mitjà de marques de les seccions."
+  }
+    
         {
           "question": "Los productos con envases sencillos y etiquetas minimalistas se denominan:",
           "options": [
