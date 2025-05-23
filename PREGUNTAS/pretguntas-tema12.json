@@ -8,6 +8,89 @@
       "Una estrategia de precios"
     ],
     "answer": "Un espacio físico para la exposición de productos"
+  },{
+    "question": "Alguna de les funcions del lineal és...",
+    "options": [
+      "Totes les respostes són correctes.",
+      "oferir el producte al client i facilitar-li l'elecció.",
+      "provocar la compra per part del client.",
+      "atraure l'atenció de la clientela."
+    ],
+    "answer": "Totes les respostes són correctes"
+  }, {
+    "question": "Els instruments quantitatius per a l'anàlisi de la rendibilitat del lineal...",
+    "options": [
+      "tenen més capacitat de síntesi que els instruments qualitatius.",
+      "recullen dades parcials però són fàcils de calcular i d'interpretar.",
+      "Totes les respostes són correctes.",
+      "són més objectius que els criteris qualitatius."
+    ],
+    "answer": "Totes les respostes són correctes."
+  },
+  {
+    "question": "La col·locació dels productes en el lineal segons la seva notorietat o rotació amb l'objectiu de guiar la circulació dels clients capa a les zones fredes o extrems del mobiliari, s'anomena implantació...",
+    "options": [
+      "complementària o creuada.",
+      "mixta.",
+      "en xarxa o malla.",
+      "desordenada o en vrac."
+    ],
+    "answer": "en xarxa o malla."
+  },  {
+    "question": "El nivell intermedi del lineal està situat a una alçada...",
+    "options": [
+      "170 cm des del terra.",
+      "d’entre 80 i 170 cm des del terra.",
+      "50 cm des del sostre.",
+      "d’entre 80 i 120 cm des del terra."
+    ],
+    "answer": "d’entre 80 i 120 cm des del terra."
+  }, {
+    "question": "La presentació del lineal en què hi ha productes d'una mateixa família en tots els nivells s'anomena...",
+    "options": [
+      "aleatòria.",
+      "vertical.",
+      "mixta.",
+      "horitzontal."
+    ],
+    "answer": "vertical."
+  }, {
+    "question": "La valoració d'una categoria implica, entre d'altres qüestions, ...",
+    "options": [
+      "definir les estratègies i les tàctiques que s'aplicaran.",
+      "Totes les respostes són correctes.",
+      "avaluar el mercat i els compradors.",
+      "concretar els paràmetres a partir dels quals s'avaluaran els resultats."
+    ],
+    "answer": "avaluar el mercat i els compradors."
+  }, {
+    "question": "L'anàlisi de la rendibilitat del lineal té per objectiu...",
+    "options": [
+      "Totes les repostes són correctes.",
+      "augmentar o disminuir l'espai de lineal assignat als productes, o bé canviar-los de zona o nivell.",
+      "analitzar l'evolució de les famílies i subfamílies de productes per corregir possibles desviacions.",
+      "introduir i eliminar productes de l'assortiment."
+    ],
+    "answer": "Totes les repostes són correctes."
+  },
+  {
+    "question": "El repartiment del lineal basat en el ritme al qual es venen les unitats es basa en...",
+    "options": [
+      "la xifra de vendes.",
+      "el benefici brut.",
+      "la rotació.",
+      "el període de reposició."
+    ],
+    "answer": "la rotació."
+  }, {
+    "question": "Els planogrames pictòrics són diagrames...",
+    "options": [
+      "en 2 dimensions.",
+      "en 3 dimensions.",
+      "amb caselles de text.",
+      "tridimensionals amb caselles de text."
+    ],
+    "answer": "en 2 dimensions."
   },
   {
     "question": "¿Cuál de estos elementos NO forma parte del lineal?",
@@ -18,6 +101,63 @@
       "Vitrinas"
     ],
     "answer": "Cajas registradoras"
+  }, {
+    "question": "L'objectiu de la gestió per categories és millorar els resultats dels...",
+    "options": [
+      "distribuïdors i consumidors.",
+      "fabricants.",
+      "fabricants i distribïdors.",
+      "distribuïdors."
+    ],
+    "answer": "fabricants i distribïdors."
+  },
+   {
+    "question": "El conjunt de béns i serveis que els consumidors perceben com a complementaris o substitutius respecte a la satisfacció d'una necessitat concreta s'anomena...",
+    "options": [
+      "categoria o família de productes.",
+      "univers de productes.",
+      "categoria de productes.",
+      "assortiment."
+    ],
+    "answer": "categoria de productes."
+  },{
+    "question": "L'estratègia d'implantació del lineal que consisteix a repetir la mateixa referència en el nivell immediatament superior o inferior del lineal, es basa en...",
+    "options": [
+      "la seguretat i comoditat de la compra.",
+      "l'estoc de seguretat.",
+      "els productes d'atracció.",
+      "el tipus de compra."
+    ],
+    "answer": "l'estoc de seguretat."
+  }, {
+    "question": "La rendibilitat és...",
+    "options": [
+      "la diferència entre els ingressos obtinguts i les despeses que s’han generat.",
+      "la relació entre el benefici obtingut i la quantitat que s’inverteix per aconseguir-lo.",
+      "més elevada si els ingressos són negatius.",
+      "més alta com més altes són les despeses."
+    ],
+    "answer": "la relació entre el benefici obtingut i la quantitat que s’inverteix per aconseguir-lo."
+  },{
+    "question": "Per als fabricants, el lineal és un instrument...",
+    "options": [
+      "de comunicació per fer front als productes competidors i diferenciar-se.",
+      "facilitador del procés d'elecció i compra.",
+      "per a l'impuls de les vendes.",
+      "Totes les respostes són correctes."
+    ],
+    "answer": "de comunicació per fer front als productes competidors i diferenciar-se."
+  },
+  {
+  
+    "question": "La zona vertical del lineal amb un potencial de vendes més gran es troba a...",
+    "options": [
+      "la part inicial del mobiliari segons el sentit de circulació.",
+      "la part final del mobiliari segons el sentit de circulació.",
+      "la part central del mobiliari.",
+      "l'esquerra del mobiliari o a la dreta, segons el sentit de circulació."
+    ],
+    "answer": "la part central del mobiliari."
   },
   {
     "question": "¿Qué función principal cumple el lineal en venta de autoservicio?",
