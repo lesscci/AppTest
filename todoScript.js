@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", function () {
       .map(
         (tema) => `
             <label>
-                <input type="checkbox" name="selectedThemes" value="${tema}" checked>
+                <input type="checkbox" name="selectedThemes" value="${tema}" >
                 Tema ${tema}
             </label>
         `

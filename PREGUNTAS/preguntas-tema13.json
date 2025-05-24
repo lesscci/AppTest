@@ -81,16 +81,7 @@
     ],
     "answer": "reembors."
   },
-  {
-    "question": "Els centres d'atenció i informació en el punt de venda...",
-    "options": [
-      "Totes les respostes són correctes.",
-      "atenen reclamacions i queixes.",
-      "proporcionen informació als clients i usuaris.",
-      "recullen i gestionen enquestes de satisfacció de la clientela."
-    ],
-    "answer": "Totes les respostes són correctes."
-  },
+
   {
     "question": "La normativa de prevenció de riscos laborals regula les actuacions necessàries per a...",
     "options": [
@@ -317,17 +308,7 @@
     "explication": "Ejemplo: Enviar promociones de tratamientos capilares solo a clientas con cabello largo."
   },
 
-  {
-    "question": "¿Qué canal de márqueting directo se considera actualmente invasivo?",
-    "options": [
-      "Correo electrónico personalizado",
-      "Llamadas telefónicas",
-      "WhatsApp Business",
-      "Flyers en punto de venta"
-    ],
-    "answer": "Llamadas telefónicas",
-    "explication": "El texto menciona que es percibido como intrusivo vs. email o SMS."
-  },
+
   {
     "question": "Un ejemplo de márqueting directo con alta apertura pero bajo coste es:",
     "options": [
@@ -340,17 +321,6 @@
     "explication": "Mayor probabilidad de lectura vs. llamadas telefónicas."
   },
 
-  {
-    "question": "En una peluquería, ¿a quién dirigirías una promoción de hidratación para cabello encrespado?",
-    "options": [
-      "Todos los clientes sin filtrar",
-      "Solo clientas con cabello largo y frecuentes",
-      "Hombres con cabello corto",
-      "Nuevos clientes únicamente"
-    ],
-    "answer": "Solo clientas con cabello largo y frecuentes",
-    "explication": "Segmentación precisa aumenta la efectividad."
-  },
   {
     "question": "¿Qué ventaja tiene la personalización en márqueting directo?",
     "options": [
@@ -523,17 +493,7 @@
     "answer": "Influir en prescriptores",
     "explication": "Médicos recomendarán el producto si confían en él."
   },
-  {
-    "question": "¿Qué instrumento de comunicación refuerza la imagen de marca a largo plazo?",
-    "options": [
-      "Publicidad",
-      "Promoción de ventas '50% descuento'",
-      "PLV en tiendas",
-      "Márqueting directo"
-    ],
-    "answer": "Publicidad",
-    "explication": "Las promociones actúan a corto plazo; la publicidad construye reputación."
-  },
+ 
 
   {
     "question": "Un anuncio en Instagram con influencers + un stand interactivo en tienda son ejemplo de:",

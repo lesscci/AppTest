@@ -218,16 +218,8 @@
     ],
     "answer": "Introducir un producto nuevo"
   },
-  {
-    "question": "¿Qué caracteriza a los expositores de sobremesa?",
-    "options": [
-      "Grandes dimensiones",
-      "Ubicación en pasillos centrales",
-      "Pequeño tamaño y colocación sobre mostradores",
-      "Uso exclusivo para productos refrigerados"
-    ],
-    "answer": "Pequeño tamaño y colocación sobre mostradores"
-  },
+
+  
   {
     "question": "¿Qué función cumple el lineal para los fabricantes?",
     "options": [
@@ -487,16 +479,7 @@
     ],
     "answer": "El porcentaje de espacio ocupado por productos en el lineal"
   },
-  {
-    "question": "¿Qué es el trade marketing?",
-    "options": [
-      "Publicidad en redes sociales",
-      "Cooperación estratégica entre fabricante y distribuidor",
-      "Venta directa al consumidor",
-      "Marketing internacional"
-    ],
-    "answer": "Cooperación estratégica entre fabricante y distribuidor"
-  },
+
   {
     "question": "¿Qué caracteriza a los productos de exposición permanente?",
     "options": [
@@ -916,16 +899,7 @@
     ],
     "answer": "Valoración de la categoría"
   },
-  {
-    "question": "En la implantación de productos pesados, ¿qué criterio se aplica?",
-    "options": [
-      "Colocarlos en el nivel superior",
-      "Ubicarlos en el nivel más bajo para fácil acceso",
-      "Mezclarlos con productos frágiles",
-      "Exponerlos solo en zonas promocionales"
-    ],
-    "answer": "Ubicarlos en el nivel más bajo para fácil acceso"
-  },
+
   {
     "question": "En el repartiment del lineal segons el benefici brut, ¿què es compara per calcular l'índex?",
     "options": [

@@ -49,16 +49,7 @@
       ],
       "answer": "reembors."
     },
-    {
-      "question": "Els centres d'atenció i informació en el punt de venda...",
-      "options": [
-        "Totes les respostes són correctes.",
-        "atenen reclamacions i queixes.",
-        "proporcionen informació als clients i usuaris.",
-        "recullen i gestionen enquestes de satisfacció de la clientela."
-      ],
-      "answer": "Totes les respostes són correctes."
-    },
+   
     {
       "question": "La normativa de prevenció de riscos laborals regula les actuacions necessàries per a...",
       "options": [
@@ -780,16 +771,7 @@
         ],
         "answer": "Productos de reclam"
       },
-      {
-        "question": "¿Qué criterio NO se usa normalmente para clasificar productos?",
-        "options": [
-          "Similitudes",
-          "Origen",
-          "Uso",
-          "Color favorito del vendedor"
-        ],
-        "answer": "Color favorito del vendedor"
-      },
+  
       {
         "question": "¿Qué caracteriza a un producto aumentado?",
         "options": [
@@ -900,16 +882,7 @@
           ],
           "answer": "Precio de venta al público"
         },
-        {
-          "question": "¿Qué tipo de embalaje está en contacto directo con el producto?",
-          "options": [
-            "Embalaje primario",
-            "Embalaje secundario",
-            "Embalaje terciario",
-            "Embalaje de transporte"
-          ],
-          "answer": "Embalaje primario"
-        },
+   
         {
           "question": "¿Qué función cumple el embalaje secundario?",
           "options": [
