@@ -55,7 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Cargar todas las preguntas de los temas
   async function loadAllQuestions() {
     try {
-      const temas = [1, 2, 3, 4, 5]; // Ajusta según tus temas
+      const temas = [1, 2, 3, 4, 5, 6,7,8,9,10,11,12,13]; // Ajusta según tus temas
       const requests = temas.map((tema) =>
         fetch(`../PREGUNTAS/preguntas-tema${tema}.json`)
           .then((res) => res.json())
